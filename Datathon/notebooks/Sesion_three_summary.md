@@ -13,7 +13,6 @@
 
 * Were there any interesting discoveries you made today and how will this impact what your team chooses to do next?
 
-  * Trips datasets (Uber, MTA, taxis)
   * The nta_code attribute is presented in zones, demographic and geographic datasets.
   * Geographic has a 1:m relationship with and zones and demographic dataset.
   * The geographic dataset has the delimitation coordinates of the regions of NYC, which can be generated using geopandas.
