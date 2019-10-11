@@ -52,8 +52,7 @@ def dateFunction(file):
 
 
 datesWeather = dateFunction(weather)
-datesuber2014 = dateFunction(uber2014)
-datesuber2015 = dateFunction(uber2015)
+datesuber = dateFunction(uber2014)+ dateFunction(uber2015)
 datesgreenTrips = dateFunction(greenTrips)
 datesyellowTrips = dateFunction(yellowTrips)
 
@@ -61,7 +60,7 @@ datesyellowTrips = dateFunction(yellowTrips)
 # In[41]:
 
 
-datesinAll = set(datesWeather) & set(datesuber2014) & set(datesuber2015) & set(datesgreenTrips) & set(datesyellowTrips)
+datesinAll = set(datesWeather) & set(datesuber) & set(datesgreenTrips) & set(datesyellowTrips)
 
 
 # In[53]:
