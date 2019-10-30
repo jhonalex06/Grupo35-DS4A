@@ -41,3 +41,5 @@
 
 ***¿Conocer la dinámica de las ofertas inmobiliarias en Bogotá ?***
 ***¿En que zonas podria motar un negocio de este tipo?***
+
+***Como identificar las mejores zonas para comprar segun la educación, el transporte y el precio de la vivienda.***
