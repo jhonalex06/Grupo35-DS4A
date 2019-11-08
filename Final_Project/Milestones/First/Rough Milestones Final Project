@@ -1,0 +1,30 @@
+In this document we will present the rough milestones weekly for the completion of the final project
+
+Week 4 - 28/10
+
+The adquisition, webscrapping and downloading of the databases should be completed (Scripts will be kept running).
+We have began to understand and filter the data
+
+Week 5 - 04/11
+
+We should already have all the data downloaded and ready to work. In this week we will do the cleaning, normalization and
+start joining all the data by the zone. Mockup of the Dashboard. All proper data architectures should be already done
+
+Week 6 - 11/11
+
+We would do all the exploratory data analysis of the joined dataframe(s), to find proper correlations, filter some features
+and begin to decide the appropiate models to use. 
+
+Week 7 - 18/11
+
+We should run the model and do the proper iterations of it, adjusting the hyperparameters. At this instance we should have already
+all the results to make the visualizations
+
+Week 8 - 25/11
+
+We will begin to build the dashboards with visualizations by different timeframes. Interactivity will be a key point of all of them
+
+Week 9 - 02/12
+
+We expect to get some peer review from other groups. Also the strategy for the final 
+presentation would be defined.  This is the week of the final presentation, so the last milestone will be to pack our bags for Cartagena!

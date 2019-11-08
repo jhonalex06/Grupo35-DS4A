@@ -1,0 +1,359 @@
+,ntacode,ntaname,count
+0,BK43,Midwood,887
+1,BK75,Bedford,9736
+2,BX40,Fordham South,142
+3,BK88,Borough Park,996
+4,BK96,Rugby-Remsen Village,865
+5,QN52,East Flushing,149
+6,QN53,Woodhaven,495
+7,BK44,Madison,375
+8,QN48,Auburndale,53
+9,BX44,Williamsbridge-Olinville,134
+10,QN51,Murray Hill,560
+11,QN27,East Elmhurst,1153
+12,BK81,Brownsville,369
+13,BK85,East New York (Pennsylvania Ave),54
+14,BK41,Kensington-Ocean Parkway,1024
+15,BX46,Parkchester,170
+16,BK95,Erasmus,302
+17,QN33,Cambria Heights,86
+18,BK91,East Flatbush-Farragut,462
+19,BK46,Ocean Parkway South,223
+20,BK93,Starrett City,0
+21,BK93,Starrett City,312
+22,BX35,Morrisania-Melrose,182
+23,QN29,Elmhurst,642
+24,MN22,East Village,52102
+25,QN44,Glen Oaks-Floral Park-New Hyde Park,301
+26,BX33,Longwood,61
+27,MN32,Yorkville,0
+28,MN32,Yorkville,57466
+29,MN40,Upper East Side-Carnegie Hill,84293
+30,BK40,Windsor Terrace,2180
+31,QN12,Hammels-Arverne-Edgemere,167
+32,BX98,Rikers Island,0
+33,BX27,Hunts Point,375
+34,QN28,Jackson Heights,2912
+35,BK27,Bath Beach,237
+36,SI36,Old Town-Dongan Hills-South Beach,10
+37,BK42,Flatbush,5226
+38,BX34,Melrose South-Mott Haven North,366
+39,BK79,Ocean Hill,810
+40,MN09,Morningside Heights,10122
+41,BX55,Soundview-Bruckner,138
+42,BX31,Allerton-Pelham Gardens,126
+43,QN06,Jamaica Estates-Holliswood,454
+44,QN07,Hollis,57
+45,BK58,Flatlands,325
+46,BK82,East New York,949
+47,BX30,Kingsbridge Heights,225
+48,QN02,Springfield Gardens North,197
+49,BK50,Canarsie,0
+50,BK50,Canarsie,629
+51,BX43,Norwood,70
+52,MN06,Manhattanville,1334
+53,MN23,West Village,139633
+54,SI14,Grasmere-Arrochar-Ft. Wadsworth,17
+55,QN34,Queens Village,445
+56,MN27,Chinatown,24581
+57,BX10,Pelham Bay-Country Club-City Island,0
+58,BX10,Pelham Bay-Country Club-City Island,29
+59,BX10,Pelham Bay-Country Club-City Island,148
+60,BX10,Pelham Bay-Country Club-City Island,0
+61,BX10,Pelham Bay-Country Club-City Island,0
+62,BX10,Pelham Bay-Country Club-City Island,25
+63,BX10,Pelham Bay-Country Club-City Island,0
+64,BX10,Pelham Bay-Country Club-City Island,0
+65,BX62,Woodlawn-Wakefield,150
+66,QN71,Old Astoria,3448
+67,QN70,Astoria,8154
+68,MN50,Stuyvesant Town-Cooper Village,0
+69,MN50,Stuyvesant Town-Cooper Village,15274
+70,BK30,Dyker Heights,826
+71,BK28,Bensonhurst West,598
+72,SI22,West New Brighton-New Brighton-St. George,92
+73,SI35,New Brighton-Silver Lake,33
+74,SI07,Westerleigh,26
+75,BX36,University Heights-Morris Heights,239
+76,QN46,Bayside-Bayside Hills,745
+77,BK61,Crown Heights North,16826
+78,BX14,East Concourse-Concourse Village,439
+79,QN26,North Corona,324
+80,BK83,Cypress Hills-City Line,260
+81,QN37,Kew Gardens Hills,384
+82,QN38,Pomonok-Flushing Heights-Hillcrest,848
+83,BK73,North Side-South Side,78370
+84,MN28,Lower East Side,0
+85,MN28,Lower East Side,0
+86,MN28,Lower East Side,0
+87,MN28,Lower East Side,0
+88,MN28,Lower East Side,0
+89,MN28,Lower East Side,18707
+90,BK76,Greenpoint,12462
+91,BX29,Spuyten Duyvil-Kingsbridge,963
+92,BK34,Sunset Park East,1196
+93,MN01,Marble Hill-Inwood,0
+94,MN01,Marble Hill-Inwood,630
+95,MN01,Marble Hill-Inwood,78
+96,BK25,Homecrest,1581
+97,MN35,Washington Heights North,1558
+98,QN72,Steinway,7462
+99,BX39,Mott Haven-Port Morris,0
+100,BX39,Mott Haven-Port Morris,0
+101,BX39,Mott Haven-Port Morris,1072
+102,BK23,West Brighton,67
+103,MN03,Central Harlem North-Polo Grounds,3211
+104,QN68,Queensbridge-Ravenswood-Long Island City,2998
+105,SI45,New Dorp-Midland Beach,7
+106,BX28,Van Cortlandt Village,349
+107,BX13,Co-op City,280
+108,BK31,Bay Ridge,3979
+109,BK32,Sunset Park West,3897
+110,BK68,Fort Greene,13570
+111,MN24,SoHo-TriBeCa-Civic Center-Little Italy,67275
+112,MN25,Battery Park City-Lower Manhattan,0
+113,MN25,Battery Park City-Lower Manhattan,0
+114,MN25,Battery Park City-Lower Manhattan,0
+115,MN25,Battery Park City-Lower Manhattan,0
+116,MN25,Battery Park City-Lower Manhattan,0
+117,MN25,Battery Park City-Lower Manhattan,0
+118,MN25,Battery Park City-Lower Manhattan,0
+119,MN25,Battery Park City-Lower Manhattan,119949
+120,MN15,Clinton,65683
+121,BK64,Prospect Heights,6273
+122,QN76,Baisley Park,420
+123,QN01,South Jamaica,126
+124,QN56,Ozone Park,180
+125,BK45,Georgetown-Marine Park-Bergen Beach-Mill Basin,529
+126,BK19,Brighton Beach,163
+127,BK29,Bensonhurst East,610
+128,BX08,West Farms-Bronx River,134
+129,BK17,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,961
+130,BX59,Westchester-Unionport,190
+131,SI25,Oakwood-Oakwood Beach,6
+132,SI08,Grymes Hill-Clifton-Fox Hills,32
+133,BK37,Park Slope-Gowanus,29632
+134,SI37,Stapleton-Rosebank,82
+135,QN41,Fresh Meadows-Utopia,167
+136,QN43,Bellerose,137
+137,BK35,Stuyvesant Heights,5600
+138,BK90,East Williamsburg,16617
+139,QN20,Ridgewood,2803
+140,MN33,East Harlem South,6120
+141,QN18,Rego Park,847
+142,MN34,East Harlem North,0
+143,MN34,East Harlem North,0
+144,MN34,East Harlem North,0
+145,MN34,East Harlem North,0
+146,MN34,East Harlem North,4453
+147,BK77,Bushwick North,12570
+148,BK78,Bushwick South,8838
+149,MN11,Central Harlem South,4533
+150,QN23,College Point,0
+151,QN23,College Point,456
+152,MN17,Midtown-Midtown South,202009
+153,QN19,Glendale,629
+154,SI11,Charleston-Richmond Valley-Tottenville,3
+155,SI99,park-cemetery-etc-Staten Island,0
+156,SI99,park-cemetery-etc-Staten Island,0
+157,SI99,park-cemetery-etc-Staten Island,0
+158,SI05,New Springville-Bloomfield-Travis,21
+159,SI24,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,39
+160,QN55,South Ozone Park,954
+161,QN57,Lindenwood-Howard Beach,0
+162,QN57,Lindenwood-Howard Beach,0
+163,QN57,Lindenwood-Howard Beach,0
+164,QN57,Lindenwood-Howard Beach,0
+165,QN57,Lindenwood-Howard Beach,591
+166,BK60,Prospect Lefferts Gardens-Wingate,5745
+167,MN20,Murray Hill-Kips Bay,0
+168,MN20,Murray Hill-Kips Bay,51128
+169,SI12,Mariner's Harbor-Arlington-Port Ivory-Graniteville,0
+170,SI12,Mariner's Harbor-Arlington-Port Ivory-Graniteville,5
+171,BK63,Crown Heights South,626
+172,BK09,Brooklyn Heights-Cobble Hill,11652
+173,SI28,Port Richmond,0
+174,SI28,Port Richmond,0
+175,SI28,Port Richmond,0
+176,SI28,Port Richmond,0
+177,SI28,Port Richmond,0
+178,SI28,Port Richmond,0
+179,SI28,Port Richmond,0
+180,SI28,Port Richmond,7
+181,QN31,Hunters Point-Sunnyside-West Maspeth,29644
+182,BX01,Claremont-Bathgate,210
+183,BX37,Van Nest-Morris Park-Westchester Square,366
+184,BX49,Pelham Parkway,378
+185,BX41,Mount Hope,215
+186,QN47,Ft. Totten-Bay Terrace-Clearview,283
+187,QN49,Whitestone,370
+188,MN19,Turtle Bay-East Midtown,0
+189,MN19,Turtle Bay-East Midtown,0
+190,MN19,Turtle Bay-East Midtown,99958
+191,MN31,Lenox Hill-Roosevelt Island,355
+192,MN31,Lenox Hill-Roosevelt Island,36632
+193,QN50,Elmhurst-Maspeth,369
+194,QN63,Woodside,834
+195,QN08,St. Albans,347
+196,QN66,Laurelton,88
+197,MN04,Hamilton Heights,1747
+198,QN61,Jamaica,410
+199,QN54,Richmond Hill,727
+200,QN35,Briarwood-Jamaica Hills,185
+201,QN60,Kew Gardens,773
+202,QN21,Middle Village,824
+203,QN30,Maspeth,544
+204,MN12,Upper West Side,32347
+205,MN14,Lincoln Square,36768
+206,BX07,Bronxdale,88
+207,QN42,Oakland Gardens,280
+208,QN45,Douglas Manor-Douglaston-Little Neck,333
+209,SI01,Annadale-Huguenot-Prince's Bay-Eltingville,0
+210,SI54,Great Kills,8
+211,BK21,Seagate-Coney Island,694
+212,QN25,Corona,617
+213,QN25,Corona,206
+214,BX52,Schuylerville-Throgs Neck-Edgewater Park,0
+215,BX52,Schuylerville-Throgs Neck-Edgewater Park,0
+216,BX52,Schuylerville-Throgs Neck-Edgewater Park,559
+217,BK26,Gravesend,236
+218,BX17,East Tremont,194
+219,BX22,North Riverdale-Fieldston-Riverdale,1743
+220,BX05,Bedford Park-Fordham North,367
+221,BX06,Belmont,905
+222,BX03,Eastchester-Edenwald-Baychester,101
+223,QN10,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,31
+224,QN10,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,144
+225,QN10,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,7
+226,BX75,Crotona Park East,149
+227,SI32,Rossville-Woodrow,2
+228,SI48,Arden Heights,4
+229,QN15,Far Rockaway-Bayswater,192
+230,BX09,Soundview-Castle Hill-Clason Point-Harding Park,64
+231,BX09,Soundview-Castle Hill-Clason Point-Harding Park,349
+232,BX09,Soundview-Castle Hill-Clason Point-Harding Park,0
+233,BX99,park-cemetery-etc-Bronx,4
+234,BX99,park-cemetery-etc-Bronx,0
+235,BX99,park-cemetery-etc-Bronx,5
+236,BX99,park-cemetery-etc-Bronx,18
+237,BX99,park-cemetery-etc-Bronx,0
+238,BX99,park-cemetery-etc-Bronx,0
+239,BX99,park-cemetery-etc-Bronx,0
+240,BX99,park-cemetery-etc-Bronx,0
+241,BX99,park-cemetery-etc-Bronx,0
+242,BX99,park-cemetery-etc-Bronx,0
+243,BX99,park-cemetery-etc-Bronx,0
+244,BX99,park-cemetery-etc-Bronx,0
+245,BX99,park-cemetery-etc-Bronx,0
+246,BX99,park-cemetery-etc-Bronx,0
+247,BX99,park-cemetery-etc-Bronx,0
+248,BX99,park-cemetery-etc-Bronx,0
+249,BX99,park-cemetery-etc-Bronx,0
+250,BX99,park-cemetery-etc-Bronx,10
+251,BX99,park-cemetery-etc-Bronx,693
+252,BK33,Carroll Gardens-Columbia Street-Red Hook,25933
+253,MN99,park-cemetery-etc-Manhattan,0
+254,MN99,park-cemetery-etc-Manhattan,0
+255,MN99,park-cemetery-etc-Manhattan,0
+256,MN99,park-cemetery-etc-Manhattan,0
+257,MN99,park-cemetery-etc-Manhattan,0
+258,MN99,park-cemetery-etc-Manhattan,0
+259,MN99,park-cemetery-etc-Manhattan,0
+260,MN99,park-cemetery-etc-Manhattan,0
+261,MN99,park-cemetery-etc-Manhattan,0
+262,MN99,park-cemetery-etc-Manhattan,0
+263,MN99,park-cemetery-etc-Manhattan,6808
+264,MN99,park-cemetery-etc-Manhattan,2334
+265,MN99,park-cemetery-etc-Manhattan,49
+266,MN99,park-cemetery-etc-Manhattan,48
+267,MN99,park-cemetery-etc-Manhattan,0
+268,QN05,Rosedale,209
+269,QN22,Flushing,297
+270,QN62,Queensboro Hill,279
+271,MN13,Hudson Yards-Chelsea-Flatiron-Union Square,138869
+272,MN21,Gramercy,8731
+273,BK38,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,32191
+274,BK69,Clinton Hill,15241
+275,BK72,Williamsburg,705
+276,BK99,park-cemetery-etc-Brooklyn,11
+277,BK99,park-cemetery-etc-Brooklyn,0
+278,BK99,park-cemetery-etc-Brooklyn,0
+279,BK99,park-cemetery-etc-Brooklyn,0
+280,BK99,park-cemetery-etc-Brooklyn,0
+281,BK99,park-cemetery-etc-Brooklyn,0
+282,BK99,park-cemetery-etc-Brooklyn,0
+283,BK99,park-cemetery-etc-Brooklyn,0
+284,BK99,park-cemetery-etc-Brooklyn,0
+285,BK99,park-cemetery-etc-Brooklyn,0
+286,BK99,park-cemetery-etc-Brooklyn,0
+287,BK99,park-cemetery-etc-Brooklyn,0
+288,BK99,park-cemetery-etc-Brooklyn,264
+289,BK99,park-cemetery-etc-Brooklyn,0
+290,BK99,park-cemetery-etc-Brooklyn,0
+291,BK99,park-cemetery-etc-Brooklyn,0
+292,BK99,park-cemetery-etc-Brooklyn,301
+293,BK99,park-cemetery-etc-Brooklyn,0
+294,BK99,park-cemetery-etc-Brooklyn,0
+295,BK99,park-cemetery-etc-Brooklyn,0
+296,BK99,park-cemetery-etc-Brooklyn,0
+297,BK99,park-cemetery-etc-Brooklyn,0
+298,BK99,park-cemetery-etc-Brooklyn,0
+299,BK99,park-cemetery-etc-Brooklyn,0
+300,BK99,park-cemetery-etc-Brooklyn,0
+301,BK99,park-cemetery-etc-Brooklyn,0
+302,BK99,park-cemetery-etc-Brooklyn,0
+303,BK99,park-cemetery-etc-Brooklyn,0
+304,BK99,park-cemetery-etc-Brooklyn,0
+305,BK99,park-cemetery-etc-Brooklyn,0
+306,BK99,park-cemetery-etc-Brooklyn,27
+307,BK99,park-cemetery-etc-Brooklyn,1136
+308,BK99,park-cemetery-etc-Brooklyn,0
+309,BK99,park-cemetery-etc-Brooklyn,19
+310,BK99,park-cemetery-etc-Brooklyn,0
+311,BK99,park-cemetery-etc-Brooklyn,461
+312,MN36,Washington Heights South,5632
+313,BX26,Highbridge,354
+314,BX63,West Concourse,985
+315,QN17,Forest Hills,1320
+316,QN99,park-cemetery-etc-Queens,25
+317,QN99,park-cemetery-etc-Queens,0
+318,QN99,park-cemetery-etc-Queens,0
+319,QN99,park-cemetery-etc-Queens,0
+320,QN99,park-cemetery-etc-Queens,0
+321,QN99,park-cemetery-etc-Queens,0
+322,QN99,park-cemetery-etc-Queens,0
+323,QN99,park-cemetery-etc-Queens,0
+324,QN99,park-cemetery-etc-Queens,0
+325,QN99,park-cemetery-etc-Queens,0
+326,QN99,park-cemetery-etc-Queens,0
+327,QN99,park-cemetery-etc-Queens,0
+328,QN99,park-cemetery-etc-Queens,0
+329,QN99,park-cemetery-etc-Queens,0
+330,QN99,park-cemetery-etc-Queens,0
+331,QN99,park-cemetery-etc-Queens,0
+332,QN99,park-cemetery-etc-Queens,0
+333,QN99,park-cemetery-etc-Queens,0
+334,QN99,park-cemetery-etc-Queens,0
+335,QN99,park-cemetery-etc-Queens,0
+336,QN99,park-cemetery-etc-Queens,0
+337,QN99,park-cemetery-etc-Queens,0
+338,QN99,park-cemetery-etc-Queens,0
+339,QN99,park-cemetery-etc-Queens,1
+340,QN99,park-cemetery-etc-Queens,1
+341,QN99,park-cemetery-etc-Queens,155
+342,QN99,park-cemetery-etc-Queens,36
+343,QN99,park-cemetery-etc-Queens,4
+344,QN99,park-cemetery-etc-Queens,2
+345,QN99,park-cemetery-etc-Queens,5695
+346,QN99,park-cemetery-etc-Queens,41
+347,QN99,park-cemetery-etc-Queens,9
+348,QN99,park-cemetery-etc-Queens,45
+349,QN03,Springfield Gardens South-Brookville,370
+350,QN98,Airport,0
+351,QN98,Airport,0
+352,QN98,Airport,0
+353,QN98,Airport,0
+354,QN98,Airport,101119
+355,QN98,Airport,0
+356,QN98,Airport,0
+357,QN98,Airport,46572
