@@ -87,7 +87,7 @@ for ciudad in list_ciudad:
                         save_df(df_url_inmuebles_new,'2.csv/'+name_file+'.csv','a',False)
                     else:
                         save_df(df_url_inmuebles_new,'2.csv/'+name_file+'.csv','w',True)
-                            
+                    print("Page ",i)        
                 print("    Fin num_banos",mnumbano)
             print("   Fin tipo_inmueble",mtipoinmueble)
         print("  Fin tipo_negocio",mtiponegocio)
