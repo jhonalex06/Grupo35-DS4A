@@ -55,7 +55,7 @@ print("Tipo inmueble:   ",list_mtipoinmueble)
 print("Banos:           ",list_banos)
 
 
-for ciudad in list_ciudad:
+'''for ciudad in list_ciudad:
     print("Inicio Ciudad",ciudad)
     for mtiponegocio in list_mtiponegocio:
         print("  Inicio tipo_negocio",mtiponegocio)
@@ -66,6 +66,7 @@ for ciudad in list_ciudad:
                 # Numero de paginas a consultar
                 for i in range(1,200):
                     list_total = []
+                    time.sleep(1)
                     if i%10 == 0:
                         time.sleep(10)
                     df_url_inmuebles_new = pd.DataFrame( columns=['ciudad','tipo_negocio','tipo_inmueble','fecha_consulta','currentPage','url_inmuebles'])
@@ -87,14 +88,11 @@ for ciudad in list_ciudad:
                         save_df(df_url_inmuebles_new,'2.csv/'+name_file+'.csv','a',False)
                     else:
                         save_df(df_url_inmuebles_new,'2.csv/'+name_file+'.csv','w',True)
-                    print("Page ",i)        
+                            
                 print("    Fin num_banos",mnumbano)
             print("   Fin tipo_inmueble",mtipoinmueble)
         print("  Fin tipo_negocio",mtiponegocio)
-    print("Fin Ciudad",ciudad)
-
-'''data_link_url = pd.read_csv('2.csv/listado_link_inmuebles_metrocuadrado.csv')
-data_link_url_unique = pd.DataFrame(data_link_url['url_inmuebles'].unique(),columns=['url_inmuebles'])
+    print("Fin Ciudad",ciudad)'''
 
 list_atributes = {'nombreEmpresa','propertyId','propertyType','propertyTypeId',
                 'businessTypeId','hdnBusinessType','cityname','hdCompanyUrl',
@@ -102,66 +100,84 @@ list_atributes = {'nombreEmpresa','propertyId','propertyType','propertyTypeId',
                  'areaPrivada','areaConstruida','numHabitaciones','numBanos',
                  'numGaraje','nomBarrio','zona','nameProperty','latitude','longitude'}
 
+df_test = pd.read_csv('2.csv/listado_link_inmuebles_metrocuadrado.csv')
 
 atributs_list = {}
-cont = 0
-for inmueble in data_link_url_unique['url_inmuebles']:
-    cont += 1
-    if cont%10 == 0:
-        time.sleep(5)
+cont = 1
+name_file_all = 'variables_inmuebles'
+
+
+if (os.path.exists('2.csv/'+name_file_all+'.csv')):
+    old_inmueble_inmueble = pd.read_csv('2.csv/'+name_file_all+'.csv')
+else:
+    old_inmueble_inmueble= pd.DataFrame(columns=['Código web'])
+
+for inmueble in df_test['url_inmuebles']:
+
     name = inmueble.split('/')[5]
-    site_content = get_page_html(inmueble, name,0)
-    s = BeautifulSoup(site_content, 'html.parser') 
-    is_despublicado = 0
-    try:
-        if s.find("span",{'class':'label label-default'}).text =='Despublicado':
-            is_despublicado= 1
-    except:
-        is_despublicado= 0
 
-    if is_despublicado == 1:
-        print("despublicado")
-    else:
-        for atributs in s.find_all("input"):
-            id = atributs.get('id')
-            value = atributs.get('value')
-            if id is not None and value is not None:
-                if id in list_atributes:
-                    atributs_list[id] = str(value)
-                    #print(id+': '+value)
-        atributs_list['description'] = s.find('p',{'id':'pDescription'}).text
-        div = s.find('div',{'class':'m_property_info_details'})
-
+    if name not in list(old_inmueble_inmueble['Código web']):
+        print(name+':'+str(cont))
+        #time.sleep(1)
+        if cont%10 == 0:
+            time.sleep(10)
+        cont += 1
+        site_content = get_page_html(inmueble, name,0)
+        s = BeautifulSoup(site_content, 'html.parser') 
+        is_despublicado = 0
         try:
-            for each in div.find_all('dl'):
-                id = each.find('h3').text
-                text = each.find('h4').text
-                atributs_list[id] = str(text)
+            if s.find("span",{'class':'label label-default'}).text =='Despublicado':
+                is_despublicado= 1
         except:
-            print('m_property_info_details')
+            is_despublicado= 0
 
-        try:
-            div = s.find('div',{'class':'m_property_info_details more_info'})
-            for each in div.find_all('dl'):
-                id = each.find('h3').text
-                text = each.find('h4').text
-                atributs_list[id] = str(text)
-        except:
-            print('m_property_info_details more_info')
+        if is_despublicado == 1:
+            print("despublicado")
+        else:
+            for atributs in s.find_all("input"):
+                id = atributs.get('id')
+                value = atributs.get('value')
+                if id is not None and value is not None:
+                    if id in list_atributes:
+                        atributs_list[id] = str(value)
+                        #print(id+': '+value)
+            
+            atributs_list['description'] = s.find('p',{'id':'pDescription'}).text
+            div = s.find('div',{'class':'m_property_info_details'})
 
-        try:
-            cont = 1
-            for div in s.find_all('div',{'class':'m_property_info_details services complements'}):
-
-                for each in div.find_all('li'):
-                    id = 'complemento_'+str(cont)
+            try:
+                for each in div.find_all('dl'):
+                    id = each.find('h3').text
                     text = each.find('h4').text
                     atributs_list[id] = str(text)
-                    cont += 1
-        except:
-            print('m_property_info_details services complements')
+            except:
+                print('m_property_info_details')
 
-        asd = pd.DataFrame.from_dict(atributs_list, orient="index")
-        asd.to_csv('2.csv/'+name+'.csv')
-        for key in atributs_list.keys():
-        print(key+': '+atributs_list.get(key))'''
+            try:
+                div = s.find('div',{'class':'m_property_info_details more_info'})
+                for each in div.find_all('dl'):
+                    id = each.find('h3').text
+                    text = each.find('h4').text
+                    atributs_list[id] = str(text)
+            except:
+                print('m_property_info_details more_info')
+
+            try:
+                for div in s.find_all('div',{'class':'m_property_info_details services complements'}):
+                    text = ''
+                    for each in div.find_all('li'):
+                        text = each.find('h4').text +','+text
+                        #atributs_list[id] = str(text)
+                    atributs_list['complemento'] = str(text)
+            except:
+                print('m_property_info_details services complements')
+
+            new_inmueble = pd.DataFrame()
+            for key in atributs_list.keys():
+                new_inmueble[key] = [atributs_list.get(key)]
+            if (os.path.exists('2.csv/'+name_file_all+'.csv')):
+                old_inmueble = pd.read_csv('2.csv/'+name_file_all+'.csv')
+                new_inmueble = pd.concat([old_inmueble,new_inmueble])
+                save_df(new_inmueble,'2.csv/'+name_file_all+'.csv','w',True)
+            else:
+                save_df(new_inmueble,'2.csv/'+name_file_all+'.csv','w',True)
