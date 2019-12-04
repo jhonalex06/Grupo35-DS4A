@@ -1,0 +1,247 @@
+ID;ID Prestador *;Tipo Sistema;Tipo Infraestructura;Estructura;Estado en Red;Altura (m);Capacidad (m3);Detalle;Observaciones;Latitud;Longitud
+11;1;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2903;52.23;No. 1;;4.673639;-74.029806
+12;1;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2590;65.37;No. 2;;4.819861;-74.030861
+13;1;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;2904;3;;;4.673611;-74.029778
+14;1;Acueducto;Estructura de red;Bocatoma;Servicio;3097;0.76;;;4.660167;-74.029333
+15;1;Alcantarillado;Estructura de red;Descarga;Servicio;2832;0;;;4.675444;-74.030056
+21;2;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3086;640;Principal;;4.665636;-74.022158
+22;2;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3084;20;Verde;;4.665828;-74.022142
+23;2;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3172;100;Sector M;;4.650389;-74.025464
+24;2;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3053;280;De la planta de tratamiento de agua potable;;4.666097;-74.020842
+25;2;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3136;760;Tanque nuevo;;4.663008;-74.022547
+26;2;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3137;460;Las Moyas;;4.661856;-74.022497
+27;2;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3082;16;Antigua;;4.665939;-74.022089
+28;2;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3057;30;Nueva;;4.66595;-74.020947
+29;2;Acueducto;Estructura de red;Estación de bombeo;Servicio;3055;0;No. 1;;4.665972;-74.020794
+210;2;Acueducto;Estructura de red;Desarenador;Servicio;2995;2.5;Antiguo;;4.652975;-74.013697
+211;2;Acueducto;Estructura de red;Desarenador;Servicio;2985;9;Nuevo;;4.652508;-74.013586
+212;2;Acueducto;Estructura de red;Bocatoma;Servicio;2981;6.5;Río Teusaca;;4.66075;-74.013528
+213;2;Acueducto;Estructura de red;Bocatoma;Servicio;3230;1;Las Moyas;;4.659694;-74.024333
+214;2;Acueducto;Estructura de red;Bocatoma;Servicio;3000;9;Quebrada Amarilla;;4.652778;-74.014389
+215;2;Alcantarillado;Estructura de red;Descarga;Servicio;2927;0;No. 1;;4.672922;-74.018221
+216;2;Alcantarillado;Estructura de red;Descarga;Servicio;2904;0;No. 2, Quebrada La Sureña;;4.67418;-74.022554
+31;3;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3170;0;;;4.663169;-74.025558
+32;3;Acueducto;Estructura de red;Bocatoma;Servicio;3206;0;No. 1;;4.659694;-74.024333
+33;3;Acueducto;Estructura de red;Bocatoma;Servicio;3199;0;No. 2;;4.660389;-74.025083
+34;3;Acueducto;Estructura de red;Pileta;Servicio;3167;0;No. 8;;4.664367;-74.025606
+35;3;Acueducto;Estructura de red;Pileta;Servicio;3163;0;No. 2;;4.663364;-74.025031
+36;3;Acueducto;Estructura de red;Pileta;Servicio;3162;0;No. 3;;4.663728;-74.025086
+37;3;Acueducto;Estructura de red;Pileta;Servicio;3165;0;No. 1;;4.663225;-74.025086
+38;3;Acueducto;Estructura de red;Pileta;Servicio;3164;0;No. 4;;4.664797;-74.025536
+39;3;Acueducto;Estructura de red;Pileta;Servicio;3154;0;No. 5;;4.665075;-74.025094
+310;3;Acueducto;Estructura de red;Pileta;Servicio;3148;0;No. 6;;4.665458;-74.024853
+311;3;Acueducto;Estructura de red;Pileta;Servicio;3149;0;No. 7;;4.665919;-74.024956
+41;4;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3455;110.84;No. 1;;4.412111;-74.170361
+42;4;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Fuera de servicio;3456;0;No. 2;Tanque obsoleto;4.411917;-74.170306
+43;4;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3454;1.5;;;4.411972;-74.170333
+44;4;Acueducto;Estructura de red;Desarenador;Servicio;3574;3.65;;;4.415889;-74.184083
+45;4;Acueducto;Estructura de red;Bocatoma;Servicio;3582;4.94;;;4.416417;-74.1855
+51;5;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3446;38;Vereda Las Mercedes;;4.397243;-74.191652
+52;5;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3388;49.5;Vereda El Hato;;4.367306;-74.164
+53;5;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3386;37;Vereda Santa Barbara;;4.407917;-74.157972
+54;5;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3461;4;;;4.404565;-74.186355
+55;5;Acueducto;Estructura de red;Desarenador;Servicio;3465;3.38;;;4.396975;-74.193317
+56;5;Acueducto;Estructura de red;Bocatoma;Servicio;3474;19.55;;;4.397003;-74.193579
+61;6;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3097;40;No. 1;;4.479833;-74.15975
+62;6;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3194;89.38;No. 2;;4.481528;-74.164472
+63;6;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3156;0.5;No. 1;;4.481889;-74.162583
+64;6;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3193;5;No. 2;;4.481556;-74.164556
+65;6;Acueducto;Estructura de red;Desarenador;Servicio;3173;3.485;No. 1;;4.481833;-74.163667
+66;6;Acueducto;Estructura de red;Desarenador;Servicio;3207;3.03;No. 2;;4.481639;-74.16475
+67;6;Acueducto;Estructura de red;Bocatoma;Servicio;3183;5.077;No. 1;;4.481556;-74.164028
+68;6;Acueducto;Estructura de red;Bocatoma;Servicio;3208;0.77;No. 2;;4.481639;-74.164806
+71;7;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3260;110;No. 1;;4.506972;-74.175083
+72;7;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3176;105;No. 2;;4.528583;-74.184083
+73;7;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3261;4;;;4.506806;-74.174944
+74;7;Acueducto;Estructura de red;Desarenador;Servicio;3278;14.91;;;4.493389;-74.187972
+75;7;Acueducto;Estructura de red;Bocatoma;Servicio;3266;0;;;4.482556;-74.192917
+76;7;Acueducto;Estructura de red;Bocatoma;Servicio;3247;15.62;;;4.482361;-74.193083
+81;8;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3015;10;;;4.509222;-74.155528
+82;8;Acueducto;Estructura de red;Desarenador;Servicio;3020;19.11;;;4.509722;-74.156417
+83;8;Acueducto;Estructura de red;Bocatoma;Servicio;3018;29.19;No. 1;;4.509806;-74.156556
+84;8;Acueducto;Estructura de red;Bocatoma;Servicio;3019;0;No. 2;;4.509778;-74.156694
+85;8;Acueducto;Estructura de red;Bocatoma;Servicio;3046;2;No. 3;;4.508889;-74.157611
+91;9;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3397;98.3;No. 1;;4.431694;-74.172333
+92;9;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3374;47.5;No. 2;;4.443278;-74.157806
+93;9;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3397;2.93;;;4.431694;-74.172389
+94;9;Acueducto;Estructura de red;Desarenador;Servicio;3147;2.82;;;4.438778;-74.174611
+95;9;Acueducto;Estructura de red;Bocatoma;Servicio;3146;6.72;;;4.439083;-74.174861
+96;9;Alcantarillado;Estructura de red;Planta de tratamiento de agua residual;Servicio;2965;0;;;4.44753;-74.15441
+101;10;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3238;44;No. 3;;4.469806;-74.166778
+102;10;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3328;35;No. 1;;4.462389;-74.175694
+103;10;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3424;29;No. 2;;4.44525;-74.178806
+104;10;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3316;1;No. 1;;4.462389;-74.17575
+105;10;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3423;2;No. 2;;4.44525;-74.178806
+106;10;Acueducto;Estructura de red;Desarenador;Servicio;3309;3.055;No. 1;;4.462417;-74.176306
+107;10;Acueducto;Estructura de red;Desarenador;Servicio;3443;2.9;No. 2;;4.444639;-74.180056
+108;10;Acueducto;Estructura de red;Bocatoma;Servicio;3282;8.61;No. 1;;4.462444;-74.176444
+109;10;Acueducto;Estructura de red;Bocatoma;Servicio;3441;7.43;No. 2;;4.444667;-74.180472
+121;12;Acueducto;Estructura de red;Bocatoma;Servicio;3281;0;Quebrada Montanuela;No hay sistema de acueducto centralizado;4.579667;-74.024833
+122;12;Acueducto;Estructura de red;Bocatoma;Servicio;3292;0;Río Teusaca;No hay sistema de acueducto centralizado;4.573194;-74.018139
+123;12;Acueducto;Estructura de red;Bocatoma;Servicio;3188;0;Quebrada Farías;No hay sistema de acueducto centralizado;4.611278;-74.026583
+131;13;Acueducto;Instrumento de medición;Macromedidor;Servicio;2562;0;;;4.797361;-74.039389
+132;13;Acueducto;Instrumento de medición;Macromedidor;Servicio;2564;0;Macromedidor de la EAB;;4.798833;-74.039
+141;14;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3415;20;No. 21;;4.01525;-74.331111
+142;14;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3414;34;No. 22;;4.015167;-74.331139
+143;14;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2771;29;No. 23;;3.987083;-74.365611
+144;14;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3560;29;No. 1;;4.030722;-74.311389
+145;14;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3708;36;No. 3;;4.075944;-74.296417
+146;14;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3571;2;No. 2;;4.028861;-74.318333
+147;14;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3560;1.5;No. 2;;4.031694;-74.310917
+148;14;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3712;3;No. 3;;4.076639;-74.292139
+149;14;Acueducto;Estructura de red;Desarenador;Servicio;3569;2.75;No. 1;;4.050111;-74.296806
+1410;14;Acueducto;Estructura de red;Desarenador;Servicio;3653;1.5;No. 2;;4.048;-74.272917
+1411;14;Acueducto;Estructura de red;Desarenador;Servicio;3722;2.11;No. 3;;4.085028;-74.260306
+1412;14;Acueducto;Estructura de red;Bocatoma;Servicio;3587;6.57;No. 1;;4.050306;-74.296583
+1413;14;Acueducto;Estructura de red;Bocatoma;Servicio;3654;11.65;No. 2;;4.047917;-74.272167
+1414;14;Acueducto;Estructura de red;Bocatoma;Servicio;3643;7.07;No. 3;;4.084528;-74.259778
+1415;14;Alcantarillado;Estructura de red;Planta de tratamiento de agua residual;Servicio;2700;0;La Unión;;3.984694;-74.364222
+1416;14;Alcantarillado;Estructura de red;Pozo séptico;Servicio;2696;0;La Unión;;3.984444;-74.364139
+1417;14;Alcantarillado;Estructura de red;Pozo séptico;Servicio;3206;0;Santa Ana;;4.001917;-74.345472
+151;15;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2999;18;;;4.144694;-74.175444
+152;15;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3369;10;;;4.15225;-74.188139
+153;15;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3195;2;No. 1;;4.135639;-74.187639
+154;15;Acueducto;Estructura de red;Desarenador;Servicio;3213;0.96;No. 1;;4.135222;-74.187889
+155;15;Acueducto;Estructura de red;Bocatoma;Servicio;3240;14.16;No. 1;;4.135056;-74.188917
+156;15;Acueducto;Estructura de red;Bocatoma;Servicio;3379;0.06;No. 2;;4.152056;-74.188639
+161;16;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3373;37;No. 1;;4.199086;-74.152856
+162;16;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;0;3;;;4.182972;-74.223444
+163;16;Acueducto;Estructura de red;Desarenador;Servicio;0;2.94;;;4.236138;-74.188755
+164;16;Acueducto;Estructura de red;Bocatoma;Servicio;0;7.89;Quebrada Media Naranja;;4.236601;-74.188649
+171;17;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3262;1.3;No. 1;;4.231306;-74.146917
+172;17;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3112;31;No. 2;;4.195306;-74.141278
+173;17;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2967;30;No. 21;;4.188111;-74.13425
+174;17;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3262;1.5;No. 1;;4.231389;-74.147028
+175;17;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3073;1.6;No. 2;;4.195306;-74.141306
+176;17;Acueducto;Estructura de red;Desarenador;Servicio;3617;2.84;No. 1;;4.291389;-74.132361
+177;17;Acueducto;Estructura de red;Bocatoma;Servicio;3199;3.02;No. 2;;4.227167;-74.152917
+178;17;Acueducto;Estructura de red;Bocatoma;Servicio;3617;5.12;No. 1;;4.291972;-74.132083
+179;17;Alcantarillado;Estructura de red;Pozo séptico;Servicio;3100;0;No. 1;;4.218722;-74.145278
+181;18;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3195;20;No. 1;;4.162778;-74.171667
+182;18;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3027;30;No. 2;;4.170778;-74.165667
+183;18;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3073;20;No. 3;;4.172278;-74.176889
+184;18;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2650;30;No. 4;;4.172056;-74.148611
+185;18;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3147;1.5;No. 2;;4.1625;-74.176583
+186;18;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3290;1.5;No. 1;;4.160222;-74.181917
+187;18;Acueducto;Estructura de red;Desarenador;Servicio;3351;2.02;No. 1;;4.177778;-74.191889
+188;18;Acueducto;Estructura de red;Desarenador;Servicio;3419;5.95;No. 2;;4.151917;-74.189972
+189;18;Acueducto;Estructura de red;Bocatoma;Servicio;3420;10.02;No. 2;;4.151861;-74.190278
+1810;18;Acueducto;Estructura de red;Bocatoma;Servicio;3348;17.35;No. 1;;4.177417;-74.192194
+1811;18;Alcantarillado;Estructura de red;Planta de tratamiento de agua residual;Servicio;2578;0;;;4.171806;-74.145056
+1812;18;Alcantarillado;Estructura de red;Pozo séptico;Servicio;2534;0;;;4.171694;-74.144972
+191;19;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;0;0;;;3.979932;-74.323208
+192;19;Acueducto;Estructura de red;Desarenador;Servicio;0;0;;;3.959444;-74.309306
+193;19;Acueducto;Estructura de red;Bocatoma;Servicio;0;0;;;3.958999;-74.3089
+201;20;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3405;45;;;4.199111;-74.152861
+202;20;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3404;2;;;4.199111;-74.152889
+203;20;Acueducto;Estructura de red;Desarenador;Servicio;3470;2.91;;;4.236167;-74.188778
+204;20;Acueducto;Estructura de red;Bocatoma;Servicio;3464;3.77;;;4.236611;-74.188667
+211;21;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3487.48;1;;;4.026058;-74.310972
+212;21;Acueducto;Estructura de red;Desarenador;Servicio;3614.55;3.55;;;4.029444;-74.284385
+213;21;Acueducto;Estructura de red;Bocatoma;Servicio;3487.48;3.35;;;4.029972;-74.283417
+221;22;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3549;22;No. 1;;3.868139;-74.347194
+222;22;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3497;22;No. 2;;3.911139;-74.339944
+223;22;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3566;1.5;;;3.865556;-74.344667
+224;22;Acueducto;Estructura de red;Desarenador;Servicio;3575;2.88;;;3.865111;-74.34425
+225;22;Acueducto;Estructura de red;Bocatoma;Servicio;3572;14.14;;;3.865972;-74.342944
+226;22;Alcantarillado;Estructura de red;Planta de tratamiento de agua residual;Servicio;3332;0;Granada;;3.889722;-74.359528
+231;23;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3444;23;;;4.137873;-74.15421
+232;23;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3465;1.96;;;4.137744;-74.154273
+233;23;Acueducto;Estructura de red;Desarenador;Servicio;3245;1.96;;;4.126527;-74.159684
+234;23;Acueducto;Estructura de red;Bocatoma;Servicio;3248;6.22;;;4.124934;-74.159691
+241;24;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3499.7;0;;;3.945411;-74.321886
+242;24;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3499.7;0;;;3.945361;-74.321944
+243;24;Acueducto;Estructura de red;Desarenador;Servicio;3739;0;No. 1;;3.931989;-74.313646
+244;24;Acueducto;Estructura de red;Desarenador;Servicio;3599.2;0;No. 2;;3.935846;-74.301774
+245;24;Acueducto;Estructura de red;Bocatoma;Servicio;3739.2;0;No. 1;;3.931855;-74.313589
+246;24;Acueducto;Estructura de red;Bocatoma;Servicio;3600.3;0;No. 2;;3.935797;-74.301552
+251;25;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2754;0;No. 2;;4.808199;-74.01749
+252;25;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2843;0;No. 3;;4.806641;-74.012743
+253;25;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2944;0;No. 4;;4.80559;-74.007938
+254;25;Acueducto;Estructura de red;Pozo;Servicio;2601;0;;;4.811525;-74.029959
+261;26;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2946;0;No. 1;;4.806467;-74.007108
+262;26;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2801;0;No. 2;;4.806134;-74.012924
+263;26;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2884;0;De rebombeo;;4.805831;-74.008982
+264;26;Acueducto;Estructura de red;Desarenador;Servicio;3056;0;;;4.802995;-74.000004
+265;26;Acueducto;Estructura de red;Bocatoma;Servicio;2808;0;;;4.805828;-74.012365
+271;27;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2886;100;De recepción;;4.820917;-74.023806
+272;27;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2745;100;Intermedio;;4.819056;-74.028028
+273;27;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2745;50;Principal;;4.819098;-74.028036
+274;27;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;2886;1;No. 1, apoyo;;4.820917;-74.023778
+275;27;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;2746;1;No. 2;;4.819007;-74.028036
+276;27;Acueducto;Estructura de red;Pozo;Servicio;2588;0.23;;;4.819806;-74.030889
+277;27;Alcantarillado;Estructura de red;Planta de tratamiento de agua residual;Servicio;2633;0;;;4.822413;-74.030305
+278;27;Alcantarillado;Estructura de red;Descarga;Servicio;2629;0;;;4.822219;-74.03142
+279;27;Alcantarillado;Estructura de red;Biogestor;Servicio;2629;0;;;4.823021;-74.031266
+281;28;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2620;68;La Maria;;4.809861;-74.025417
+282;28;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2688;68;La Novita;;4.813556;-74.022694
+283;28;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;2689;0.69;La Novita;;4.813556;-74.022639
+284;28;Acueducto;Estructura de red;Desarenador;Servicio;2633;1.204;La Maria;;4.809722;-74.025472
+285;28;Acueducto;Estructura de red;Desarenador;Servicio;2698;0.719;La Novita;;4.813583;-74.022111
+286;28;Acueducto;Estructura de red;Bocatoma;Servicio;2632;0.45;La Maria;;4.809639;-74.0255
+291;29;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2758;8;Bombeo;;4.764583;-74.022083
+292;29;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2858;90;;;4.763472;-74.018222
+293;29;Acueducto;Estructura de red;Bocatoma;Servicio;2748;0.08;Conducción de agua que sale del tanque el Codito de EAB;;4.764528;-74.022528
+294;29;Alcantarillado;Estructura de red;Pozo séptico;Servicio;2831;0;;;4.760389;-74.017889
+301;30;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2821;40;Villas de la Capilla sector La Calera;;4.759333;-74.012806
+302;30;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2846;70;Villas de la Capilla sector Bogotá, Lomitas;;4.759722;-74.013833
+303;30;Alcantarillado;Estructura de red;Pozo séptico;Servicio;2830;0;Villas de la Capilla;;4.758833;-74.013806
+304;30;Alcantarillado;Estructura de red;Caja de almacenamiento agua residual;Servicio;2824;0;;;4.75925;-74.013028
+305;30;Alcantarillado;Estructura de red;Caja de almacenamiento agua residual;Servicio;2823;0;;;4.759111;-74.013083
+306;30;Alcantarillado;Estructura de red;Caja de almacenamiento agua residual;Servicio;2830;0;Sector Bogotá, Lomitas;;4.758972;-74.0135
+311;31;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3056;0;;;4.802995;-74.000004
+321;32;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3453;84.1;;;4.367806;-74.20075
+322;32;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3452;2.5;;;4.367833;-74.200778
+323;32;Acueducto;Estructura de red;Desarenador;Servicio;3491;2.4;No. 1;;4.361778;-74.202361
+324;32;Acueducto;Estructura de red;Desarenador;Servicio;3457;2.4;No. 1;;4.367944;-74.201111
+325;32;Acueducto;Estructura de red;Bocatoma;Servicio;3491;1.12;No. 1;;4.361694;-74.202583
+326;32;Acueducto;Estructura de red;Bocatoma;Servicio;3457;1.12;No. 2;;4.368111;-74.20125
+331;33;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3113;50;No. 1;;4.427361;-74.131583
+332;33;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3091;50;No. 2;;4.442222;-74.12925
+333;33;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3110;3.06;;;4.427361;-74.131556
+334;33;Acueducto;Estructura de red;Desarenador;Servicio;3166;2.54;;;4.379361;-74.119306
+335;33;Acueducto;Estructura de red;Bocatoma;Servicio;3169;12.89;;;4.379306;-74.118444
+341;34;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3079;113;;;4.468167;-74.0847
+342;34;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3077;3;;;4.468083;-74.0846
+343;34;Acueducto;Estructura de red;Desarenador;Servicio;3075;0;By pass;;4.468167;-74.0841
+344;34;Acueducto;Estructura de red;Desarenador;Servicio;3077;5;;;4.468167;-74.0842
+345;34;Acueducto;Estructura de red;Desarenador;Servicio;3082;0;Entrada;;4.468167;-74.0841
+346;34;Acueducto;Estructura de red;Desarenador;Servicio;3080;0;Salida;;4.468194;-74.0842
+347;34;Acueducto;Estructura de red;Bocatoma;Servicio;3066;0;No. 1;;4.468278;-74.0836
+348;34;Acueducto;Estructura de red;Bocatoma;Servicio;3070;0;No. 2;;4.46825;-74.0837
+349;34;Acueducto;Estructura de red;Bocatoma;Servicio;3072;6.09;;;4.468222;-74.0837
+351;35;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3388;88;;;4.362;-74.152306
+352;35;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3386;2.24;;;4.362056;-74.152333
+353;35;Acueducto;Estructura de red;Desarenador;Servicio;3400;1.41;;;4.332861;-74.142722
+354;35;Acueducto;Estructura de red;Bocatoma;Servicio;3392;16.1;;;4.332583;-74.142972
+361;36;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3680;62;;;4.314056;-74.1575
+362;36;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3681;1.3;;;4.314;-74.156917
+363;36;Acueducto;Estructura de red;Desarenador;Servicio;3688;0.95;;;4.306639;-74.124861
+364;36;Acueducto;Estructura de red;Bocatoma;Servicio;3693;1;;;4.306556;-74.124639
+371;37;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;2927;60;;;4.456111;-74.125694
+372;37;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;2928;3;;;4.456139;-74.125611
+373;37;Acueducto;Estructura de red;Desarenador;Servicio;2942;3.33;;;4.454583;-74.124861
+374;37;Acueducto;Estructura de red;Bocatoma;Servicio;2943;18.19;;;4.453861;-74.124861
+381;38;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3233;50.63;;;4.437444;-74.117806
+382;38;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3233;2;;;4.437472;-74.117722
+383;38;Acueducto;Estructura de red;Desarenador;Servicio;3282;1.2;;;4.377028;-74.108306
+384;38;Acueducto;Estructura de red;Bocatoma;Servicio;3331;14.55;;;4.376583;-74.107917
+391;39;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3407;52.56;;;4.334778;-74.140583
+392;39;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3406;2;;;4.334806;-74.140611
+393;39;Acueducto;Estructura de red;Desarenador;Servicio;3438;2.35;;;4.332667;-74.140583
+394;39;Acueducto;Estructura de red;Bocatoma;Servicio;3453;10.06;;;4.332167;-74.140611
+401;40;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3260;68.82;De la planta de tratamiento de agua potable;;4.378861;-74.112861
+402;40;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3179;42.52;No. 1;;4.409222;-74.129222
+403;40;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3179;90.76;No. 2;;4.409194;-74.129222
+404;40;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3260;1.5;;;4.378833;-74.112778
+405;40;Acueducto;Estructura de red;Desarenador;Servicio;3276;3.79;;;4.374944;-74.106528
+406;40;Acueducto;Estructura de red;Bocatoma;Servicio;3281;17.88;;;4.37475;-74.106417
+411;41;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3119;0;De la planta de tratamiento de agua potable;;4.481222;-74.0851
+412;41;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3159;9;Zona alta;;4.48275;-74.0835
+413;41;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3032;9;Zona baja;;4.4785;-74.0899
+414;41;Acueducto;Estructura de red;Tanque de almacenamiento de agua potable;Servicio;3119;32;Principal;;4.481306;-74.0851
+415;41;Acueducto;Estructura de red;Planta de tratamiento de agua potable;Servicio;3122;2;;;4.481194;-74.0851
+416;41;Acueducto;Estructura de red;Estación de bombeo;Servicio;3119;0;Cuarto de bombas;;4.481333;-74.0851
+417;41;Acueducto;Estructura de red;Desarenador;Servicio;3126;2;Entrada;;4.481139;-74.0851
+418;41;Acueducto;Estructura de red;Desarenador;Servicio;3126;0;Salida;;4.481167;-74.0851
+419;41;Acueducto;Estructura de red;Bocatoma;Servicio;3126;0.99;;;4.481611;-74.0843

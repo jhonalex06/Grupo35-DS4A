@@ -1,0 +1,1158 @@
+Id_IDRD;Tipo;Localidad;Nombre;Id;Equipamento;Dotacion;Aprovechamientoeconomico;Area;Material;Cerramiento;Camerino;Capacidad;Carril;Bano
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13575;CANCHAS DEPORTIVAS;Baloncesto;No;420;Asfalto sin sintetico;Total;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13577;CANCHAS DEPORTIVAS;Fútbol;No;7140;Grama Natural;Total;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11306;CANCHAS DEPORTIVAS;Fútbol;Si;6300;Grama Natural;Total;Si;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11307;CANCHAS DEPORTIVAS;Fútbol;Si;5250;Grama Sintetica;Total;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11311;CANCHAS DEPORTIVAS;Fútbol;Si;4472;Grama Sintetica;Total;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14593;ESCENARIO DEPORTIVO;COLISEO;;1283;Baldosa;Total;Si;205;0;4
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12727;ESCENARIO DEPORTIVO;COLISEO;;1366;Granito;Total;Si;450;0;4
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12793;CANCHAS DEPORTIVAS;Voleibol;Si;630;Asfalto sin sintetico;Total;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12794;CANCHAS DEPORTIVAS;Voleibol;Si;630;Asfalto sin sintetico;Total;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12795;CANCHAS DEPORTIVAS;Voleibol;Si;630;Asfalto sin sintetico;Total;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12796;CANCHAS DEPORTIVAS;Softbol;Si;5250;Grama Natural;Total;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12844;CANCHAS DEPORTIVAS;Voleibol;Si;630;Asfalto con sintetico;Total;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12845;CANCHAS DEPORTIVAS;Voleibol;Si;630;Asfalto sin sintetico;Total;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12846;CANCHAS DEPORTIVAS;Voleibol;Si;630;Asfalto sin sintetico;Total;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12851;CANCHAS DEPORTIVAS;Fútbol;Si;7490;Grama Natural;Total;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12978;CANCHAS DEPORTIVAS;Tennis;Si;666;Asfalto con sintetico;Total;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12979;CANCHAS DEPORTIVAS;Tennis;Si;666;Asfalto con sintetico;Total;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13051;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;2838;Madera;Total;Si;3500;0;8
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13186;CANCHAS DEPORTIVAS;Fútbol;Si;5760;Grama Sintetica;Total;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14225;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;1008;Granito;Total;Si;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14226;ESCENARIO DEPORTIVO;MULTIFUERZA;;70;Granito;Total;Si;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14227;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;400;Granito;Total;Si;0;0;1
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14228;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;1008;Granito;Total;Si;0;0;1
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14229;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;400;Granito;Total;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14430;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;5372;Madera;Total;Si;5535;0;11
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14711;ESCENARIO DEPORTIVO;Otro  (Escenario);;2080;Madera;Total;Si;205;0;5
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14741;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;640;Madera;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14742;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;440;Baldosa;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14743;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;396;Madera;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14744;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;800;Plastico;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14745;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;720;Granito;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14746;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;420;Granito;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14747;ESCENARIO DEPORTIVO;Otro  (Escenario);;32;Granito;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14748;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;450;Plastico;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14749;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;440;Granito;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14750;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;840;Granito;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14751;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;324;Granito;Total;Si;0;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14958;CANCHAS DEPORTIVAS;Squash;Si;124;Madera;Total;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14959;CANCHAS DEPORTIVAS;Squash;Si;124;Madera;Total;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14960;CANCHAS DEPORTIVAS;Squash;Si;62;Madera;Total;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14961;CANCHAS DEPORTIVAS;Squash;Si;62;Madera;Total;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14962;CANCHAS DEPORTIVAS;Squash;Si;62;Madera;Total;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14963;CANCHAS DEPORTIVAS;Squash;Si;62;Madera;Total;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14964;CANCHAS DEPORTIVAS;Squash;Si;62;Madera;Total;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14994;ESCENARIO DEPORTIVO;BOLERA;;2669;Madera;Total;No;150;20;2
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12694;CANCHAS DEPORTIVAS;Voleibol Playa;Si;1435;Arena;Total;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12774;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1340;Concreto;Total;Si;900;0;4
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );14027;ESCENARIO DEPORTIVO;LAGO ;;107464;Grama Natural;Total;No;0;0;0
+03-036;Parque de escala zonal;Santafe;LAS CRUCES;14840;ESCENARIO DEPORTIVO;COLISEO;;1091;Concreto;Total;Si;600;0;2
+01-023;Parque de escala zonal;Usaquen;SERVITA;11404;CANCHAS DEPORTIVAS;Tennis;Si;264;Asfalto sin sintetico;Total;No;0;0;0
+01-023;Parque de escala zonal;Usaquen;SERVITA;11405;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Total;No;0;0;0
+01-023;Parque de escala zonal;Usaquen;SERVITA;11564;CANCHAS DEPORTIVAS;Cancha multiple;No;0;Concreto;Total;No;0;0;0
+04-075;Parque de escala zonal;San Cristobal;VILLA DE LOS ALPES;14381;ESCENARIO DEPORTIVO;COLISEO;;1020;Concreto;Total;Si;500;0;3
+05-002;Parque de escala zonal;Usme;LA AURORA II;12208;CANCHAS DEPORTIVAS;Fútbol;Si;4500;Grama Sintetica;Total;Si;0;0;0
+05-002;Parque de escala zonal;Usme;LA AURORA II;12236;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;228;Asfalto sin sintetico;Total;;0;0;0
+05-002;Parque de escala zonal;Usme;LA AURORA II;12237;JUEGOS INFANTILES;JUEGO INFANTIL;No;1;Asfalto sin sintetico;Total;;0;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12169;CANCHAS DEPORTIVAS;Fútbol;Si;1050;Grama Sintetica;Total;No;0;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12181;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1332;Concreto;Total;Si;400;0;6
+05-004;Parque de escala zonal;Usme;LA ANDREA;12241;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1152;Concreto;Total;Si;300;0;6
+05-004;Parque de escala zonal;Usme;LA ANDREA;12258;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;210;Granito;Total;No;100;0;0
+05-004;Parque de escala zonal;Usme;LA ANDREA;12263;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;119;Asfalto sin sintetico;Total;;0;0;0
+05-004;Parque de escala zonal;Usme;LA ANDREA;12264;JUEGOS INFANTILES;JUEGO INFANTIL;No;1;Asfalto sin sintetico;Total;;0;0;0
+05-016;Parque de escala zonal;Usme;EL VIRREY SUR;12275;ESCENARIO DEPORTIVO;PISCINA;;300;Concreto;Total;Si;40;6;4
+05-016;Parque de escala zonal;Usme;EL VIRREY SUR;12276;ESCENARIO DEPORTIVO;PISCINA;;72;Concreto;Total;Si;20;3;0
+05-016;Parque de escala zonal;Usme;EL VIRREY SUR;12292;ESCENARIO DEPORTIVO;AULA MULTIPLE;;432;Baldosa;Total;No;200;0;2
+05-087;Parque de escala zonal;Usme;VILLA ALEMANA;13773;CANCHAS DEPORTIVAS;Microfutbol;Si;800;Grama Sintetica;Total;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13902;ESCENARIO DEPORTIVO;HOCKEY;;989;Granito;Total;Si;0;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13870;CANCHAS DEPORTIVAS;Fútbol;Si;3360;Grama Sintetica;Total;No;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14311;CANCHAS DEPORTIVAS;Fútbol;Si;2006;Grama Sintetica;Total;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11636;CANCHAS DEPORTIVAS;Fútbol;Si;7500;Grama Natural;Total;No;0;0;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11671;CANCHAS DEPORTIVAS;Tennis;Si;990;Asfalto sin sintetico;Total;No;0;0;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11672;CANCHAS DEPORTIVAS;Tennis;Si;600;Asfalto con sintetico;Total;No;0;0;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11673;CANCHAS DEPORTIVAS;Tennis;Si;600;Asfalto con sintetico;Total;No;0;0;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11674;CANCHAS DEPORTIVAS;Tennis;Si;600;Asfalto con sintetico;Total;No;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;11696;CANCHAS DEPORTIVAS;Fútbol;Si;5850;Grama Sintetica;Total;Si;0;0;0
+10-102;Parque de escala zonal;Engativa;VILLAS DE GRANADA;11710;CANCHAS DEPORTIVAS;Fútbol;Si;5985;Grama Natural;Total;Si;0;0;0
+10-102;Parque de escala zonal;Engativa;VILLAS DE GRANADA;11715;ESCENARIO DEPORTIVO;DUNT;;75;Cemento;Total;No;5;0;0
+10-169;Parque de escala zonal;Engativa;EL CARMELO;15273;CANCHAS DEPORTIVAS;Microfutbol;Si;135;Grama Sintetica;Total;Si;0;0;0
+10-192;Parque de escala zonal;Engativa;TABORA;11728;CANCHAS DEPORTIVAS;Fútbol;Si;6400;Grama Natural;Total;Si;0;0;0
+10-223;Parque de escala zonal;Engativa;LA SERENA;11742;CANCHAS DEPORTIVAS;Fútbol;Si;4779;Grama Natural;Total;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11525;CANCHAS DEPORTIVAS;Fútbol;Si;6868;Grama Natural;Total;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11537;CANCHAS DEPORTIVAS;Tennis;Si;850;Asfalto con sintetico;Total;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11538;CANCHAS DEPORTIVAS;Tennis;Si;850;Asfalto con sintetico;Total;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11539;CANCHAS DEPORTIVAS;Mini Tennis;Si;200;Asfalto con sintetico;Total;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11541;CANCHAS DEPORTIVAS;Mini Tennis;Si;200;Asfalto con sintetico;Total;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11542;ESCENARIO DEPORTIVO;COLISEO;;3600;Asfalto con sintetico;Total;Si;285;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11543;ESCENARIO DEPORTIVO;PATINAJE ARTISTICO;;175;Granito;Total;No;0;3;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11544;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;2121;Granito;Total;Si;0;5;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11545;ESCENARIO DEPORTIVO;PATINODROMO;;2070;Asfalto sin sintetico;Total;No;0;5;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11592;CANCHAS DEPORTIVAS;Tennis;Si;850;Asfalto con sintetico;Total;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11593;CANCHAS DEPORTIVAS;Tennis;Si;850;Asfalto con sintetico;Total;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;14366;CANCHAS DEPORTIVAS;Mini Tennis;Si;200;Asfalto sin sintetico;Total;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11281;CANCHAS DEPORTIVAS;Fútbol;Si;7260;Grama Natural;Total;Si;0;0;0
+11-212;Parque de escala zonal;Suba;TIBABUYES;11604;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1000;Fibra Vidrio;Total;No;500;0;3
+11-368;Parque de escala zonal;Suba;FONTANAR DEL RIO;11611;CANCHAS DEPORTIVAS;Tennis;Si;680;Asfalto con sintetico;Total;No;0;0;0
+11-368;Parque de escala zonal;Suba;FONTANAR DEL RIO;11612;CANCHAS DEPORTIVAS;Tennis;Si;680;Asfalto con sintetico;Total;No;0;0;0
+11-368;Parque de escala zonal;Suba;FONTANAR DEL RIO;11613;CANCHAS DEPORTIVAS;Tennis;Si;680;Asfalto con sintetico;Total;No;0;0;0
+11-368;Parque de escala zonal;Suba;FONTANAR DEL RIO;11621;CANCHAS DEPORTIVAS;Tennis;Si;680;Asfalto con sintetico;Total;No;0;0;0
+14-030;Parque de escala zonal;Martires;EDUARDO SANTOS;14583;ESCENARIO DEPORTIVO;COLISEO;;1282;Concreto;Total;Si;150;0;6
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11890;ESCENARIO DEPORTIVO;HOCKEY;;770;Granito;Total;No;25;0;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11877;CANCHAS DEPORTIVAS;Tennis;Si;660;Asfalto con sintetico;Total;No;0;0;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11878;CANCHAS DEPORTIVAS;Fútbol;Si;5490;Grama Natural;Total;No;0;0;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11880;ESCENARIO DEPORTIVO;HOCKEY;;675;Granito;Total;No;25;0;0
+15-040;Parque de escala zonal;Antonio Nariño;LA FRAGUA;11853;CANCHAS DEPORTIVAS;Fútbol;Si;6910;Grama Natural;Total;No;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12060;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;187;Asfalto sin sintetico;Total;;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12074;JUEGOS INFANTILES;JUEGO INFANTIL;No;290;Asfalto sin sintetico;Total;;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12075;JUEGOS INFANTILES;COLUMPIO;No;78;Asfalto sin sintetico;Total;;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12005;CANCHAS DEPORTIVAS;Softbol;Si;5876;Polvo de ladrillo;Total;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12007;CANCHAS DEPORTIVAS;Tennis;Si;698;Asfalto con sintetico;Total;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12008;CANCHAS DEPORTIVAS;Tennis;Si;698;Asfalto con sintetico;Total;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12009;CANCHAS DEPORTIVAS;Tennis;Si;698;Asfalto con sintetico;Total;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12024;JUEGOS INFANTILES;JUEGO INFANTIL;No;88;Arena;Total;;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;11966;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1152;Granito;Total;Si;500;0;6
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;11967;CANCHAS DEPORTIVAS;Fútbol;Si;6370;Grama Natural;Total;No;0;0;0
+18-162;Parque de escala zonal;Rafael Uribe;LOS MOLINOS II;13684;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1188;Granito;Total;Si;477;0;3
+18-205;Parque de escala zonal;Rafael Uribe;QUIROGA;13616;ESCENARIO DEPORTIVO;PATINODROMO;;600;Granito;Total;No;30;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13771;CANCHAS DEPORTIVAS;Fútbol;Si;6400;Grama Sintetica;Total;No;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13797;CANCHAS DEPORTIVAS;Fútbol;Si;7140;Grama Natural;Total;Si;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13803;ESCENARIO DEPORTIVO;Otro  (Escenario);;1680;Grama Natural;Total;Si;1800;0;5
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12468;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1211;Granito;Total;Si;400;0;5
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11924;CANCHAS DEPORTIVAS;Mini futbol;Si;1175;Grama Sintetica;Total;No;0;0;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11993;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1258;Asfalto sin sintetico;Total;Si;450;0;7
+19-346;Parque de escala zonal;Cuidad Bolivar;ILLIMANI (PARAISO);14223;CANCHAS DEPORTIVAS;Fútbol;Si;4050;Grama Sintetica;Total;Si;0;0;0
+19-349;Parque de escala zonal;Cuidad Bolivar;LA JOYA;12494;CANCHAS DEPORTIVAS;Microfutbol;Si;420;Grama Sintetica;Total;No;0;0;0
+12-023;Parque de escala zonal;Barrios Unidos;GIMNASIO DISTRITAL DEL NORTE;8819;ESCENARIO DEPORTIVO;COLISEO;No;189;Baldosa;Total;;200;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14443;CANCHAS DEPORTIVAS;Tennis;Si;414;Asfalto sin sintetico;Parcial;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14444;CANCHAS DEPORTIVAS;Tennis;Si;414;Asfalto sin sintetico;Parcial;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14445;CANCHAS DEPORTIVAS;Tennis;Si;414;Asfalto sin sintetico;Parcial;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14446;CANCHAS DEPORTIVAS;Tennis;Si;414;Asfalto sin sintetico;Parcial;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14447;CANCHAS DEPORTIVAS;Tennis;Si;414;Asfalto sin sintetico;Parcial;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14448;CANCHAS DEPORTIVAS;Tennis;Si;414;Asfalto sin sintetico;Parcial;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14470;CANCHAS DEPORTIVAS;Patinòdromo recreativos;No;2128;Asfalto sin sintetico;Parcial;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14471;CANCHAS DEPORTIVAS;Otra (Cancha Deportiva);No;2470;Asfalto sin sintetico;Parcial;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14566;ESCENARIO DEPORTIVO;Otro  (Escenario);;50000;Grama Natural;Parcial;Si;1500;0;0
+01-1000;Parque de escala metropolitano;Usaquen;EL COUNTRY;11574;JUEGOS INFANTILES;JUEGO INFANTIL;No;200;Arena;Parcial;;0;0;0
+01-1000;Parque de escala metropolitano;Usaquen;EL COUNTRY;11575;JUEGOS INFANTILES;BALANCIN;No;6;Arena;Parcial;;0;0;0
+01-1000;Parque de escala metropolitano;Usaquen;EL COUNTRY;11576;JUEGOS INFANTILES;COLUMPIO;No;6;Arena;Parcial;;0;0;0
+01-1000;Parque de escala metropolitano;Usaquen;EL COUNTRY;11577;JUEGOS INFANTILES;RUEDA;Si;10;Arena;Parcial;;0;0;0
+01-1000;Parque de escala metropolitano;Usaquen;EL COUNTRY;11578;JUEGOS INFANTILES;RODADERO;No;10;Arena;Parcial;;0;0;0
+01-1000;Parque de escala metropolitano;Usaquen;EL COUNTRY;11580;JUEGOS INFANTILES;RODADERO;No;10;Arena;Parcial;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13576;CANCHAS DEPORTIVAS;Mini Baloncesto;No;230;Asfalto sin sintetico;Parcial;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13578;CANCHAS DEPORTIVAS;Muro de Tennis;No;450;Cemento;Parcial;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13583;CANCHAS DEPORTIVAS;Tennis;Si;610;Polvo de ladrillo;Parcial;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13584;CANCHAS DEPORTIVAS;Tennis;Si;610;Polvo de ladrillo;Parcial;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13585;CANCHAS DEPORTIVAS;Tennis;Si;610;Polvo de ladrillo;Parcial;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13603;ESCENARIO DEPORTIVO;HOCKEY;;700;Granito;Parcial;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13604;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;1570;Granito;Parcial;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13607;CANCHAS DEPORTIVAS;Voleibol;Si;350;Asfalto sin sintetico;Parcial;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13608;CANCHAS DEPORTIVAS;Voleibol;No;350;Asfalto sin sintetico;Parcial;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13609;CANCHAS DEPORTIVAS;Voleibol;No;350;Asfalto sin sintetico;Parcial;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14850;CANCHAS DEPORTIVAS;Tennis;Si;610;Polvo de ladrillo;Parcial;No;0;0;0
+03-085;Parque de escala metropolitano;Santafe;TERCER MILENIO;41;CANCHAS DEPORTIVAS;Microfutbol;No;480;Asfalto sin sintetico;Parcial;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11320;CANCHAS DEPORTIVAS;Microfutbol;Si;448;Asfalto sin sintetico;Parcial;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11322;CANCHAS DEPORTIVAS;Microfutbol;Si;448;Asfalto sin sintetico;Parcial;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11323;CANCHAS DEPORTIVAS;Microfutbol;Si;448;Asfalto sin sintetico;Parcial;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11327;ESCENARIO DEPORTIVO;DUNT;;607;Concreto;Parcial;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;14622;CANCHAS DEPORTIVAS;Patinòdromo recreativos;No;11;Granito;Parcial;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14584;CANCHAS DEPORTIVAS;Microfutbol;No;960;Asfalto sin sintetico;Parcial;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14594;ESCENARIO DEPORTIVO;PISTA DE PATINAJE;;200;Granito;Parcial;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14596;ESCENARIO DEPORTIVO;VELODROMO;;9225;Concreto;Parcial;No;0;4;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14597;ESCENARIO DEPORTIVO;HOCKEY;;1012;Granito;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12750;CANCHAS DEPORTIVAS;Microfutbol;Si;464;Asfalto sin sintetico;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12751;CANCHAS DEPORTIVAS;Microfutbol;Si;464;Asfalto sin sintetico;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12752;CANCHAS DEPORTIVAS;Microfutbol;Si;464;Asfalto sin sintetico;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12753;CANCHAS DEPORTIVAS;Microfutbol;Si;464;Asfalto sin sintetico;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12754;CANCHAS DEPORTIVAS;Microfutbol;Si;464;Asfalto sin sintetico;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12980;CANCHAS DEPORTIVAS;Tennis;Si;666;Asfalto con sintetico;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12981;CANCHAS DEPORTIVAS;Tennis;Si;666;Asfalto con sintetico;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12982;CANCHAS DEPORTIVAS;Tennis;Si;666;Asfalto con sintetico;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12983;CANCHAS DEPORTIVAS;Tennis;Si;666;Asfalto con sintetico;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12984;CANCHAS DEPORTIVAS;Tennis;Si;666;Asfalto con sintetico;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14189;ESCENARIO DEPORTIVO;ESTADIO DE ATLETISMO;;16200;Grama Natural;Parcial;Si;2500;5;8
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14191;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;110;Asfalto sin sintetico;Parcial;No;10;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14192;ESCENARIO DEPORTIVO;HOCKEY;;868;Granito;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14193;ESCENARIO DEPORTIVO;PATINAJE ARTISTICO;;1294;Granito;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14194;ESCENARIO DEPORTIVO;PATINODROMO;;1314;Concreto;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14197;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;144;Asfalto sin sintetico;Parcial;No;11;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14198;ESCENARIO DEPORTIVO;PISTA DE BISICROSS;;2040;Asfalto sin sintetico;Parcial;No;0;8;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14199;ESCENARIO DEPORTIVO;DUNT;;576;Cemento;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14997;ESCENARIO DEPORTIVO;Otro  (Escenario);;2165;Asfalto con sintetico;Parcial;Si;0;0;1
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14998;ESCENARIO DEPORTIVO;Otro  (Escenario);;5223;Grama Natural;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14999;JUEGOS INFANTILES;Otro(Juego);No;70;Plastico;Parcial;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;15000;CANCHAS DEPORTIVAS;Fútbol;Si;1925;Grama Sintetica;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;15001;CANCHAS DEPORTIVAS;Fútbol;Si;2925;Grama Sintetica;Parcial;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;15002;CANCHAS DEPORTIVAS;Fútbol;Si;2925;Grama Sintetica;Parcial;No;0;0;0
+07-260;Parque de escala metropolitano;Bosa;EL RECREO;12696;CANCHAS DEPORTIVAS;Microfutbol;Si;666;Asfalto sin sintetico;Parcial;No;0;0;0
+07-260;Parque de escala metropolitano;Bosa;EL RECREO;12697;CANCHAS DEPORTIVAS;Baloncesto;Si;448;Asfalto sin sintetico;Parcial;No;0;0;0
+07-260;Parque de escala metropolitano;Bosa;EL RECREO;12698;CANCHAS DEPORTIVAS;Baloncesto;Si;450;Asfalto sin sintetico;Parcial;No;0;0;0
+07-260;Parque de escala metropolitano;Bosa;EL RECREO;12699;CANCHAS DEPORTIVAS;Microfutbol;Si;576;Asfalto sin sintetico;Parcial;No;0;0;0
+07-260;Parque de escala metropolitano;Bosa;EL RECREO;12701;JUEGOS INFANTILES;JUEGO INFANTIL;Si;336;Asfalto sin sintetico;Parcial;;0;0;0
+07-260;Parque de escala metropolitano;Bosa;EL RECREO;12722;JUEGOS INFANTILES;JUEGO INFANTIL;Si;81;Asfalto sin sintetico;Parcial;;0;0;0
+07-260;Parque de escala metropolitano;Bosa;EL RECREO;15005;CANCHAS DEPORTIVAS;Fútbol;Si;6400;Grama Sintetica;Parcial;Si;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13374;JUEGOS INFANTILES;Otro(Juego);No;142;Asfalto sin sintetico;Parcial;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13384;CANCHAS DEPORTIVAS;Microfutbol;Si;575;Asfalto sin sintetico;Parcial;No;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13386;CANCHAS DEPORTIVAS;Tennis;Si;631;Asfalto con sintetico;Parcial;No;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13387;CANCHAS DEPORTIVAS;Tennis;Si;605;Asfalto con sintetico;Parcial;No;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13388;CANCHAS DEPORTIVAS;Tennis;Si;605;Asfalto con sintetico;Parcial;No;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13464;CANCHAS DEPORTIVAS;Fútbol;Si;10532;Grama Natural;Parcial;Si;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;14246;ESCENARIO DEPORTIVO;PISTA DE ATLETISMO;;3255;Asfalto con sintetico;Parcial;No;0;6;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;14247;ESCENARIO DEPORTIVO;PATINAJE ARTISTICO;;1284;Granito;Parcial;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13187;CANCHAS DEPORTIVAS;Microfutbol;Si;792;Asfalto sin sintetico;Parcial;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13188;CANCHAS DEPORTIVAS;Microfutbol;Si;828;Asfalto sin sintetico;Parcial;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13191;CANCHAS DEPORTIVAS;Microfutbol;Si;770;Asfalto sin sintetico;Parcial;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13193;CANCHAS DEPORTIVAS;Microfutbol;Si;792;Asfalto sin sintetico;Parcial;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13205;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;216;Asfalto sin sintetico;Parcial;;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14231;ESCENARIO DEPORTIVO;DUNT;;1750;Arena;Parcial;No;0;4;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14233;ESCENARIO DEPORTIVO;HOCKEY;;800;Granito;Parcial;Si;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14234;ESCENARIO DEPORTIVO;PATINODROMO;;1062;Granito;Parcial;No;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15103;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;92; Adoquin arcilla;Parcial;Si;8;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15107;JUEGOS INFANTILES;JUEGO INFANTIL;No;40;Plastico;Parcial;;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15108;JUEGOS INFANTILES;Otro(Juego);No;30;Plastico;Parcial;;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15112;JUEGOS INFANTILES;JUEGO INFANTIL;No;5;Plastico;Parcial;;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14712;ESCENARIO DEPORTIVO;ESTADIO DE ATLETISMO;;37212;Asfalto con sintetico;Parcial;Si;3000;10;4
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14731;ESCENARIO DEPORTIVO;Otro  (Escenario);;9031;Grama Natural;Parcial;Si;1200;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14739;ESCENARIO DEPORTIVO;ESTADIO DE BEISBOL;;15296;Grama Natural;Parcial;Si;600;0;2
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14793;ESCENARIO DEPORTIVO;PISTA DE BISICROSS;;5177;Asfalto sin sintetico;Parcial;No;500;10;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14794;ESCENARIO DEPORTIVO;PISTA DE BISICROSS;;812;Asfalto sin sintetico;Parcial;No;0;5;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14795;ESCENARIO DEPORTIVO;Otro  (Escenario);;7715;Polvo de ladrillo;Parcial;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14796;ESCENARIO DEPORTIVO;Otro  (Escenario);;1739;Arena;Parcial;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14797;ESCENARIO DEPORTIVO;Otro  (Escenario);;1031;Concreto;Parcial;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14934;CANCHAS DEPORTIVAS;Voleibol Playa;Si;300;Arena;Parcial;Si;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13274;JUEGOS INFANTILES;JUEGO INFANTIL;No;242;Asfalto sin sintetico;Parcial;;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13275;JUEGOS INFANTILES;BALANCIN;Si;5;Asfalto sin sintetico;Parcial;;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13276;JUEGOS INFANTILES;JUEGO INFANTIL;No;112;Asfalto sin sintetico;Parcial;;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13277;JUEGOS INFANTILES;JUEGO INFANTIL;No;88;Asfalto sin sintetico;Parcial;;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13278;JUEGOS INFANTILES;JUEGO INFANTIL;No;72;Asfalto sin sintetico;Parcial;;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13279;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;180;Asfalto sin sintetico;Parcial;No;10;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13283;CANCHAS DEPORTIVAS;Mini futbol;Si;2948;Grama Sintetica;Parcial;Si;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13284;CANCHAS DEPORTIVAS;Baloncesto;Si;392;Asfalto sin sintetico;Parcial;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12686;CANCHAS DEPORTIVAS;Fútbol;Si;6700;Grama Sintetica;Parcial;Si;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12687;CANCHAS DEPORTIVAS;Fútbol;Si;7140;Grama Natural;Parcial;Si;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12688;CANCHAS DEPORTIVAS;Fútbol;Si;4719;Grama Natural;Parcial;Si;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12689;ESCENARIO DEPORTIVO;PATINAJE ARTISTICO;;1976;Granito;Parcial;No;50;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12690;ESCENARIO DEPORTIVO;PATINAJE CARRERAS;;1456;Asfalto sin sintetico;Parcial;No;0;6;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12691;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;1416;Asfalto sin sintetico;Parcial;No;0;6;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12693;CANCHAS DEPORTIVAS;Voleibol Playa;Si;646;Arena;Parcial;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12711;CANCHAS DEPORTIVAS;Fútbol;No;558;Grama Natural;Parcial;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12712;CANCHAS DEPORTIVAS;Tennis;Si;666;Asfalto con sintetico;Parcial;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12713;CANCHAS DEPORTIVAS;Tennis;Si;666;Asfalto con sintetico;Parcial;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12714;CANCHAS DEPORTIVAS;Tennis;Si;666;Asfalto con sintetico;Parcial;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12715;CANCHAS DEPORTIVAS;Muro de Tennis;No;300;Asfalto con sintetico;Parcial;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12720;ESCENARIO DEPORTIVO;HOCKEY;;968;Granito;Parcial;Si;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13968;JUEGOS INFANTILES;PASAMANOS;No;366;Plastico;Parcial;;0;0;0
+03-036;Parque de escala zonal;Santafe;LAS CRUCES;14827;CANCHAS DEPORTIVAS;Fútbol;Si;1144;Grama Sintetica;Parcial;No;0;0;0
+03-036;Parque de escala zonal;Santafe;LAS CRUCES;14832;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;Si;80;Asfalto sin sintetico;Parcial;;0;0;0
+03-036;Parque de escala zonal;Santafe;LAS CRUCES;14835;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;200;Granito;Parcial;No;0;0;0
+01-012;Parque de escala zonal;Usaquen;LA VIDA;12400;CANCHAS DEPORTIVAS;Cancha multiple;No;378;Asfalto sin sintetico;Parcial;No;0;0;0
+01-064;Parque de escala zonal;Usaquen;NUEVA  AUTOPISTA;11479;JUEGOS INFANTILES;COLUMPIO;No;4;Asfalto sin sintetico;Parcial;;0;0;0
+01-064;Parque de escala zonal;Usaquen;NUEVA  AUTOPISTA;11509;CANCHAS DEPORTIVAS;Microfutbol;No;530;Asfalto sin sintetico;Parcial;No;0;0;0
+01-064;Parque de escala zonal;Usaquen;NUEVA  AUTOPISTA;12401;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;85;Asfalto sin sintetico;Parcial;;0;0;0
+01-064;Parque de escala zonal;Usaquen;NUEVA  AUTOPISTA;14690;JUEGOS INFANTILES;JUEGO INFANTIL;No;24;Asfalto sin sintetico;Parcial;;0;0;0
+01-064;Parque de escala zonal;Usaquen;NUEVA  AUTOPISTA;14691;JUEGOS INFANTILES;JUEGO INFANTIL;No;24;Asfalto sin sintetico;Parcial;;0;0;0
+01-064;Parque de escala zonal;Usaquen;NUEVA  AUTOPISTA;14692;JUEGOS INFANTILES;JUEGO INFANTIL;Si;24;Asfalto sin sintetico;Parcial;;0;0;0
+01-075;Parque de escala zonal;Usaquen;ALTA BLANCA;11500;ESCENARIO DEPORTIVO;PATINODROMO;;930;Granito;Parcial;Si;0;0;0
+01-075;Parque de escala zonal;Usaquen;ALTA BLANCA;11503;JUEGOS INFANTILES;COLUMPIO;No;10;Asfalto con sintetico;Parcial;;0;0;0
+01-075;Parque de escala zonal;Usaquen;ALTA BLANCA;11518;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;60;Asfalto con sintetico;Parcial;;0;0;0
+01-075;Parque de escala zonal;Usaquen;ALTA BLANCA;12403;ESCENARIO DEPORTIVO;HOCKEY;;800;Granito;Parcial;No;0;0;0
+02-004;Parque de escala zonal;Chapinero;GUSTAVO URIBE BOTERO;15192;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;510;Concreto;Parcial;No;0;0;0
+02-004;Parque de escala zonal;Chapinero;GUSTAVO URIBE BOTERO;15196;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;Si;302;Plastico;Parcial;;0;0;0
+02-014;Parque de escala zonal;Chapinero;CANAL EL VIRREY- EL CHICO;3107;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;300;Concreto;Parcial;;0;0;0
+02-014;Parque de escala zonal;Chapinero;CANAL EL VIRREY- EL CHICO;3108;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;300;Concreto;Parcial;;0;0;0
+02-014;Parque de escala zonal;Chapinero;CANAL EL VIRREY- EL CHICO;3109;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;100;Concreto;Parcial;;0;0;0
+02-014;Parque de escala zonal;Chapinero;CANAL EL VIRREY- EL CHICO;3110;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;100;Concreto;Parcial;;0;0;0
+03-014;Parque de escala zonal;Santafe;LOS LACHES LA MINA;11818;CANCHAS DEPORTIVAS;Microfutbol;No;463;Asfalto sin sintetico;Parcial;No;0;0;0
+03-014;Parque de escala zonal;Santafe;LOS LACHES LA MINA;11819;CANCHAS DEPORTIVAS;Cancha multiple;No;364;Asfalto sin sintetico;Parcial;No;0;0;0
+03-014;Parque de escala zonal;Santafe;LOS LACHES LA MINA;15321;CANCHAS DEPORTIVAS;Cancha multiple;Si;403;Asfalto sin sintetico;Parcial;Si;0;0;0
+04-013;Parque de escala zonal;San Cristobal;MORALBA;14413;CANCHAS DEPORTIVAS;Baloncesto;Si;448;Asfalto sin sintetico;Parcial;No;0;0;0
+04-013;Parque de escala zonal;San Cristobal;MORALBA;14415;CANCHAS DEPORTIVAS;Microfutbol;Si;504;Asfalto sin sintetico;Parcial;No;0;0;0
+04-013;Parque de escala zonal;San Cristobal;MORALBA;14419;JUEGOS INFANTILES;RODADERO;No;54;Asfalto sin sintetico;Parcial;;0;0;0
+04-013;Parque de escala zonal;San Cristobal;MORALBA;14420;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;35;Asfalto sin sintetico;Parcial;;0;0;0
+04-075;Parque de escala zonal;San Cristobal;VILLA DE LOS ALPES;14370;CANCHAS DEPORTIVAS;Microfutbol;Si;596;Asfalto sin sintetico;Parcial;No;0;0;0
+04-075;Parque de escala zonal;San Cristobal;VILLA DE LOS ALPES;14371;CANCHAS DEPORTIVAS;Microfutbol;Si;637;Asfalto sin sintetico;Parcial;No;0;0;0
+04-075;Parque de escala zonal;San Cristobal;VILLA DE LOS ALPES;14372;CANCHAS DEPORTIVAS;Baloncesto;Si;524;Asfalto sin sintetico;Parcial;No;0;0;0
+04-103;Parque de escala zonal;San Cristobal;GAITAN CORTES;14386;CANCHAS DEPORTIVAS;Fútbol;Si;5005;Grama Sintetica;Parcial;No;0;0;0
+04-103;Parque de escala zonal;San Cristobal;GAITAN CORTES;14388;CANCHAS DEPORTIVAS;Microfutbol;Si;396;Asfalto sin sintetico;Parcial;No;0;0;0
+04-122;Parque de escala zonal;San Cristobal;LA VICTORIA;3433;CANCHAS DEPORTIVAS;Otra (Cancha Deportiva);Si;375;Grama Sintetica;Parcial;;0;0;0
+04-122;Parque de escala zonal;San Cristobal;LA VICTORIA;3434;CANCHAS DEPORTIVAS;Otra (Cancha Deportiva);Si;375;Grama Sintetica;Parcial;;0;0;0
+04-122;Parque de escala zonal;San Cristobal;LA VICTORIA;15128;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Parcial;No;0;0;0
+04-122;Parque de escala zonal;San Cristobal;LA VICTORIA;15129;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Parcial;No;0;0;0
+04-122;Parque de escala zonal;San Cristobal;LA VICTORIA;15137;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;150;Asfalto con sintetico;Parcial;No;0;0;0
+04-122;Parque de escala zonal;San Cristobal;LA VICTORIA;15143;CANCHAS DEPORTIVAS;Tablero;No;3;Metal;Parcial;No;0;0;0
+04-122;Parque de escala zonal;San Cristobal;LA VICTORIA;15146;JUEGOS INFANTILES;Otro(Juego);No;60;Plastico;Parcial;;0;0;0
+04-122;Parque de escala zonal;San Cristobal;LA VICTORIA;15147;JUEGOS INFANTILES;Otro(Juego);No;100;Plastico;Parcial;;0;0;0
+04-122;Parque de escala zonal;San Cristobal;LA VICTORIA;15148;JUEGOS INFANTILES;Otro(Juego);No;100;Plastico;Parcial;;0;0;0
+05-002;Parque de escala zonal;Usme;LA AURORA II;12239;CANCHAS DEPORTIVAS;Microfutbol;No;651;Asfalto sin sintetico;Parcial;No;0;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12173;CANCHAS DEPORTIVAS;Microfutbol;No;608;Asfalto sin sintetico;Parcial;No;0;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12175;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;600;Granito;Parcial;No;20;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12178;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;112;Asfalto sin sintetico;Parcial;;0;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12179;JUEGOS INFANTILES;COLUMPIO;No;70;Asfalto sin sintetico;Parcial;;0;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12180;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;121;Asfalto con sintetico;Parcial;;0;0;0
+05-004;Parque de escala zonal;Usme;LA ANDREA;12261;CANCHAS DEPORTIVAS;Cancha multiple;No;450;Asfalto sin sintetico;Parcial;No;0;0;0
+05-016;Parque de escala zonal;Usme;EL VIRREY SUR;12304;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;120;Asfalto sin sintetico;Parcial;;0;0;0
+05-016;Parque de escala zonal;Usme;EL VIRREY SUR;12305;JUEGOS INFANTILES;COLUMPIO;No;1;Asfalto sin sintetico;Parcial;;0;0;0
+05-016;Parque de escala zonal;Usme;EL VIRREY SUR;12311;CANCHAS DEPORTIVAS;Cancha multiple;No;868;Asfalto sin sintetico;Parcial;No;0;0;0
+05-016;Parque de escala zonal;Usme;EL VIRREY SUR;12312;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;330;Asfalto sin sintetico;Parcial;;0;0;0
+05-016;Parque de escala zonal;Usme;EL VIRREY SUR;12313;JUEGOS INFANTILES;COLUMPIO;No;12;Asfalto sin sintetico;Parcial;;0;0;0
+05-016;Parque de escala zonal;Usme;EL VIRREY SUR;12314;JUEGOS INFANTILES;BALANCIN;No;8;Asfalto sin sintetico;Parcial;;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14133;CANCHAS DEPORTIVAS;Cancha multiple;Si;558;Asfalto sin sintetico;Parcial;No;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14144;CANCHAS DEPORTIVAS;Cancha multiple;Si;544;Asfalto sin sintetico;Parcial;No;0;0;0
+05-087;Parque de escala zonal;Usme;VILLA ALEMANA;13774;CANCHAS DEPORTIVAS;Voleibol;Si;435;Asfalto sin sintetico;Parcial;No;0;0;0
+05-087;Parque de escala zonal;Usme;VILLA ALEMANA;14238;CANCHAS DEPORTIVAS;Microfutbol;Si;660;Asfalto sin sintetico;Parcial;No;0;0;0
+05-236;Parque de escala zonal;Usme;SAN CAYETANO;13866;CANCHAS DEPORTIVAS;Microfutbol;Si;527;Asfalto sin sintetico;Parcial;No;0;0;0
+05-236;Parque de escala zonal;Usme;SAN CAYETANO;13868;CANCHAS DEPORTIVAS;Baloncesto;Si;512;Asfalto sin sintetico;Parcial;No;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;12635;CANCHAS DEPORTIVAS;Fútbol;Si;2720;Grama Natural;Parcial;No;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;14900;CANCHAS DEPORTIVAS;Microfutbol;Si;527;Asfalto sin sintetico;Parcial;No;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;14901;CANCHAS DEPORTIVAS;Microfutbol;Si;692;Asfalto sin sintetico;Parcial;No;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;14905;CANCHAS DEPORTIVAS;Cancha multiple;Si;451;Asfalto sin sintetico;Parcial;No;0;0;0
+07-035;Parque de escala zonal;Bosa;NARANJOS;12540;JUEGOS INFANTILES;JUEGO INFANTIL;No;364;Asfalto sin sintetico;Parcial;;0;0;0
+07-035;Parque de escala zonal;Bosa;NARANJOS;12541;JUEGOS INFANTILES;JUEGO INFANTIL;No;349;Asfalto sin sintetico;Parcial;;0;0;0
+07-035;Parque de escala zonal;Bosa;NARANJOS;12542;CANCHAS DEPORTIVAS;Microfutbol;Si;482;Asfalto sin sintetico;Parcial;No;0;0;0
+07-035;Parque de escala zonal;Bosa;NARANJOS;12543;CANCHAS DEPORTIVAS;Baloncesto;Si;453;Asfalto sin sintetico;Parcial;No;0;0;0
+07-035;Parque de escala zonal;Bosa;NARANJOS;12549;CANCHAS DEPORTIVAS;Fútbol;Si;5257;Grama Sintetica;Parcial;Si;0;0;0
+07-035;Parque de escala zonal;Bosa;NARANJOS;12550;CANCHAS DEPORTIVAS;Microfutbol;Si;600;Asfalto sin sintetico;Parcial;No;0;0;0
+07-035;Parque de escala zonal;Bosa;NARANJOS;12551;CANCHAS DEPORTIVAS;Microfutbol;Si;600;Asfalto sin sintetico;Parcial;No;0;0;0
+07-035;Parque de escala zonal;Bosa;NARANJOS;14175;CANCHAS DEPORTIVAS;Baloncesto;Si;330;Asfalto sin sintetico;Parcial;No;0;0;0
+07-035;Parque de escala zonal;Bosa;NARANJOS;14254;ESCENARIO DEPORTIVO;PISTA DE TROTE;;1057;Asfalto sin sintetico;Parcial;No;0;0;0
+07-152;Parque de escala zonal;Bosa;PAVCO - AUTOPISTA SUR;582;CANCHAS DEPORTIVAS;Baloncesto;Si;386;Asfalto con sintetico;Parcial;;0;0;0
+07-152;Parque de escala zonal;Bosa;PAVCO - AUTOPISTA SUR;583;CANCHAS DEPORTIVAS;Microfutbol;Si;386;Asfalto sin sintetico;Parcial;;0;0;0
+07-152;Parque de escala zonal;Bosa;PAVCO - AUTOPISTA SUR;15189;CANCHAS DEPORTIVAS;Fútbol;Si;968;Grama Sintetica;Parcial;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13897;CANCHAS DEPORTIVAS;Mini futbol;Si;1288;Grama Sintetica;Parcial;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13899;CANCHAS DEPORTIVAS;Microfutbol;Si;620;Asfalto sin sintetico;Parcial;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13904;CANCHAS DEPORTIVAS;Fútbol;Si;5269;Grama Sintetica;Parcial;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13906;CANCHAS DEPORTIVAS;Microfutbol;Si;603;Asfalto sin sintetico;Parcial;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14156;CANCHAS DEPORTIVAS;Fútbol;Si;2128;Grama Natural;Parcial;No;0;0;0
+07-165;Parque de escala zonal;Bosa;PALESTINA;12564;CANCHAS DEPORTIVAS;Microfutbol;Si;627;Asfalto sin sintetico;Parcial;No;0;0;0
+07-165;Parque de escala zonal;Bosa;PALESTINA;12565;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto con sintetico;Parcial;No;0;0;0
+07-274;Parque de escala zonal;Bosa;TIBANICA;14095;CANCHAS DEPORTIVAS;Voleibol;No;576;Asfalto sin sintetico;Parcial;No;0;0;0
+07-274;Parque de escala zonal;Bosa;TIBANICA;14239;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;90;Asfalto sin sintetico;Parcial;;0;0;0
+07-274;Parque de escala zonal;Bosa;TIBANICA;14353;CANCHAS DEPORTIVAS;Microfutbol;No;760;Asfalto sin sintetico;Parcial;No;0;0;0
+07-274;Parque de escala zonal;Bosa;TIBANICA;14354;CANCHAS DEPORTIVAS;Cancha multiple;No;760;Asfalto sin sintetico;Parcial;No;0;0;0
+07-274;Parque de escala zonal;Bosa;TIBANICA;14355;CANCHAS DEPORTIVAS;Baloncesto;No;623;Asfalto sin sintetico;Parcial;No;0;0;0
+07-274;Parque de escala zonal;Bosa;TIBANICA;14357;CANCHAS DEPORTIVAS;Voleibol;No;658;Asfalto sin sintetico;Parcial;No;0;0;0
+08-034;Parque de escala zonal;Kennedy;PATIO BONITO;12656;CANCHAS DEPORTIVAS;Cancha multiple;Si;390;Asfalto sin sintetico;Parcial;No;0;0;0
+08-034;Parque de escala zonal;Kennedy;PATIO BONITO;12657;CANCHAS DEPORTIVAS;Microfutbol;Si;390;Asfalto sin sintetico;Parcial;Si;0;0;0
+08-034;Parque de escala zonal;Kennedy;PATIO BONITO;12658;CANCHAS DEPORTIVAS;Baloncesto;Si;338;Asfalto sin sintetico;Parcial;No;0;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13882;CANCHAS DEPORTIVAS;Microfutbol;Si;578;Asfalto sin sintetico;Parcial;No;0;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13883;CANCHAS DEPORTIVAS;Microfutbol;Si;330;Asfalto sin sintetico;Parcial;No;0;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13885;CANCHAS DEPORTIVAS;Microfutbol;Si;308;Asfalto sin sintetico;Parcial;No;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14306;CANCHAS DEPORTIVAS;Microfutbol;Si;608;Asfalto sin sintetico;Parcial;No;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14307;CANCHAS DEPORTIVAS;Microfutbol;Si;608;Asfalto sin sintetico;Parcial;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13926;CANCHAS DEPORTIVAS;Cancha multiple;Si;390;Asfalto sin sintetico;Parcial;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13928;CANCHAS DEPORTIVAS;Cancha multiple;Si;413;Asfalto sin sintetico;Parcial;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13938;CANCHAS DEPORTIVAS;Fútbol;Si;6407;Grama Sintetica;Parcial;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;14296;CANCHAS DEPORTIVAS;Cancha multiple;Si;509;Asfalto sin sintetico;Parcial;No;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14069;CANCHAS DEPORTIVAS;Microfutbol;Si;760;Asfalto sin sintetico;Parcial;No;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14070;CANCHAS DEPORTIVAS;Microfutbol;Si;760;Asfalto sin sintetico;Parcial;No;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14101;JUEGOS INFANTILES;JUEGO INFANTIL;No;163;Asfalto sin sintetico;Parcial;;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14102;JUEGOS INFANTILES;COLUMPIO;No;15;Asfalto sin sintetico;Parcial;;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14110;JUEGOS INFANTILES;JUEGO INFANTIL;No;154;Asfalto sin sintetico;Parcial;;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14111;JUEGOS INFANTILES;BALANZA;No;8;Asfalto sin sintetico;Parcial;;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14113;JUEGOS INFANTILES;JUEGO INFANTIL;No;110;Asfalto sin sintetico;Parcial;;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14114;JUEGOS INFANTILES;COLUMPIO;No;18;Asfalto sin sintetico;Parcial;;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14350;CANCHAS DEPORTIVAS;Baloncesto;Si;574;Asfalto sin sintetico;Parcial;No;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14351;CANCHAS DEPORTIVAS;Cancha multiple;Si;500;Asfalto sin sintetico;Parcial;No;0;0;0
+09-020;Parque de escala zonal;Fontibon;CARMEN DE LA LAGUNA;11784;CANCHAS DEPORTIVAS;Microfutbol;No;1125;Asfalto sin sintetico;Parcial;No;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;11689;CANCHAS DEPORTIVAS;Tennis;Si;651;Asfalto sin sintetico;Parcial;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;15166;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;183;Granito;Parcial;No;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;15221;JUEGOS INFANTILES;JUEGO INFANTIL;No;192;Arena;Parcial;;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;15222;JUEGOS INFANTILES;JUEGO INFANTIL;No;83;Plastico;Parcial;;0;0;0
+10-169;Parque de escala zonal;Engativa;EL CARMELO;11774;CANCHAS DEPORTIVAS;Fútbol;Si;7035;Grama Sintetica;Parcial;No;0;0;0
+10-169;Parque de escala zonal;Engativa;EL CARMELO;15275;JUEGOS INFANTILES;JUEGO INFANTIL;No;100;Plastico;Parcial;;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;14678;ESCENARIO DEPORTIVO;PISTA DE BISICROSS;;3186;Arena;Parcial;No;0;8;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;15281;CANCHAS DEPORTIVAS;Mini futbol;Si;1500;Grama Sintetica;Parcial;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11279;CANCHAS DEPORTIVAS;Microfutbol;Si;684;Asfalto sin sintetico;Parcial;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11280;CANCHAS DEPORTIVAS;Microfutbol;Si;684;Asfalto sin sintetico;Parcial;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11283;ESCENARIO DEPORTIVO;PATINAJE CARRERAS;;1062;Granito;Parcial;No;0;4;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11294;CANCHAS DEPORTIVAS;Fútbol;Si;3146;Grama Sintetica;Parcial;No;0;0;0
+11-212;Parque de escala zonal;Suba;TIBABUYES;11598;CANCHAS DEPORTIVAS;Microfutbol;No;420;Asfalto sin sintetico;Parcial;No;0;0;0
+11-212;Parque de escala zonal;Suba;TIBABUYES;11599;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Parcial;No;0;0;0
+11-212;Parque de escala zonal;Suba;TIBABUYES;11600;CANCHAS DEPORTIVAS;Mini Voleibol;No;72;Asfalto sin sintetico;Parcial;No;0;0;0
+11-212;Parque de escala zonal;Suba;TIBABUYES;11606;ESCENARIO DEPORTIVO;PATINODROMO;;300;Granito;Parcial;No;0;0;0
+11-212;Parque de escala zonal;Suba;TIBABUYES;11607;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;120;Concreto;Parcial;No;11;0;0
+11-212;Parque de escala zonal;Suba;TIBABUYES;11608;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;144;Concreto;Parcial;;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14496;CANCHAS DEPORTIVAS;Microfutbol;No;994;Asfalto sin sintetico;Parcial;No;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14497;CANCHAS DEPORTIVAS;Microfutbol;No;994;Asfalto sin sintetico;Parcial;No;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14498;CANCHAS DEPORTIVAS;Voleibol;No;599;Asfalto sin sintetico;Parcial;No;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14500;CANCHAS DEPORTIVAS;Cancha multiple;No;412;Asfalto sin sintetico;Parcial;No;0;0;0
+14-030;Parque de escala zonal;Martires;EDUARDO SANTOS;14421;CANCHAS DEPORTIVAS;Fútbol;Si;1032;Grama Sintetica;Parcial;No;0;0;0
+14-030;Parque de escala zonal;Martires;EDUARDO SANTOS;14422;CANCHAS DEPORTIVAS;Microfutbol;Si;680;Asfalto sin sintetico;Parcial;No;0;0;0
+14-030;Parque de escala zonal;Martires;EDUARDO SANTOS;14582;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;600;Granito;Parcial;No;0;0;0
+14-030;Parque de escala zonal;Martires;EDUARDO SANTOS;14619;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;80;Plastico;Parcial;;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11888;CANCHAS DEPORTIVAS;Baloncesto;No;510;Asfalto sin sintetico;Parcial;No;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11889;CANCHAS DEPORTIVAS;Baloncesto;No;480;Asfalto sin sintetico;Parcial;No;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11893;CANCHAS DEPORTIVAS;Baloncesto;No;570;Asfalto sin sintetico;Parcial;No;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11894;CANCHAS DEPORTIVAS;Baloncesto;No;510;Asfalto sin sintetico;Parcial;No;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11896;CANCHAS DEPORTIVAS;Microfutbol;No;578;Asfalto sin sintetico;Parcial;No;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11912;CANCHAS DEPORTIVAS;Cancha multiple;No;612;Asfalto sin sintetico;Parcial;No;0;0;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11881;CANCHAS DEPORTIVAS;Baloncesto;No;608;Asfalto con sintetico;Parcial;No;0;0;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11882;CANCHAS DEPORTIVAS;Microfutbol;No;627;Asfalto sin sintetico;Parcial;No;0;0;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11884;JUEGOS INFANTILES;BALANCIN;No;1;Acero;Parcial;;0;0;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11885;JUEGOS INFANTILES;COLUMPIO;Si;1;Asfalto sin sintetico;Parcial;;0;0;0
+15-040;Parque de escala zonal;Antonio Nariño;LA FRAGUA;11835;CANCHAS DEPORTIVAS;Microfutbol;No;627;Asfalto sin sintetico;Parcial;No;0;0;0
+15-040;Parque de escala zonal;Antonio Nariño;LA FRAGUA;11836;CANCHAS DEPORTIVAS;Microfutbol;No;608;Asfalto sin sintetico;Parcial;No;0;0;0
+15-040;Parque de escala zonal;Antonio Nariño;LA FRAGUA;11838;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;403;Baldosa;Parcial;No;25;3;0
+15-040;Parque de escala zonal;Antonio Nariño;LA FRAGUA;11839;CANCHAS DEPORTIVAS;Mini Voleibol;No;217;Asfalto sin sintetico;Parcial;No;0;0;0
+15-040;Parque de escala zonal;Antonio Nariño;LA FRAGUA;11848;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;100;Asfalto con sintetico;Parcial;;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12053;CANCHAS DEPORTIVAS;Fútbol;Si;5824;Grama Natural;Parcial;No;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12057;JUEGOS INFANTILES;JUEGO INFANTIL;No;529;Asfalto sin sintetico;Parcial;;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12058;CANCHAS DEPORTIVAS;Microfutbol;Si;627;Asfalto sin sintetico;Parcial;No;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12071;CANCHAS DEPORTIVAS;Microfutbol;Si;608;Asfalto sin sintetico;Parcial;No;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;15003;CANCHAS DEPORTIVAS;Fútbol;Si;5824;Grama Natural;Parcial;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;11997;CANCHAS DEPORTIVAS;Fútbol;Si;5260;Grama Natural;Parcial;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;11998;CANCHAS DEPORTIVAS;Mini futbol;No;324;Grama Natural;Parcial;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;11999;CANCHAS DEPORTIVAS;Mini futbol;No;312;Grama Natural;Parcial;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12000;CANCHAS DEPORTIVAS;Mini futbol;No;312;Grama Natural;Parcial;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12001;CANCHAS DEPORTIVAS;Mini futbol;No;350;Grama Natural;Parcial;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12002;CANCHAS DEPORTIVAS;Mini futbol;No;350;Grama Natural;Parcial;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12010;CANCHAS DEPORTIVAS;Microfutbol;No;505;Asfalto sin sintetico;Parcial;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12020;ESCENARIO DEPORTIVO;PISTA DE TROTE;;2000;Carboncillo;Parcial;Si;120;2;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12021;ESCENARIO DEPORTIVO;PATINODROMO;;300;Granito;Parcial;No;30;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12025;JUEGOS INFANTILES;JUEGO INFANTIL;No;361;Arena;Parcial;;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;11969;CANCHAS DEPORTIVAS;Microfutbol;Si;960;Asfalto sin sintetico;Parcial;No;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;11983;CANCHAS DEPORTIVAS;Microfutbol;Si;897;Asfalto sin sintetico;Parcial;No;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;11986;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;99;Concreto;Parcial;;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;11987;ESCENARIO DEPORTIVO;PATINAJE CARRERAS;;1880;Granito;Parcial;No;30;3;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;11988;ESCENARIO DEPORTIVO;PATINODROMO;;2200;Granito;Parcial;Si;120;10;0
+17-008;Parque de escala zonal;Candelaria;LA CONCORDIA;14262;CANCHAS DEPORTIVAS;Cancha multiple;Si;533;Asfalto sin sintetico;Parcial;No;0;0;0
+18-031;Parque de escala zonal;Rafael Uribe;DIANA TURBAY;10259;CANCHAS DEPORTIVAS;Baloncesto;No;420;Asfalto sin sintetico;Parcial;;0;0;0
+18-031;Parque de escala zonal;Rafael Uribe;DIANA TURBAY;10260;CANCHAS DEPORTIVAS;Microfutbol;No;450;Asfalto sin sintetico;Parcial;;0;0;0
+18-162;Parque de escala zonal;Rafael Uribe;LOS MOLINOS II;13660;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;72;Asfalto sin sintetico;Parcial;;0;0;0
+18-162;Parque de escala zonal;Rafael Uribe;LOS MOLINOS II;13661;ESCENARIO DEPORTIVO;PATINODROMO;;600;Granito;Parcial;No;0;0;0
+18-162;Parque de escala zonal;Rafael Uribe;LOS MOLINOS II;13662;CANCHAS DEPORTIVAS;Microfutbol;Si;600;Asfalto sin sintetico;Parcial;No;0;0;0
+18-162;Parque de escala zonal;Rafael Uribe;LOS MOLINOS II;13665;CANCHAS DEPORTIVAS;Microfutbol;Si;520;Asfalto sin sintetico;Parcial;No;0;0;0
+18-162;Parque de escala zonal;Rafael Uribe;LOS MOLINOS II;13671;CANCHAS DEPORTIVAS;Tejo;No;147;Arena;Parcial;Si;0;0;0
+18-162;Parque de escala zonal;Rafael Uribe;LOS MOLINOS II;13698;JUEGOS INFANTILES;JUEGO INFANTIL;No;30;Asfalto sin sintetico;Parcial;;0;0;0
+18-205;Parque de escala zonal;Rafael Uribe;QUIROGA;13547;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;72;Asfalto sin sintetico;Parcial;;0;0;0
+18-205;Parque de escala zonal;Rafael Uribe;QUIROGA;13615;CANCHAS DEPORTIVAS;Cancha multiple;No;528;Asfalto sin sintetico;Parcial;No;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13781;JUEGOS INFANTILES;JUEGO INFANTIL;No;743;Asfalto sin sintetico;Parcial;;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13782;JUEGOS INFANTILES;JUEGO INFANTIL;No;1;Asfalto sin sintetico;Parcial;;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13783;JUEGOS INFANTILES;JUEGO INFANTIL;No;1;Asfalto sin sintetico;Parcial;;0;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12417;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Parcial;No;0;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12418;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Parcial;No;0;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12419;CANCHAS DEPORTIVAS;Microfutbol;Si;493;Asfalto sin sintetico;Parcial;No;0;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12422;CANCHAS DEPORTIVAS;Microfutbol;Si;493;Asfalto sin sintetico;Parcial;No;0;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12425;CANCHAS DEPORTIVAS;Cancha multiple;Si;171;Asfalto sin sintetico;Parcial;No;0;0;0
+19-189;Parque de escala zonal;Cuidad Bolivar;CANDELARIA LA NUEVA;12079;CANCHAS DEPORTIVAS;Microfutbol;Si;448;Asfalto sin sintetico;Parcial;No;0;0;0
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12273;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Parcial;Si;0;0;0
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12297;CANCHAS DEPORTIVAS;Microfutbol;Si;504;Asfalto sin sintetico;Parcial;No;0;0;0
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12298;CANCHAS DEPORTIVAS;Microfutbol;Si;420;Asfalto con sintetico;Parcial;No;0;0;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11927;CANCHAS DEPORTIVAS;Microfutbol;Si;608;Asfalto con sintetico;Parcial;No;0;0;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11934;CANCHAS DEPORTIVAS;Microfutbol;Si;608;Asfalto con sintetico;Parcial;No;0;0;0
+19-349;Parque de escala zonal;Cuidad Bolivar;LA JOYA;12492;CANCHAS DEPORTIVAS;Baloncesto;No;480;Asfalto sin sintetico;Parcial;No;0;0;0
+19-349;Parque de escala zonal;Cuidad Bolivar;LA JOYA;12493;CANCHAS DEPORTIVAS;Microfutbol;Si;364;Asfalto sin sintetico;Parcial;No;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;8766;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;205;Asfalto sin sintetico;Parcial;;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;8767;CANCHAS DEPORTIVAS;Baloncesto;Si;462;Asfalto sin sintetico;Parcial;;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;8768;CANCHAS DEPORTIVAS;Microfutbol;Si;477;Asfalto sin sintetico;Parcial;;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15170;CANCHAS DEPORTIVAS;Cancha multiple;Si;501;Asfalto sin sintetico;Parcial;No;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15171;CANCHAS DEPORTIVAS;Cancha multiple;Si;453;Asfalto sin sintetico;Parcial;No;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15173;CANCHAS DEPORTIVAS;Cancha multiple;Si;476;Asfalto sin sintetico;Parcial;No;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15176;CANCHAS DEPORTIVAS;Cancha multiple;Si;347;Asfalto sin sintetico;Parcial;No;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15182;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;197;Asfalto sin sintetico;Parcial;;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15183;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;86;Asfalto sin sintetico;Parcial;;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15184;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;60;Asfalto sin sintetico;Parcial;;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15185;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;155;Asfalto sin sintetico;Parcial;;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15186;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;64; Adoquin arcilla;Parcial;;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15187;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;192;Asfalto sin sintetico;Parcial;;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8797;JUEGOS INFANTILES;COLUMPIO;No;71;Asfalto sin sintetico;Parcial;;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8799;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;94;Asfalto sin sintetico;Parcial;;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8800;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;64;Asfalto sin sintetico;Parcial;;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8801;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;106;Asfalto sin sintetico;Parcial;;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8803;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;No;307;Granito;Parcial;;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8805;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;No;117;Asfalto sin sintetico;Parcial;;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8809;CANCHAS DEPORTIVAS;Microfutbol;Si;607;Asfalto sin sintetico;Parcial;;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8810;CANCHAS DEPORTIVAS;Microfutbol;Si;607;Asfalto sin sintetico;Parcial;;0;0;0
+12-023;Parque de escala zonal;Barrios Unidos;GIMNASIO DISTRITAL DEL NORTE;8817;JUEGOS INFANTILES;COLUMPIO;No;7;Asfalto sin sintetico;Parcial;;0;0;0
+12-023;Parque de escala zonal;Barrios Unidos;GIMNASIO DISTRITAL DEL NORTE;8818;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;16;Asfalto sin sintetico;Parcial;;0;0;0
+12-023;Parque de escala zonal;Barrios Unidos;GIMNASIO DISTRITAL DEL NORTE;8820;CANCHAS DEPORTIVAS;Fútbol;Si;1363;Grama Sintetica;Parcial;;0;0;0
+12-023;Parque de escala zonal;Barrios Unidos;GIMNASIO DISTRITAL DEL NORTE;8823;CANCHAS DEPORTIVAS;Microfutbol;No;412;Asfalto sin sintetico;Parcial;;0;0;0
+12-023;Parque de escala zonal;Barrios Unidos;GIMNASIO DISTRITAL DEL NORTE;8824;CANCHAS DEPORTIVAS;Microfutbol;Si;412;Asfalto sin sintetico;Parcial;;0;0;0
+12-023;Parque de escala zonal;Barrios Unidos;GIMNASIO DISTRITAL DEL NORTE;15024;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;16;Asfalto sin sintetico;Parcial;;0;0;0
+13-038;Parque de escala zonal;Teusaquillo;NICOLAS DE FEDERMAN 3;9225;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;No;60;Asfalto sin sintetico;Parcial;;0;0;0
+13-038;Parque de escala zonal;Teusaquillo;NICOLAS DE FEDERMAN 3;9227;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;No;540;Granito;Parcial;;20;0;0
+13-038;Parque de escala zonal;Teusaquillo;NICOLAS DE FEDERMAN 3;9229;CANCHAS DEPORTIVAS;Baloncesto;No;420;Asfalto sin sintetico;Parcial;;0;0;0
+08-791;Parque de escala zonal;Kennedy;San Ignacio;15160;ESCENARIO DEPORTIVO;HOCKEY;;806;Granito;Parcial;No;0;0;0
+08-791;Parque de escala zonal;Kennedy;San Ignacio;15161;ESCENARIO DEPORTIVO;PATINAJE CARRERAS;;1329;Asfalto con sintetico;Parcial;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14437;CANCHAS DEPORTIVAS;Baloncesto;No;450;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14438;CANCHAS DEPORTIVAS;Baloncesto;No;450;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14439;CANCHAS DEPORTIVAS;Baloncesto;No;450;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14440;CANCHAS DEPORTIVAS;Baloncesto;No;450;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14441;CANCHAS DEPORTIVAS;Baloncesto;No;450;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14442;CANCHAS DEPORTIVAS;Baloncesto;No;450;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14449;CANCHAS DEPORTIVAS;Muro de Tennis;No;256;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14450;CANCHAS DEPORTIVAS;Muro de Tennis;No;256;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14451;CANCHAS DEPORTIVAS;Muro de Tennis;No;256;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14452;CANCHAS DEPORTIVAS;Muro de Tennis;No;256;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14453;CANCHAS DEPORTIVAS;Mini Baloncesto;No;400;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14454;CANCHAS DEPORTIVAS;Mini Baloncesto;No;400;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14455;CANCHAS DEPORTIVAS;Mini Baloncesto;No;400;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14456;CANCHAS DEPORTIVAS;Mini Baloncesto;No;400;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14457;CANCHAS DEPORTIVAS;Mini Baloncesto;No;400;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14458;CANCHAS DEPORTIVAS;Microfutbol;No;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14459;CANCHAS DEPORTIVAS;Microfutbol;No;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14460;CANCHAS DEPORTIVAS;Microfutbol;No;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14461;CANCHAS DEPORTIVAS;Microfutbol;No;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14462;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14463;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14464;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14465;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14466;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14467;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14468;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14469;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14529;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14530;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14531;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14532;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14533;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14534;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14535;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14536;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14537;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14538;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14539;CANCHAS DEPORTIVAS;Fútbol;Si;6000;Grama Natural;Ninguna;No;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14567;JUEGOS INFANTILES;COLUMPIO;No;6;Concreto;Ninguna;;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14568;JUEGOS INFANTILES;BALANCIN;No;6;Concreto;Ninguna;;0;0;0
+10-311;Parque de escala regional;Engativa;LA FLORIDA;14569;JUEGOS INFANTILES;JUEGO INFANTIL;No;18;Grama Natural;Ninguna;;0;0;0
+01-1000;Parque de escala metropolitano;Usaquen;EL COUNTRY;11591;CANCHAS DEPORTIVAS;Otra (Cancha Deportiva);No;49302;Grama Natural;Ninguna;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13610;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;60;Concreto;Ninguna;No;10;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13611;JUEGOS INFANTILES;COLUMPIO;No;40;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13612;JUEGOS INFANTILES;RODADERO;No;38;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13613;JUEGOS INFANTILES;JUEGO INFANTIL;No;66;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );13614;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;70;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14845;CANCHAS DEPORTIVAS;Cancha multiple;Si;312;Asfalto sin sintetico;Ninguna;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14846;CANCHAS DEPORTIVAS;Tennis;Si;610;Polvo de ladrillo;Ninguna;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14847;CANCHAS DEPORTIVAS;Tennis;Si;610;Polvo de ladrillo;Ninguna;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14848;CANCHAS DEPORTIVAS;Tennis;Si;610;Polvo de ladrillo;Ninguna;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14849;CANCHAS DEPORTIVAS;Tennis;Si;610;Polvo de ladrillo;Ninguna;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14851;CANCHAS DEPORTIVAS;Tennis;Si;610;Polvo de ladrillo;Ninguna;No;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14886;JUEGOS INFANTILES;COLUMPIO;No;40;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14887;JUEGOS INFANTILES;COLUMPIO;No;40;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14888;JUEGOS INFANTILES;COLUMPIO;No;40;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14889;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;70;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14890;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;70;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14891;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;70;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14892;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;70;Arena;Ninguna;;0;0;0
+03-035;Parque de escala metropolitano;Santafe;PARQUE NACIONAL (PM-2A) ENRIQUE OLAYA HERRERA ( SECTOR HISTORICO );14893;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;70;Arena;Ninguna;;0;0;0
+03-085;Parque de escala metropolitano;Santafe;TERCER MILENIO;26;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;1206;Arena;Ninguna;;0;0;0
+03-085;Parque de escala metropolitano;Santafe;TERCER MILENIO;32;JUEGOS INFANTILES;COLUMPIO;No;735;Arena;Ninguna;;0;0;0
+03-085;Parque de escala metropolitano;Santafe;TERCER MILENIO;40;CANCHAS DEPORTIVAS;Baloncesto;No;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11312;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11313;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11314;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11315;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11316;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11317;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11318;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11319;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11321;CANCHAS DEPORTIVAS;Microfutbol;Si;448;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11324;CANCHAS DEPORTIVAS;Voleibol;Si;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11325;CANCHAS DEPORTIVAS;Voleibol;Si;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;11326;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;50;Arena;Ninguna;;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;14632;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;50;Arena;Ninguna;;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;14633;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;80;Arena;Ninguna;;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;14634;JUEGOS INFANTILES;COLUMPIO;No;4;Concreto;Ninguna;;0;0;0
+04-127;Parque de escala metropolitano;San Cristobal;SAN CRISTOBAL;14635;JUEGOS INFANTILES;ANIMALES ;No;153;Grama Natural;Ninguna;;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14401;CANCHAS DEPORTIVAS;Mini Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14402;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14403;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14404;CANCHAS DEPORTIVAS;Voleibol;Si;325;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14405;CANCHAS DEPORTIVAS;Voleibol;Si;325;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14406;CANCHAS DEPORTIVAS;Mini Voleibol;Si;128;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14407;CANCHAS DEPORTIVAS;Mini Baloncesto;Si;220;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14595;ESCENARIO DEPORTIVO;PISTA DE TROTE;;400;Carboncillo;Ninguna;No;0;1;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14638;ESCENARIO DEPORTIVO;PISTA DE BISICROSS;;4800;Arena;Ninguna;No;0;2;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14639;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;24;Arena;Ninguna;;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14640;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;24;Arena;Ninguna;;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14642;JUEGOS INFANTILES;COLUMPIO;No;4;Arena;Ninguna;;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14643;JUEGOS INFANTILES;COLUMPIO;No;4;Grama Natural;Ninguna;;0;0;0
+04-196;Parque de escala metropolitano;San Cristobal;DEPORTIVO PRIMERO DE MAYO;14645;JUEGOS INFANTILES;COLUMPIO;No;4;Arena;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12632;CANCHAS DEPORTIVAS;Baloncesto;Si;467;Asfalto con sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12633;CANCHAS DEPORTIVAS;Baloncesto;Si;467;Asfalto con sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12634;CANCHAS DEPORTIVAS;Baloncesto;Si;467;Asfalto con sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12749;CANCHAS DEPORTIVAS;Baloncesto;Si;467;Asfalto con sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12755;CANCHAS DEPORTIVAS;Baloncesto;Si;467;Asfalto con sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12827;CANCHAS DEPORTIVAS;Microfutbol;Si;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12829;CANCHAS DEPORTIVAS;Microfutbol;Si;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12830;CANCHAS DEPORTIVAS;Microfutbol;Si;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12831;CANCHAS DEPORTIVAS;Microfutbol;Si;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12832;CANCHAS DEPORTIVAS;Microfutbol;Si;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12833;CANCHAS DEPORTIVAS;Baloncesto;Si;467;Asfalto con sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12834;CANCHAS DEPORTIVAS;Baloncesto;Si;467;Asfalto con sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12835;CANCHAS DEPORTIVAS;Baloncesto;Si;467;Asfalto con sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12841;CANCHAS DEPORTIVAS;Baloncesto;Si;467;Asfalto con sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12853;JUEGOS INFANTILES;JUEGO INFANTIL;Si;42;Asfalto sin sintetico;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12854;JUEGOS INFANTILES;COLUMPIO;Si;42;Asfalto sin sintetico;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12855;JUEGOS INFANTILES;JUEGO INFANTIL;Si;96;Asfalto sin sintetico;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12856;JUEGOS INFANTILES;BALANZA;Si;18;Asfalto sin sintetico;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12857;JUEGOS INFANTILES;BALANZA;Si;12;Asfalto sin sintetico;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12858;JUEGOS INFANTILES;Otro(Juego);Si;24;Asfalto sin sintetico;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12859;JUEGOS INFANTILES;JUEGO INFANTIL;Si;286;Asfalto sin sintetico;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12860;JUEGOS INFANTILES;JUEGO INFANTIL;Si;143;Asfalto sin sintetico;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12861;JUEGOS INFANTILES;JUEGO INFANTIL;Si;323;Plastico;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12876;JUEGOS INFANTILES;RODADERO;Si;96;Plastico;Ninguna;;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;12973;CANCHAS DEPORTIVAS;Muro de Tennis;No;293;Concreto;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14190;ESCENARIO DEPORTIVO;PISTA DE ATLETISMO;;2905;Carboncillo;Ninguna;No;0;6;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;14195;ESCENARIO DEPORTIVO;PATINAJE CARRERAS;;1890;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-063;Parque de escala metropolitano;Tunjuelito;EL TUNAL;15167;CANCHAS DEPORTIVAS;Baloncesto;Si;467;Asfalto con sintetico;Ninguna;Si;0;0;0
+07-260;Parque de escala metropolitano;Bosa;EL RECREO;12700;JUEGOS INFANTILES;JUEGO INFANTIL;Si;336;Asfalto sin sintetico;Ninguna;;0;0;0
+07-260;Parque de escala metropolitano;Bosa;EL RECREO;12702;JUEGOS INFANTILES;COLUMPIO;Si;336;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13375;JUEGOS INFANTILES;BALANCIN;No;10;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13376;JUEGOS INFANTILES;BALANCIN;No;10;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13377;JUEGOS INFANTILES;BALANCIN;Si;10;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13378;JUEGOS INFANTILES;COLUMPIO;No;15;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13379;JUEGOS INFANTILES;COLUMPIO;No;15;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13380;JUEGOS INFANTILES;JUEGO INFANTIL;No;144;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13381;JUEGOS INFANTILES;JUEGO INFANTIL;No;110;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13382;CANCHAS DEPORTIVAS;Baloncesto;Si;563;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13383;CANCHAS DEPORTIVAS;Baloncesto;Si;551;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13427;JUEGOS INFANTILES;ARENERA;No;40;Arena;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13442;JUEGOS INFANTILES;Otro(Juego);Si;4; Adoquin arcilla;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13443;JUEGOS INFANTILES;JUEGO INFANTIL;No;100;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13454;JUEGOS INFANTILES;JUEGO INFANTIL;No;110;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;13455;JUEGOS INFANTILES;JUEGO INFANTIL;No;110;Asfalto sin sintetico;Ninguna;;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;14249;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;2881;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-219;Parque de escala metropolitano;Kennedy;TIMIZA;14915;JUEGOS INFANTILES;COLUMPIO;No;10;Asfalto sin sintetico;Ninguna;;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13195;CANCHAS DEPORTIVAS;Baloncesto;Si;540;Asfalto con sintetico;Ninguna;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13196;CANCHAS DEPORTIVAS;Voleibol;Si;325;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13199;CANCHAS DEPORTIVAS;Voleibol;Si;325;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13200;CANCHAS DEPORTIVAS;Voleibol;Si;350;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13201;CANCHAS DEPORTIVAS;Baloncesto;Si;540;Asfalto con sintetico;Ninguna;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13202;CANCHAS DEPORTIVAS;Baloncesto;Si;540;Asfalto con sintetico;Ninguna;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13203;CANCHAS DEPORTIVAS;Baloncesto;Si;540;Asfalto con sintetico;Ninguna;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13204;CANCHAS DEPORTIVAS;Baloncesto;Si;540;Asfalto con sintetico;Ninguna;No;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13206;JUEGOS INFANTILES;COLUMPIO;No;20;Asfalto sin sintetico;Ninguna;;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;13207;JUEGOS INFANTILES;COLUMPIO;No;20;Asfalto sin sintetico;Ninguna;;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14230;ESCENARIO DEPORTIVO;COLISEO AUXILIAR;;180;Baldosa;Ninguna;Si;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14232;ESCENARIO DEPORTIVO;PISTA DE BISICROSS;;1764;Arena;Ninguna;No;0;3;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14235;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;100;Asfalto sin sintetico;Ninguna;Si;0;0;0
+08-241;Parque de escala metropolitano;Kennedy;CAYETANO CAÐIZARES;14237;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;100;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15089;CANCHAS DEPORTIVAS;Fútbol;Si;6896;Grama Natural;Ninguna;No;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15090;CANCHAS DEPORTIVAS;Fútbol;Si;6562;Grama Natural;Ninguna;No;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15091;CANCHAS DEPORTIVAS;Fútbol;Si;5746;Grama Natural;Ninguna;No;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15092;CANCHAS DEPORTIVAS;Cancha multiple;Si;602;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15093;CANCHAS DEPORTIVAS;Cancha multiple;Si;598;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15094;CANCHAS DEPORTIVAS;Cancha multiple;Si;598;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15095;CANCHAS DEPORTIVAS;Voleibol Playa;Si;621;Arena;Ninguna;No;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15106;JUEGOS INFANTILES;JUEGO INFANTIL;Si;40; Adoquin arcilla;Ninguna;;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15111;JUEGOS INFANTILES;JUEGO INFANTIL;No;15;Plastico;Ninguna;;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15113;JUEGOS INFANTILES;BALANCIN;No;5;Plastico;Ninguna;;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15114;JUEGOS INFANTILES;Otro(Juego);No;13;Asfalto con sintetico;Ninguna;;0;0;0
+09-125;Parque de escala metropolitano;Fontibon;ZONA FRANCA (PM-16);15115;JUEGOS INFANTILES;Otro(Juego);No;5; Adoquin arcilla;Ninguna;;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14436;ESCENARIO DEPORTIVO;VELODROMO;;12536;Concreto;Ninguna;No;1000;0;36
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14598;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14599;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14600;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14601;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14602;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14603;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14604;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14605;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14606;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14607;CANCHAS DEPORTIVAS;Microfutbol;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14608;CANCHAS DEPORTIVAS;Microfutbol;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14609;CANCHAS DEPORTIVAS;Microfutbol;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14932;CANCHAS DEPORTIVAS;Voleibol Playa;Si;600;Arena;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14933;CANCHAS DEPORTIVAS;Voleibol Playa;Si;300;Arena;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14935;CANCHAS DEPORTIVAS;Tennis;Si;687;Polvo de ladrillo;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14936;CANCHAS DEPORTIVAS;Tennis;Si;687;Polvo de ladrillo;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14937;CANCHAS DEPORTIVAS;Tennis;Si;687;Polvo de ladrillo;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14938;CANCHAS DEPORTIVAS;Tennis;Si;687;Polvo de ladrillo;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14939;CANCHAS DEPORTIVAS;Tennis;Si;687; Adoquin arcilla;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14940;CANCHAS DEPORTIVAS;Tennis;Si;687;Polvo de ladrillo;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14941;CANCHAS DEPORTIVAS;Tennis;Si;687;Polvo de ladrillo;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14942;CANCHAS DEPORTIVAS;Tennis;Si;687;Polvo de ladrillo;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14943;CANCHAS DEPORTIVAS;Tennis;Si;687;Polvo de ladrillo;Ninguna;Si;0;0;0
+10-290;Parque de escala metropolitano;Engativa;SIMON BOLIVAR ( SECTOR UNIDAD DEPORTIVA EL SALITRE );14965;CANCHAS DEPORTIVAS;Squash;Si;62;Madera;Ninguna;Si;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13280;ESCENARIO DEPORTIVO;PISTA DE TROTE;;1693;Carboncillo;Ninguna;No;0;2;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13285;JUEGOS INFANTILES;JUEGO INFANTIL;No;120;Grama Natural;Ninguna;;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13286;CANCHAS DEPORTIVAS;Mini Baloncesto;Si;364;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13287;CANCHAS DEPORTIVAS;Microfutbol;No;180;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-028;Parque de escala metropolitano;Rafael Uribe;BOSQUE  SAN CARLOS;13288;JUEGOS INFANTILES;JUEGO INFANTIL;No;77;Grama Natural;Ninguna;;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12684;CANCHAS DEPORTIVAS;Mini Baloncesto;No;420;Asfalto con sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12685;CANCHAS DEPORTIVAS;Mini Baloncesto;No;420;Asfalto con sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12692;CANCHAS DEPORTIVAS;Voleibol;Si;384;Asfalto sin sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12709;CANCHAS DEPORTIVAS;Microfutbol;Si;527;Asfalto con sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12710;CANCHAS DEPORTIVAS;Microfutbol;Si;510;Asfalto con sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12716;CANCHAS DEPORTIVAS;Tejo;No;130;Grama Natural;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12748;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;72;Concreto;Ninguna;No;12;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12758;CANCHAS DEPORTIVAS;Mini Baloncesto;Si;384;Asfalto con sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12759;CANCHAS DEPORTIVAS;Mini Baloncesto;Si;384;Asfalto con sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12760;CANCHAS DEPORTIVAS;Mini Baloncesto;Si;384;Asfalto sin sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12764;CANCHAS DEPORTIVAS;Tennis de Mesa;No;112;Mixto(Metal-Madera);Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12765;JUEGOS INFANTILES;BALANCIN;No;16;Grama Natural;Ninguna;;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12766;JUEGOS INFANTILES;JUEGO INFANTIL;No;12;Grama Natural;Ninguna;;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12767;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;48;Grama Natural;Ninguna;;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12768;JUEGOS INFANTILES;BALANCIN;No;6;Grama Natural;Ninguna;;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12783;CANCHAS DEPORTIVAS;Microfutbol;No;350;Asfalto con sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12784;CANCHAS DEPORTIVAS;Microfutbol;No;350;Asfalto con sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );12785;CANCHAS DEPORTIVAS;Baloncesto;Si;522;Asfalto con sintetico;Ninguna;No;0;0;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );13254;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;1584;Asfalto sin sintetico;Ninguna;No;10;2;0
+12-091;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DEPORTIVO EL SALITRE );15116;CANCHAS DEPORTIVAS;Baloncesto;Si;522;Asfalto sin sintetico;Ninguna;No;0;0;0
+12-092;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DE LOS NOVIOS );12450;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;80;Grama Natural;Ninguna;No;16;0;0
+12-092;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DE LOS NOVIOS );12451;ESCENARIO DEPORTIVO;LAGO ;;159500;Arena;Ninguna;No;0;0;0
+12-092;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DE LOS NOVIOS );12452;ESCENARIO DEPORTIVO;LAGO ;;770;Arena;Ninguna;No;0;0;0
+12-092;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DE LOS NOVIOS );12454;JUEGOS INFANTILES;PASAMANOS;No;3;Grama Natural;Ninguna;;0;0;0
+12-092;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DE LOS NOVIOS );12455;JUEGOS INFANTILES;ARENERA;No;16;Arena;Ninguna;;0;0;0
+12-092;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DE LOS NOVIOS );12456;JUEGOS INFANTILES;BARRAS;No;2;Grama Natural;Ninguna;;0;0;0
+12-092;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DE LOS NOVIOS );12457;JUEGOS INFANTILES;COLUMPIO;No;5;Grama Natural;Ninguna;;0;0;0
+12-092;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DE LOS NOVIOS );12458;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;21;Grama Natural;Ninguna;;0;0;0
+12-092;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DE LOS NOVIOS );12459;JUEGOS INFANTILES;BALANCIN;No;3;Grama Natural;Ninguna;;0;0;0
+12-092;Parque de escala metropolitano;Barrios Unidos;SIMON BOLIVAR ( SECTOR PARQUE DE LOS NOVIOS );12460;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;15;Grama Natural;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13970;JUEGOS INFANTILES;COLUMPIO;No;226;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13971;JUEGOS INFANTILES;BALANCIN;No;192;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13972;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;357;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13973;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;218;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13974;JUEGOS INFANTILES;JUEGO INFANTIL;No;374;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13975;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;360;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13976;JUEGOS INFANTILES;COLUMPIO;Si;174; Adoquin arcilla;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13982;JUEGOS INFANTILES;COLUMPIO;Si;69;Arena;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13983;JUEGOS INFANTILES;ARENERA;Si;3181;Arena;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13984;JUEGOS INFANTILES;ARENERA;No;800;Arena;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13992;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;165;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13993;JUEGOS INFANTILES;JUEGO INFANTIL;No;169;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13994;JUEGOS INFANTILES;JUEGO INFANTIL;No;165;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13995;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;Si;247;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13996;JUEGOS INFANTILES;JUEGO INFANTIL;No;156;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );13997;JUEGOS INFANTILES;JUEGO INFANTIL;No;285;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );14010;JUEGOS INFANTILES;JUEGO INFANTIL;No;156;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );14012;JUEGOS INFANTILES;COLUMPIO;Si;80; Adoquin arcilla;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );14014;JUEGOS INFANTILES;JUEGO INFANTIL;No;89;Asfalto sin sintetico;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );14017;JUEGOS INFANTILES;ARENERA;Si;95;Arena;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );14018;JUEGOS INFANTILES;JUEGO INFANTIL;Si;448; Adoquin arcilla;Ninguna;;0;0;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );14024;ESCENARIO DEPORTIVO;Otro  (Escenario);;5012;Grama Natural;Ninguna;No;100;1;0
+13-089;Parque de escala metropolitano;Teusaquillo;SIMON BOLIVAR ( SECTOR CENTRAL );14025;ESCENARIO DEPORTIVO;PISTA DE TROTE;;5197;Polvo de ladrillo;Ninguna;No;100;1;0
+03-036;Parque de escala zonal;Santafe;LAS CRUCES;14828;CANCHAS DEPORTIVAS;Microfutbol;Si;480;Asfalto sin sintetico;Ninguna;Si;0;0;0
+03-036;Parque de escala zonal;Santafe;LAS CRUCES;14829;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;Si;0;0;0
+03-036;Parque de escala zonal;Santafe;LAS CRUCES;14830;CANCHAS DEPORTIVAS;Voleibol;Si;160;Asfalto sin sintetico;Ninguna;Si;0;0;0
+03-036;Parque de escala zonal;Santafe;LAS CRUCES;14833;JUEGOS INFANTILES;RODADERO;No;20;Concreto;Ninguna;;0;0;0
+03-036;Parque de escala zonal;Santafe;LAS CRUCES;14834;JUEGOS INFANTILES;COLUMPIO;Si;7;Grama Natural;Ninguna;;0;0;0
+01-012;Parque de escala zonal;Usaquen;LA VIDA;11461;JUEGOS INFANTILES;BALANCIN;No;6;Grama Natural;Ninguna;;0;0;0
+01-012;Parque de escala zonal;Usaquen;LA VIDA;11468;JUEGOS INFANTILES;RODADERO;Si;4;Plastico;Ninguna;;0;0;0
+01-012;Parque de escala zonal;Usaquen;LA VIDA;11507;JUEGOS INFANTILES;COLUMPIO;No;24;Grama Natural;Ninguna;;0;0;0
+01-012;Parque de escala zonal;Usaquen;LA VIDA;14695;JUEGOS INFANTILES;PASAMANOS;No;11;Grama Natural;Ninguna;;0;0;0
+01-023;Parque de escala zonal;Usaquen;SERVITA;11392;ESCENARIO DEPORTIVO;Otro  (Escenario);;45;Arena;Ninguna;No;0;0;0
+01-023;Parque de escala zonal;Usaquen;SERVITA;11398;CANCHAS DEPORTIVAS;Fútbol;Si;7140;Grama Natural;Ninguna;Si;0;0;0
+01-023;Parque de escala zonal;Usaquen;SERVITA;11400;CANCHAS DEPORTIVAS;Mini Tejo ;Si;120;Cemento;Ninguna;No;0;0;0
+01-023;Parque de escala zonal;Usaquen;SERVITA;11433;ESCENARIO DEPORTIVO;PISTA DE TROTE;;1400;Carboncillo;Ninguna;No;0;3;0
+01-023;Parque de escala zonal;Usaquen;SERVITA;11563;CANCHAS DEPORTIVAS;Cancha multiple;No;420;Concreto;Ninguna;No;0;0;0
+01-023;Parque de escala zonal;Usaquen;SERVITA;14528;ESCENARIO DEPORTIVO;Otro  (Escenario);;20;Concreto;Ninguna;No;0;1;0
+01-064;Parque de escala zonal;Usaquen;NUEVA  AUTOPISTA;11510;CANCHAS DEPORTIVAS;Baloncesto;No;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+01-064;Parque de escala zonal;Usaquen;NUEVA  AUTOPISTA;15325;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;54; Adoquin arcilla;Ninguna;No;0;0;0
+01-075;Parque de escala zonal;Usaquen;ALTA BLANCA;11492;CANCHAS DEPORTIVAS;Voleibol;No;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+01-075;Parque de escala zonal;Usaquen;ALTA BLANCA;11513;CANCHAS DEPORTIVAS;Microfutbol;No;530;Asfalto sin sintetico;Ninguna;No;0;0;0
+01-075;Parque de escala zonal;Usaquen;ALTA BLANCA;11514;CANCHAS DEPORTIVAS;Baloncesto;No;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+01-075;Parque de escala zonal;Usaquen;ALTA BLANCA;11515;CANCHAS DEPORTIVAS;Mini Baloncesto;No;312;Asfalto sin sintetico;Ninguna;No;0;0;0
+01-075;Parque de escala zonal;Usaquen;ALTA BLANCA;11517;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;111;Concreto;Ninguna;;0;0;0
+02-014;Parque de escala zonal;Chapinero;CANAL EL VIRREY- EL CHICO;3111;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;No;100; Adoquin arcilla;Ninguna;;12;0;0
+03-014;Parque de escala zonal;Santafe;LOS LACHES LA MINA;13569;JUEGOS INFANTILES;COLUMPIO;No;2;Asfalto sin sintetico;Ninguna;;0;0;0
+03-014;Parque de escala zonal;Santafe;LOS LACHES LA MINA;13571;JUEGOS INFANTILES;BALANCIN;No;8;Asfalto sin sintetico;Ninguna;;0;0;0
+03-014;Parque de escala zonal;Santafe;LOS LACHES LA MINA;13573;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;30;Asfalto sin sintetico;Ninguna;;0;0;0
+03-014;Parque de escala zonal;Santafe;LOS LACHES LA MINA;13574;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;12;Asfalto sin sintetico;Ninguna;;0;0;0
+04-013;Parque de escala zonal;San Cristobal;MORALBA;14414;CANCHAS DEPORTIVAS;Baloncesto;Si;448;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-075;Parque de escala zonal;San Cristobal;VILLA DE LOS ALPES;14373;CANCHAS DEPORTIVAS;Voleibol;Si;212;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-075;Parque de escala zonal;San Cristobal;VILLA DE LOS ALPES;14382;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;36;Granito;Ninguna;No;0;0;0
+04-075;Parque de escala zonal;San Cristobal;VILLA DE LOS ALPES;14383;JUEGOS INFANTILES;COLUMPIO;No;14; Adoquin arcilla;Ninguna;;0;0;0
+04-075;Parque de escala zonal;San Cristobal;VILLA DE LOS ALPES;14384;JUEGOS INFANTILES;RODADERO;No;40; Adoquin arcilla;Ninguna;;0;0;0
+04-075;Parque de escala zonal;San Cristobal;VILLA DE LOS ALPES;14385;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;21; Adoquin arcilla;Ninguna;;0;0;0
+04-103;Parque de escala zonal;San Cristobal;GAITAN CORTES;14387;CANCHAS DEPORTIVAS;Microfutbol;Si;396;Asfalto con sintetico;Ninguna;No;0;0;0
+04-103;Parque de escala zonal;San Cristobal;GAITAN CORTES;14389;CANCHAS DEPORTIVAS;Baloncesto;Si;396;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-103;Parque de escala zonal;San Cristobal;GAITAN CORTES;14390;CANCHAS DEPORTIVAS;Mini Baloncesto;Si;242;Asfalto sin sintetico;Ninguna;No;0;0;0
+04-103;Parque de escala zonal;San Cristobal;GAITAN CORTES;14395;JUEGOS INFANTILES;COLUMPIO;No;6;Asfalto sin sintetico;Ninguna;;0;0;0
+04-103;Parque de escala zonal;San Cristobal;GAITAN CORTES;14396;JUEGOS INFANTILES;RODADERO;No;2;Asfalto sin sintetico;Ninguna;;0;0;0
+04-103;Parque de escala zonal;San Cristobal;GAITAN CORTES;14397;JUEGOS INFANTILES;RODADERO;No;2;Asfalto sin sintetico;Ninguna;;0;0;0
+04-103;Parque de escala zonal;San Cristobal;GAITAN CORTES;14398;JUEGOS INFANTILES;PASAMANOS;No;2;Asfalto sin sintetico;Ninguna;;0;0;0
+05-002;Parque de escala zonal;Usme;LA AURORA II;12209;ESCENARIO DEPORTIVO;PISTA DE TROTE;;752;Asfalto sin sintetico;Ninguna;No;120;2;0
+05-002;Parque de escala zonal;Usme;LA AURORA II;12218;JUEGOS INFANTILES;COLUMPIO;No;48;Concreto;Ninguna;;0;0;0
+05-002;Parque de escala zonal;Usme;LA AURORA II;12219;JUEGOS INFANTILES;BALANCIN;No;48;Concreto;Ninguna;;0;0;0
+05-002;Parque de escala zonal;Usme;LA AURORA II;12240;CANCHAS DEPORTIVAS;Baloncesto;No;504;Asfalto sin sintetico;Ninguna;No;0;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12171;CANCHAS DEPORTIVAS;Voleibol;No;220;Asfalto sin sintetico;Ninguna;No;0;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12172;CANCHAS DEPORTIVAS;Voleibol;No;220;Asfalto sin sintetico;Ninguna;No;0;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12174;CANCHAS DEPORTIVAS;Baloncesto;No;391;Asfalto sin sintetico;Ninguna;No;0;0;0
+05-003;Parque de escala zonal;Usme;VALLES DE CAFAM;12177;ESCENARIO DEPORTIVO;PATINAJE CARRERAS;;200;Asfalto sin sintetico;Ninguna;No;12;1;0
+05-004;Parque de escala zonal;Usme;LA ANDREA;12259;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;156;Asfalto sin sintetico;Ninguna;No;20;2;0
+05-004;Parque de escala zonal;Usme;LA ANDREA;12262;JUEGOS INFANTILES;COLUMPIO;No;49; Adoquin arcilla;Ninguna;;0;0;0
+05-016;Parque de escala zonal;Usme;EL VIRREY SUR;12309;CANCHAS DEPORTIVAS;Mini Tejo ;No;140;Asfalto sin sintetico;Ninguna;No;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14134;JUEGOS INFANTILES;JUEGO INFANTIL;Si;60;Grama Natural;Ninguna;;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14135;JUEGOS INFANTILES;BALANZA;Si;8;Grama Natural;Ninguna;;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14136;JUEGOS INFANTILES;JUEGO INFANTIL;Si;70;Asfalto sin sintetico;Ninguna;;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14138;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;128;Asfalto sin sintetico;Ninguna;No;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14139;JUEGOS INFANTILES;JUEGO INFANTIL;Si;90;Asfalto sin sintetico;Ninguna;;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14140;JUEGOS INFANTILES;COLUMPIO;Si;42;Asfalto sin sintetico;Ninguna;;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14142;JUEGOS INFANTILES;COLUMPIO;Si;18;Cemento;Ninguna;;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14143;JUEGOS INFANTILES;JUEGO INFANTIL;Si;132;Asfalto sin sintetico;Ninguna;;0;0;0
+05-086;Parque de escala zonal;Usme;FAMACO;14147;ESCENARIO DEPORTIVO;Otro  (Escenario);;184;Concreto;Ninguna;No;0;0;0
+05-087;Parque de escala zonal;Usme;VILLA ALEMANA;13772;CANCHAS DEPORTIVAS;Baloncesto;Si;527;Asfalto sin sintetico;Ninguna;No;0;0;0
+05-087;Parque de escala zonal;Usme;VILLA ALEMANA;13784;JUEGOS INFANTILES;COLUMPIO;Si;100;Asfalto sin sintetico;Ninguna;;0;0;0
+05-087;Parque de escala zonal;Usme;VILLA ALEMANA;13801;JUEGOS INFANTILES;JUEGO INFANTIL;Si;100; Adoquin arcilla;Ninguna;;0;0;0
+05-087;Parque de escala zonal;Usme;VILLA ALEMANA;13802;JUEGOS INFANTILES;JUEGO INFANTIL;Si;100;Asfalto sin sintetico;Ninguna;;0;0;0
+05-087;Parque de escala zonal;Usme;VILLA ALEMANA;13804;JUEGOS INFANTILES;COLUMPIO;Si;100;Asfalto sin sintetico;Ninguna;;0;0;0
+05-087;Parque de escala zonal;Usme;VILLA ALEMANA;14240;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;100;Asfalto sin sintetico;Ninguna;No;0;0;0
+05-087;Parque de escala zonal;Usme;VILLA ALEMANA;14241;JUEGOS INFANTILES;JUEGO INFANTIL;Si;110;Asfalto sin sintetico;Ninguna;;0;0;0
+05-236;Parque de escala zonal;Usme;SAN CAYETANO;13862;JUEGOS INFANTILES;JUEGO INFANTIL;Si;110;Asfalto sin sintetico;Ninguna;;0;0;0
+05-236;Parque de escala zonal;Usme;SAN CAYETANO;13863;JUEGOS INFANTILES;COLUMPIO;Si;72;Asfalto sin sintetico;Ninguna;;0;0;0
+05-236;Parque de escala zonal;Usme;SAN CAYETANO;13864;JUEGOS INFANTILES;JUEGO INFANTIL;Si;90;Asfalto sin sintetico;Ninguna;;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;12637;CANCHAS DEPORTIVAS;Microfutbol;Si;608;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;12638;CANCHAS DEPORTIVAS;Baloncesto;Si;435;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;12640;JUEGOS INFANTILES;COLUMPIO;No;10;Asfalto sin sintetico;Ninguna;;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;12641;JUEGOS INFANTILES;JUEGO INFANTIL;No;200;Asfalto sin sintetico;Ninguna;;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;12642;ESCENARIO DEPORTIVO;COLISEO;;1088;Asfalto con sintetico;Ninguna;Si;400;0;10
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;14902;CANCHAS DEPORTIVAS;Baloncesto;Si;477;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;14903;CANCHAS DEPORTIVAS;Cancha multiple;Si;504;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;14904;CANCHAS DEPORTIVAS;Cancha multiple;Si;396;Asfalto sin sintetico;Ninguna;No;0;0;0
+06-017;Parque de escala zonal;Tunjuelito;NUEVO MUZU;14906;CANCHAS DEPORTIVAS;Cancha multiple;Si;476;Asfalto sin sintetico;Ninguna;No;0;0;0
+07-035;Parque de escala zonal;Bosa;NARANJOS;12545;CANCHAS DEPORTIVAS;Baloncesto;Si;493;Asfalto sin sintetico;Ninguna;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13900;CANCHAS DEPORTIVAS;Voleibol;Si;220;Asfalto sin sintetico;Ninguna;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13901;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Ninguna;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13903;ESCENARIO DEPORTIVO;PATINODROMO;;1071;Granito;Ninguna;No;0;6;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13905;CANCHAS DEPORTIVAS;Baloncesto;Si;384;Asfalto sin sintetico;Ninguna;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13907;CANCHAS DEPORTIVAS;Voleibol;Si;112;Asfalto sin sintetico;Ninguna;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13908;JUEGOS INFANTILES;BALANZA;Si;18;Grama Natural;Ninguna;;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13909;JUEGOS INFANTILES;BALANCIN;Si;72;Asfalto sin sintetico;Ninguna;;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13910;JUEGOS INFANTILES;BALANZA;Si;12;Asfalto sin sintetico;Ninguna;;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13911;JUEGOS INFANTILES;JUEGO INFANTIL;Si;72;Asfalto sin sintetico;Ninguna;;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13912;JUEGOS INFANTILES;COLUMPIO;Si;15;Asfalto sin sintetico;Ninguna;;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13913;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;92; Adoquin arcilla;Ninguna;No;0;0;0
+07-163;Parque de escala zonal;Bosa;CLARELANDIA;13914;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;510;Granito;Ninguna;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14155;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1147;Mampostería;Ninguna;Si;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14158;CANCHAS DEPORTIVAS;Mini Baloncesto;Si;368;Asfalto con sintetico;Ninguna;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14159;CANCHAS DEPORTIVAS;Voleibol;Si;187;Asfalto con sintetico;Ninguna;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14160;CANCHAS DEPORTIVAS;Voleibol;Si;187;Asfalto con sintetico;Ninguna;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14161;CANCHAS DEPORTIVAS;Voleibol;Si;187;Asfalto con sintetico;Ninguna;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14162;CANCHAS DEPORTIVAS;Microfutbol;Si;448;Asfalto con sintetico;Ninguna;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14163;CANCHAS DEPORTIVAS;Baloncesto;Si;448;Asfalto con sintetico;Ninguna;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14164;CANCHAS DEPORTIVAS;Baloncesto;Si;448;Asfalto con sintetico;Ninguna;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14165;CANCHAS DEPORTIVAS;Microfutbol;Si;476;Asfalto con sintetico;Ninguna;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14166;ESCENARIO DEPORTIVO;PISTA DE PATINAJE;;206;Asfalto sin sintetico;Ninguna;No;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14167;JUEGOS INFANTILES;RODADERO;Si;3;Grama Natural;Ninguna;;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14168;JUEGOS INFANTILES;RODADERO;Si;3;Grama Natural;Ninguna;;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14169;JUEGOS INFANTILES;COLUMPIO;Si;10;Concreto;Ninguna;;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14170;JUEGOS INFANTILES;COLUMPIO;Si;10;Cemento;Ninguna;;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14171;JUEGOS INFANTILES;JUEGO INFANTIL;Si;110;Asfalto con sintetico;Ninguna;;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14172;JUEGOS INFANTILES;BALANZA;Si;12;Asfalto con sintetico;Ninguna;;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14173;JUEGOS INFANTILES;BALANZA;Si;12;Asfalto con sintetico;Ninguna;;0;0;0
+07-164;Parque de escala zonal;Bosa;PARQUE DEL RIO;14174;JUEGOS INFANTILES;COLUMPIO;Si;6;Concreto;Ninguna;;0;0;0
+07-165;Parque de escala zonal;Bosa;PALESTINA;12566;CANCHAS DEPORTIVAS;Voleibol;Si;220;Asfalto con sintetico;Ninguna;No;0;0;0
+07-165;Parque de escala zonal;Bosa;PALESTINA;12567;CANCHAS DEPORTIVAS;Patinòdromo recreativos;Si;600;Granito;Ninguna;No;0;0;0
+07-165;Parque de escala zonal;Bosa;PALESTINA;12568;JUEGOS INFANTILES;JUEGO INFANTIL;Si;162;Asfalto con sintetico;Ninguna;;0;0;0
+07-165;Parque de escala zonal;Bosa;PALESTINA;12569;JUEGOS INFANTILES;JUEGO INFANTIL;Si;162;Asfalto con sintetico;Ninguna;;0;0;0
+07-165;Parque de escala zonal;Bosa;PALESTINA;14268;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;986;Asfalto sin sintetico;Ninguna;Si;554;0;12
+07-165;Parque de escala zonal;Bosa;PALESTINA;14269;CANCHAS DEPORTIVAS;Cancha multiple;Si;714;Asfalto sin sintetico;Ninguna;Si;0;0;0
+07-274;Parque de escala zonal;Bosa;TIBANICA;14356;CANCHAS DEPORTIVAS;Baloncesto;No;623;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-034;Parque de escala zonal;Kennedy;PATIO BONITO;12670;JUEGOS INFANTILES;JUEGO INFANTIL;No;180;Asfalto sin sintetico;Ninguna;;0;0;0
+08-034;Parque de escala zonal;Kennedy;PATIO BONITO;14243;ESCENARIO DEPORTIVO;PISCINA;;651;Baldosa;Ninguna;Si;75;6;2
+08-034;Parque de escala zonal;Kennedy;PATIO BONITO;14244;ESCENARIO DEPORTIVO;PISCINA;;112;Baldosa;Ninguna;Si;40;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13875;ESCENARIO DEPORTIVO;DUNT;;180;Cemento;Ninguna;No;0;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13877;JUEGOS INFANTILES;JUEGO INFANTIL;Si;90;Asfalto sin sintetico;Ninguna;;0;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13878;JUEGOS INFANTILES;JUEGO INFANTIL;Si;64;Asfalto sin sintetico;Ninguna;;0;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13879;JUEGOS INFANTILES;JUEGO INFANTIL;Si;64;Asfalto sin sintetico;Ninguna;;0;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13880;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;100;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13881;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-144;Parque de escala zonal;Kennedy;BELLAVISTA-DINDALITO;13884;CANCHAS DEPORTIVAS;Baloncesto;Si;540;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14308;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14309;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14310;CANCHAS DEPORTIVAS;Voleibol;Si;240;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14312;CANCHAS DEPORTIVAS;Mini Baloncesto;No;368;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14314;JUEGOS INFANTILES;JUEGO INFANTIL;Si;132;Asfalto sin sintetico;Ninguna;;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14315;JUEGOS INFANTILES;Otro(Juego);Si;10; Adoquin arcilla;Ninguna;;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14316;JUEGOS INFANTILES;COLUMPIO;Si;15;Concreto;Ninguna;;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14317;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;546;Granito;Ninguna;No;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14318;ESCENARIO DEPORTIVO;PATINAJE CARRERAS;;204;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-200;Parque de escala zonal;Kennedy;CASTILLA;14319;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1190;Baldosa;Ninguna;Si;300;0;4
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13930;JUEGOS INFANTILES;COLUMPIO;Si;12;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13931;JUEGOS INFANTILES;JUEGO INFANTIL;Si;36;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13932;JUEGOS INFANTILES;BALANZA;Si;16;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13934;JUEGOS INFANTILES;JUEGO INFANTIL;Si;30;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13935;JUEGOS INFANTILES;JUEGO INFANTIL;Si;36;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13936;JUEGOS INFANTILES;JUEGO INFANTIL;Si;30;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13937;JUEGOS INFANTILES;COLUMPIO;Si;15;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13940;CANCHAS DEPORTIVAS;Microfutbol;Si;365;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13942;CANCHAS DEPORTIVAS;Cancha multiple;Si;377;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13943;CANCHAS DEPORTIVAS;Cancha multiple;Si;562;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13944;CANCHAS DEPORTIVAS;Microfutbol;Si;493;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13945;CANCHAS DEPORTIVAS;Baloncesto;Si;365;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;13946;CANCHAS DEPORTIVAS;Mini futbol;No;1425;Grama Natural;Ninguna;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;14090;ESCENARIO DEPORTIVO;PISTA DE ATLETISMO;;1400;Carboncillo;Ninguna;Si;0;3;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;14294;CANCHAS DEPORTIVAS;Fútbol;No;3175;Grama Natural;Ninguna;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;14295;CANCHAS DEPORTIVAS;Microfutbol;Si;508;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;14297;JUEGOS INFANTILES;JUEGO INFANTIL;Si;50;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;14298;JUEGOS INFANTILES;BALANZA;Si;15;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;14299;JUEGOS INFANTILES;COLUMPIO;Si;25;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;14300;JUEGOS INFANTILES;PASAMANOS;Si;8;Grama Natural;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;14301;JUEGOS INFANTILES;JUEGO INFANTIL;Si;60;Asfalto sin sintetico;Ninguna;;0;0;0
+08-212;Parque de escala zonal;Kennedy;LA IGUALDAD;14302;CANCHAS DEPORTIVAS;Fútbol;Si;2596;Grama Natural;Ninguna;No;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14063;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;100; Adoquin arcilla;Ninguna;No;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14065;CANCHAS DEPORTIVAS;Baloncesto;Si;576;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14066;CANCHAS DEPORTIVAS;Baloncesto;Si;576;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14067;CANCHAS DEPORTIVAS;Voleibol;Si;1730;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14071;JUEGOS INFANTILES;BALANZA;Si;9;Grama Natural;Ninguna;;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14072;JUEGOS INFANTILES;BALANZA;Si;9;Concreto;Ninguna;;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14073;JUEGOS INFANTILES;JUEGO INFANTIL;Si;56;Asfalto con sintetico;Ninguna;;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14074;JUEGOS INFANTILES;COLUMPIO;Si;24;Asfalto con sintetico;Ninguna;;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14075;JUEGOS INFANTILES;GOLOZA ;Si;9;Asfalto con sintetico;Ninguna;;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14076;JUEGOS INFANTILES;BALANZA;Si;9;Asfalto con sintetico;Ninguna;;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14077;JUEGOS INFANTILES;JUEGO INFANTIL;Si;25;Asfalto sin sintetico;Ninguna;;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14078;JUEGOS INFANTILES;JUEGO INFANTIL;Si;48;Grama Natural;Ninguna;;0;0;0
+08-355;Parque de escala zonal;Kennedy;LA AMISTAD;14080;ESCENARIO DEPORTIVO;PISTA DE TROTE;;552;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14103;CANCHAS DEPORTIVAS;Fútbol;Si;4740;Arena;Ninguna;No;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14104;CANCHAS DEPORTIVAS;Fútbol;Si;4871;Arena;Ninguna;No;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14106;CANCHAS DEPORTIVAS;Fútbol;Si;3920;Grama Natural;Ninguna;No;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14108;CANCHAS DEPORTIVAS;Mini futbol;Si;1250;Arena;Ninguna;No;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14112;CANCHAS DEPORTIVAS;Cancha multiple;Si;574;Asfalto sin sintetico;Ninguna;No;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14115;JUEGOS INFANTILES;BALANZA;No;30;Grama Natural;Ninguna;;0;0;0
+08-552;Parque de escala zonal;Kennedy;GILMA JIMENEZ ;14116;JUEGOS INFANTILES;JUEGO INFANTIL;No;40;Grama Natural;Ninguna;;0;0;0
+09-020;Parque de escala zonal;Fontibon;CARMEN DE LA LAGUNA;11785;CANCHAS DEPORTIVAS;Baloncesto;No;704;Asfalto con sintetico;Ninguna;No;0;0;0
+09-020;Parque de escala zonal;Fontibon;CARMEN DE LA LAGUNA;11787;CANCHAS DEPORTIVAS;Baloncesto;No;805;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-020;Parque de escala zonal;Fontibon;CARMEN DE LA LAGUNA;11789;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;225;Concreto;Ninguna;;0;0;0
+09-020;Parque de escala zonal;Fontibon;CARMEN DE LA LAGUNA;11790;JUEGOS INFANTILES;JUEGO INFANTIL;No;225;Plastico;Ninguna;;0;0;0
+09-020;Parque de escala zonal;Fontibon;CARMEN DE LA LAGUNA;11791;JUEGOS INFANTILES;JUEGO INFANTIL;No;225;Plastico;Ninguna;;0;0;0
+09-020;Parque de escala zonal;Fontibon;CARMEN DE LA LAGUNA;11792;JUEGOS INFANTILES;JUEGO INFANTIL;No;225;Plastico;Ninguna;;0;0;0
+09-020;Parque de escala zonal;Fontibon;CARMEN DE LA LAGUNA;15280;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;103;Concreto;Ninguna;No;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;11690;CANCHAS DEPORTIVAS;Cancha multiple;Si;402;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;11691;CANCHAS DEPORTIVAS;Baloncesto;Si;592;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;11693;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;50;Grama Natural;Ninguna;;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;15149;CANCHAS DEPORTIVAS;Baloncesto;Si;574;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;15150;CANCHAS DEPORTIVAS;Muro de Tennis;No;210;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;15153;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;50;Grama Natural;Ninguna;;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;15154;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;50;Concreto;Ninguna;;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;15155;JUEGOS INFANTILES;BALANCIN;No;4;Concreto;Ninguna;;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;15156;JUEGOS INFANTILES;BALANCIN;No;4;Concreto;Ninguna;;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;15157;JUEGOS INFANTILES;COLUMPIO;No;10;Concreto;Ninguna;;0;0;0
+09-050;Parque de escala zonal;Fontibon;CANAL BOYACA MODELIA;15188;ESCENARIO DEPORTIVO;PISTA DE TROTE;;810;Plastico;Ninguna;No;0;1;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11637;CANCHAS DEPORTIVAS;Baloncesto;No;750;Asfalto con sintetico;Ninguna;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11638;CANCHAS DEPORTIVAS;Baloncesto;No;750;Asfalto con sintetico;Ninguna;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11639;CANCHAS DEPORTIVAS;Microfutbol;No;750;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11640;CANCHAS DEPORTIVAS;Microfutbol;No;750;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11641;CANCHAS DEPORTIVAS;Voleibol;No;360;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11642;CANCHAS DEPORTIVAS;Voleibol;No;360;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11643;CANCHAS DEPORTIVAS;Microfutbol;No;750;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11644;CANCHAS DEPORTIVAS;Mini Voleibol;No;70;Asfalto con sintetico;Ninguna;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11645;CANCHAS DEPORTIVAS;Mini Baloncesto;No;108;Asfalto con sintetico;Ninguna;No;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11653;ESCENARIO DEPORTIVO;COLISEO;;300;Asfalto sin sintetico;Ninguna;Si;80;0;5
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11655;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;675;Granito;Ninguna;No;10;4;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11656;ESCENARIO DEPORTIVO;PISTA DE ATLETISMO;;850;Carboncillo;Ninguna;No;10;4;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11657;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;50;Asfalto sin sintetico;Ninguna;No;10;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11667;ESCENARIO DEPORTIVO;DUNT;;264;Asfalto sin sintetico;Ninguna;No;10;5;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11668;JUEGOS INFANTILES;COLUMPIO;No;6;Concreto;Ninguna;;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11669;JUEGOS INFANTILES;RODADERO;No;2;Asfalto sin sintetico;Ninguna;;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;11670;JUEGOS INFANTILES;PASAMANOS;Si;2;Asfalto sin sintetico;Ninguna;;0;0;0
+09-104;Parque de escala zonal;Fontibon;ATAHUALPA;12496;CANCHAS DEPORTIVAS;Microfutbol;No;750;Asfalto sin sintetico;Ninguna;No;0;0;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11675;CANCHAS DEPORTIVAS;Cancha multiple;No;770;Asfalto con sintetico;Ninguna;No;0;0;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11676;CANCHAS DEPORTIVAS;Cancha multiple;No;770;Asfalto con sintetico;Ninguna;No;0;0;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11677;CANCHAS DEPORTIVAS;Muro de Tennis;No;6;Asfalto con sintetico;Ninguna;No;0;0;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11678;CANCHAS DEPORTIVAS;Tennis de Mesa;No;36;Baldosa;Ninguna;No;0;0;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11684;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;420;Granito;Ninguna;No;10;4;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11685;ESCENARIO DEPORTIVO;PISCINA;;154;Baldosa;Ninguna;Si;15;6;4
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11686;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;36;Asfalto sin sintetico;Ninguna;No;5;0;0
+09-111;Parque de escala zonal;Fontibon;SAUZALITO;11688;JUEGOS INFANTILES;JUEGO INFANTIL;No;77;Grama Natural;Ninguna;;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;11694;CANCHAS DEPORTIVAS;Baloncesto;Si;770;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;11695;CANCHAS DEPORTIVAS;Voleibol;Si;430;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;11698;CANCHAS DEPORTIVAS;Microfutbol;Si;790;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;11704;JUEGOS INFANTILES;JUEGO INFANTIL;No;54;Grama Natural;Ninguna;;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;11705;JUEGOS INFANTILES;JUEGO INFANTIL;No;63;Grama Natural;Ninguna;;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;11706;JUEGOS INFANTILES;JUEGO INFANTIL;No;176;Grama Natural;Ninguna;;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;11707;JUEGOS INFANTILES;JUEGO INFANTIL;No;1052;Concreto;Ninguna;;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;11708;JUEGOS INFANTILES;RODADERO;No;48;Cemento;Ninguna;;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;15214;CANCHAS DEPORTIVAS;Fútbol;Si;1500;Grama Sintetica;Ninguna;Si;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;15215;CANCHAS DEPORTIVAS;Cancha multiple;Si;500;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;15220;JUEGOS INFANTILES;JUEGO INFANTIL;No;68;Grama Natural;Ninguna;;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;15223;JUEGOS INFANTILES;BALANCIN;No;23;Grama Natural;Ninguna;;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;15224;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;148;Asfalto con sintetico;Ninguna;No;0;0;0
+10-018;Parque de escala zonal;Engativa;VILLA LUZ;15225;ESCENARIO DEPORTIVO;GOLFITO;;1248;Grama Natural;Ninguna;No;0;0;0
+10-102;Parque de escala zonal;Engativa;VILLAS DE GRANADA;11711;CANCHAS DEPORTIVAS;Baloncesto;No;300;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-102;Parque de escala zonal;Engativa;VILLAS DE GRANADA;11725;JUEGOS INFANTILES;JUEGO INFANTIL;No;6;Grama Natural;Ninguna;;0;0;0
+10-102;Parque de escala zonal;Engativa;VILLAS DE GRANADA;11726;JUEGOS INFANTILES;JUEGO INFANTIL;No;72;Asfalto sin sintetico;Ninguna;;0;0;0
+10-102;Parque de escala zonal;Engativa;VILLAS DE GRANADA;11727;JUEGOS INFANTILES;RODADERO;No;2;Asfalto sin sintetico;Ninguna;;0;0;0
+10-102;Parque de escala zonal;Engativa;VILLAS DE GRANADA;12582;JUEGOS INFANTILES;COLUMPIO;No;3;Concreto;Ninguna;;0;0;0
+10-169;Parque de escala zonal;Engativa;EL CARMELO;11772;CANCHAS DEPORTIVAS;Cancha multiple;No;750;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-169;Parque de escala zonal;Engativa;EL CARMELO;11777;JUEGOS INFANTILES;JUEGO INFANTIL;No;60;Grama Natural;Ninguna;;0;0;0
+10-169;Parque de escala zonal;Engativa;EL CARMELO;11778;JUEGOS INFANTILES;BALANCIN;No;3;Concreto;Ninguna;;0;0;0
+10-169;Parque de escala zonal;Engativa;EL CARMELO;11782;JUEGOS INFANTILES;ESCALADOR;No;4; Adoquin arcilla;Ninguna;;0;0;0
+10-169;Parque de escala zonal;Engativa;EL CARMELO;11783;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;105;Concreto;Ninguna;;0;0;0
+10-169;Parque de escala zonal;Engativa;EL CARMELO;11793;CANCHAS DEPORTIVAS;Cancha multiple;No;750;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-169;Parque de escala zonal;Engativa;EL CARMELO;15276;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;70; Adoquin arcilla;Ninguna;No;0;0;0
+10-192;Parque de escala zonal;Engativa;TABORA;11729;CANCHAS DEPORTIVAS;Cancha multiple;No;300;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-192;Parque de escala zonal;Engativa;TABORA;11738;JUEGOS INFANTILES;BALANCIN;No;3;Grama Natural;Ninguna;;0;0;0
+10-192;Parque de escala zonal;Engativa;TABORA;11741;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;6;Grama Natural;Ninguna;;0;0;0
+10-192;Parque de escala zonal;Engativa;TABORA;14484;ESCENARIO DEPORTIVO;Otro  (Escenario);;35;Asfalto sin sintetico;Ninguna;No;10;0;0
+10-192;Parque de escala zonal;Engativa;TABORA;14485;JUEGOS INFANTILES;ARENERA;No;20;Arena;Ninguna;;0;0;0
+10-223;Parque de escala zonal;Engativa;LA SERENA;11744;CANCHAS DEPORTIVAS;Cancha multiple;No;500;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-223;Parque de escala zonal;Engativa;LA SERENA;11745;CANCHAS DEPORTIVAS;Cancha multiple;No;500;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-223;Parque de escala zonal;Engativa;LA SERENA;11757;ESCENARIO DEPORTIVO;PISTA DE TROTE;;70;Mampostería;Ninguna;Si;15;1;0
+10-223;Parque de escala zonal;Engativa;LA SERENA;11758;ESCENARIO DEPORTIVO;PISCINA;;875;Baldosa;Ninguna;No;15;5;0
+10-223;Parque de escala zonal;Engativa;LA SERENA;11759;JUEGOS INFANTILES;JUEGO INFANTIL;No;1400;Asfalto con sintetico;Ninguna;;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11526;CANCHAS DEPORTIVAS;Microfutbol;No;700;Asfalto con sintetico;Ninguna;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11527;CANCHAS DEPORTIVAS;Microfutbol;No;700;Asfalto con sintetico;Ninguna;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11529;CANCHAS DEPORTIVAS;Baloncesto;No;875;Asfalto con sintetico;Ninguna;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11530;CANCHAS DEPORTIVAS;Baloncesto;No;875;Asfalto con sintetico;Ninguna;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11531;CANCHAS DEPORTIVAS;Mini Baloncesto;No;200;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11532;CANCHAS DEPORTIVAS;Mini Baloncesto;No;200;Asfalto sin sintetico;Ninguna;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11533;CANCHAS DEPORTIVAS;Voleibol;No;875;Asfalto con sintetico;Ninguna;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11546;ESCENARIO DEPORTIVO;PISTA DE TROTE;;1200;Carboncillo;Ninguna;No;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11559;JUEGOS INFANTILES;BALANCIN;No;25;Concreto;Ninguna;;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11560;JUEGOS INFANTILES;COLUMPIO;No;12;Concreto;Ninguna;;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11561;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;25;Concreto;Ninguna;;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;11562;JUEGOS INFANTILES;RODADERO;No;2;Concreto;Ninguna;;0;0;0
+10-234;Parque de escala zonal;Engativa;SAN ANDRES;14368;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;170; Adoquin arcilla;Ninguna;No;0;0;0
+11-003;Parque de escala zonal;Suba;PARQUE ZONAL CORDOBA;11762;CANCHAS DEPORTIVAS;Cancha multiple;No;770;Asfalto sin sintetico;Ninguna;No;0;0;0
+11-003;Parque de escala zonal;Suba;PARQUE ZONAL CORDOBA;11763;CANCHAS DEPORTIVAS;Cancha multiple;Si;770;Asfalto sin sintetico;Ninguna;No;0;0;0
+11-003;Parque de escala zonal;Suba;PARQUE ZONAL CORDOBA;11767;JUEGOS INFANTILES;COLUMPIO;No;4;Grama Natural;Ninguna;;0;0;0
+11-003;Parque de escala zonal;Suba;PARQUE ZONAL CORDOBA;11768;JUEGOS INFANTILES;ESCALADOR;No;3;Grama Natural;Ninguna;;0;0;0
+11-003;Parque de escala zonal;Suba;PARQUE ZONAL CORDOBA;11769;JUEGOS INFANTILES;RODADERO;No;3;Grama Natural;Ninguna;;0;0;0
+11-003;Parque de escala zonal;Suba;PARQUE ZONAL CORDOBA;11770;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;375;Grama Natural;Ninguna;;0;0;0
+11-078;Parque de escala zonal;Suba;SAN JOSÉ DE BAVARIA;11584;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;125;Arena;Ninguna;;0;0;0
+11-078;Parque de escala zonal;Suba;SAN JOSÉ DE BAVARIA;11585;JUEGOS INFANTILES;JUEGO INFANTIL;No;125;Arena;Ninguna;;0;0;0
+11-078;Parque de escala zonal;Suba;SAN JOSÉ DE BAVARIA;11586;JUEGOS INFANTILES;COLUMPIO;No;125;Arena;Ninguna;;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11275;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;120;Asfalto sin sintetico;Ninguna;;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11276;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11277;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11278;CANCHAS DEPORTIVAS;Cancha multiple;Si;480;Asfalto sin sintetico;Ninguna;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11282;ESCENARIO DEPORTIVO;HOCKEY;;665;Granito;Ninguna;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;11293;CANCHAS DEPORTIVAS;Voleibol;Si;162;Asfalto sin sintetico;Ninguna;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;14671;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;1195;Asfalto sin sintetico;Ninguna;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;14673;JUEGOS INFANTILES;JUEGO INFANTIL;Si;35;Asfalto sin sintetico;Ninguna;;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;14674;JUEGOS INFANTILES;COLUMPIO;No;20;Asfalto sin sintetico;Ninguna;;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;14675;CANCHAS DEPORTIVAS;Otra (Cancha Deportiva);No;12;Metal;Ninguna;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;14676;CANCHAS DEPORTIVAS;Otra (Cancha Deportiva);No;4;Concreto;Ninguna;No;0;0;0
+11-205;Parque de escala zonal;Suba;LA GAITANA;14677;CANCHAS DEPORTIVAS;Otra (Cancha Deportiva);No;4;Metal;Ninguna;No;0;0;0
+11-212;Parque de escala zonal;Suba;TIBABUYES;11596;CANCHAS DEPORTIVAS;Baloncesto;No;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+11-212;Parque de escala zonal;Suba;TIBABUYES;11597;CANCHAS DEPORTIVAS;Baloncesto;No;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+11-368;Parque de escala zonal;Suba;FONTANAR DEL RIO;11622;CANCHAS DEPORTIVAS;Muro de Tennis;No;231;Asfalto con sintetico;Ninguna;No;0;0;0
+11-368;Parque de escala zonal;Suba;FONTANAR DEL RIO;11631;ESCENARIO DEPORTIVO;PISTA DE TROTE;;3653;Polvo de ladrillo;Ninguna;No;200;1;0
+11-368;Parque de escala zonal;Suba;FONTANAR DEL RIO;11632;ESCENARIO DEPORTIVO;DUNT;;4551;Concreto;Ninguna;No;10;4;0
+11-368;Parque de escala zonal;Suba;FONTANAR DEL RIO;11633;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;518;Concreto;Ninguna;No;10;0;0
+11-368;Parque de escala zonal;Suba;FONTANAR DEL RIO;11634;JUEGOS INFANTILES;JUEGO INFANTIL;No;395;Concreto;Ninguna;;0;0;0
+11-368;Parque de escala zonal;Suba;FONTANAR DEL RIO;11635;JUEGOS INFANTILES;RODADERO;No;2;Concreto;Ninguna;;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14494;CANCHAS DEPORTIVAS;Baloncesto;No;516;Asfalto sin sintetico;Ninguna;No;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14495;CANCHAS DEPORTIVAS;Baloncesto;No;502;Asfalto sin sintetico;Ninguna;No;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14499;CANCHAS DEPORTIVAS;Patinòdromo recreativos;Si;424;Granito;Ninguna;No;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14501;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;107;Asfalto sin sintetico;Ninguna;;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14502;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;144;Asfalto sin sintetico;Ninguna;;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14503;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;331;Asfalto sin sintetico;Ninguna;;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14504;JUEGOS INFANTILES;COLUMPIO;No;50;Asfalto sin sintetico;Ninguna;;0;0;0
+14-009;Parque de escala zonal;Martires;SANTA ISABEL;14505;JUEGOS INFANTILES;COLUMPIO;No;50;Asfalto sin sintetico;Ninguna;;0;0;0
+14-030;Parque de escala zonal;Martires;EDUARDO SANTOS;14423;CANCHAS DEPORTIVAS;Baloncesto;Si;504;Asfalto con sintetico;Ninguna;No;0;0;0
+14-030;Parque de escala zonal;Martires;EDUARDO SANTOS;14424;CANCHAS DEPORTIVAS;Voleibol;Si;360;Asfalto sin sintetico;Ninguna;No;0;0;0
+14-030;Parque de escala zonal;Martires;EDUARDO SANTOS;14618;JUEGOS INFANTILES;COLUMPIO;No;30;Concreto;Ninguna;;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11892;ESCENARIO DEPORTIVO;PISTA DE TROTE;;5239;Asfalto sin sintetico;Ninguna;No;50;2;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11899;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;380;Asfalto con sintetico;Ninguna;No;14;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11906;JUEGOS INFANTILES;BALANCIN;No;1;Asfalto sin sintetico;Ninguna;;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11908;JUEGOS INFANTILES;JUEGO INFANTIL;No;1;Asfalto sin sintetico;Ninguna;;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11909;JUEGOS INFANTILES;JUEGO INFANTIL;Si;1;Asfalto sin sintetico;Ninguna;;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11910;JUEGOS INFANTILES;COLUMPIO;No;1;Metal;Ninguna;;0;0;0
+15-027;Parque de escala zonal;Antonio Nariño;CIUDAD JARDIN;11916;ESCENARIO DEPORTIVO;PISTA DE TRISICROSS;;300;Asfalto sin sintetico;Ninguna;No;15;2;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11875;ESCENARIO DEPORTIVO;PISTA DE TROTE;;418;Grama Sintetica;Ninguna;No;1;2;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11876;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;166;Asfalto sin sintetico;Ninguna;No;0;0;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11883;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;168;Concreto;Ninguna;No;28;0;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11886;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;No;1;Asfalto sin sintetico;Ninguna;;0;0;0
+15-036;Parque de escala zonal;Antonio Nariño;VILLA MAYOR CEMENTERIO DEL SUR;11887;JUEGOS INFANTILES;JUEGO INFANTIL;No;1;Asfalto sin sintetico;Ninguna;;0;0;0
+15-040;Parque de escala zonal;Antonio Nariño;LA FRAGUA;11837;CANCHAS DEPORTIVAS;Baloncesto;No;487;Asfalto sin sintetico;Ninguna;No;0;0;0
+15-040;Parque de escala zonal;Antonio Nariño;LA FRAGUA;11840;ESCENARIO DEPORTIVO;Otro  (Escenario);;241;Asfalto sin sintetico;Ninguna;No;5;2;0
+15-040;Parque de escala zonal;Antonio Nariño;LA FRAGUA;11849;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1056;Concreto;Ninguna;Si;300;0;5
+15-040;Parque de escala zonal;Antonio Nariño;LA FRAGUA;14363;ESCENARIO DEPORTIVO;AULA MULTIPLE;;20; Adoquin arcilla;Ninguna;Si;30;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12055;ESCENARIO DEPORTIVO;Otro  (Escenario);;2424;Asfalto sin sintetico;Ninguna;No;0;2;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12056;JUEGOS INFANTILES;COLUMPIO;No;1;Grama Natural;Ninguna;;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12065;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;56;Asfalto sin sintetico;Ninguna;No;5;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12068;CANCHAS DEPORTIVAS;Muro de Tennis;No;276;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12069;CANCHAS DEPORTIVAS;Voleibol;Si;330;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12070;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12072;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;12073;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-099;Parque de escala zonal;Puente Aranda;MILENTA TEJAR SAN EUSEBIO;15004;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12003;CANCHAS DEPORTIVAS;Voleibol Playa;No;240;Arena;Ninguna;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12004;CANCHAS DEPORTIVAS;Voleibol Playa;No;240;Arena;Ninguna;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12011;CANCHAS DEPORTIVAS;Baloncesto;No;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12012;CANCHAS DEPORTIVAS;Baloncesto;No;464;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12013;ESCENARIO DEPORTIVO;MULTIFUERZA;;105;Concreto;Ninguna;No;25;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12018;CANCHAS DEPORTIVAS;Baloncesto;No;405;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12023;ESCENARIO DEPORTIVO;Otro  (Escenario);;21;Concreto;Ninguna;No;10;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12026;JUEGOS INFANTILES;JUEGO INFANTIL;No;96;Arena;Ninguna;;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12028;JUEGOS INFANTILES;ARAÑA;No;6;Concreto;Ninguna;;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12029;JUEGOS INFANTILES;JUEGO INFANTIL;No;256;Asfalto sin sintetico;Ninguna;;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12030;JUEGOS INFANTILES;BALANCIN;No;1;Asfalto sin sintetico;Ninguna;;0;0;0
+16-112;Parque de escala zonal;Puente Aranda;CIUDAD MONTES;12031;CANCHAS DEPORTIVAS;Muro de Tennis;No;300;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;11968;CANCHAS DEPORTIVAS;Cancha multiple;Si;448;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;11981;CANCHAS DEPORTIVAS;Baloncesto;Si;594;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;11982;CANCHAS DEPORTIVAS;Voleibol;Si;512;Asfalto sin sintetico;Ninguna;No;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;15075;CANCHAS DEPORTIVAS;Voleibol;Si;512;Asfalto con sintetico;Ninguna;Si;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;15076;CANCHAS DEPORTIVAS;Voleibol;Si;512; Adoquin arcilla;Ninguna;Si;0;0;0
+16-204;Parque de escala zonal;Puente Aranda;EL JAZMIN;15168;CANCHAS DEPORTIVAS;Baloncesto;Si;594;Asfalto sin sintetico;Ninguna;No;0;0;0
+17-008;Parque de escala zonal;Candelaria;LA CONCORDIA;14263;ESCENARIO DEPORTIVO;PATINAJE RECREATIVO;;0;Baldosa;Ninguna;No;0;0;0
+17-008;Parque de escala zonal;Candelaria;LA CONCORDIA;14264;ESCENARIO DEPORTIVO;MEDIA TORTA;;0; Adoquin arcilla;Ninguna;No;0;0;0
+17-008;Parque de escala zonal;Candelaria;LA CONCORDIA;14267;JUEGOS INFANTILES;BALANCIN;No;0;Grama Natural;Ninguna;;0;0;0
+17-008;Parque de escala zonal;Candelaria;LA CONCORDIA;14287;JUEGOS INFANTILES;COLUMPIO;Si;0;Grama Natural;Ninguna;;0;0;0
+17-008;Parque de escala zonal;Candelaria;LA CONCORDIA;14289;JUEGOS INFANTILES;COLUMPIO;Si;0;Grama Natural;Ninguna;;0;0;0
+17-008;Parque de escala zonal;Candelaria;LA CONCORDIA;14293;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;Si;0;Grama Natural;Ninguna;;0;0;0
+17-008;Parque de escala zonal;Candelaria;LA CONCORDIA;14305;JUEGOS INFANTILES;PASAMANOS;Si;0;Grama Natural;Ninguna;;0;0;0
+17-008;Parque de escala zonal;Candelaria;LA CONCORDIA;14343;JUEGOS INFANTILES;LLANTAS;No;0;Grama Natural;Ninguna;;0;0;0
+17-008;Parque de escala zonal;Candelaria;LA CONCORDIA;14362;CANCHAS DEPORTIVAS;Muro de Tennis;No;114;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-031;Parque de escala zonal;Rafael Uribe;DIANA TURBAY;10256;JUEGOS INFANTILES;COLUMPIO;No;5;Grama Natural;Ninguna;;0;0;0
+18-031;Parque de escala zonal;Rafael Uribe;DIANA TURBAY;10257;JUEGOS INFANTILES;JUEGO INFANTIL;No;10;Grama Natural;Ninguna;;0;0;0
+18-162;Parque de escala zonal;Rafael Uribe;LOS MOLINOS II;13663;CANCHAS DEPORTIVAS;Baloncesto;Si;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-205;Parque de escala zonal;Rafael Uribe;QUIROGA;13617;CANCHAS DEPORTIVAS;Tejo;No;40;Grama Natural;Ninguna;No;0;0;0
+18-205;Parque de escala zonal;Rafael Uribe;QUIROGA;13625;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;1188;Asfalto con sintetico;Ninguna;Si;200;0;7
+18-205;Parque de escala zonal;Rafael Uribe;QUIROGA;13640;CANCHAS DEPORTIVAS;Cancha multiple;Si;756;Asfalto con sintetico;Ninguna;Si;0;0;0
+18-205;Parque de escala zonal;Rafael Uribe;QUIROGA;13699;JUEGOS INFANTILES;COLUMPIO;Si;12;Asfalto sin sintetico;Ninguna;;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13555;ESCENARIO DEPORTIVO;COLISEO CUBIERTO;;320;Madera;Ninguna;Si;0;0;3
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13775;CANCHAS DEPORTIVAS;Baloncesto;No;555;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13776;CANCHAS DEPORTIVAS;Baloncesto;No;555;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13777;CANCHAS DEPORTIVAS;Baloncesto;No;555;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13778;CANCHAS DEPORTIVAS;Baloncesto;No;555;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13785;JUEGOS INFANTILES;COLUMPIO;No;1;Asfalto sin sintetico;Ninguna;;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13786;JUEGOS INFANTILES;COLUMPIO;No;1;Asfalto sin sintetico;Ninguna;;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13787;JUEGOS INFANTILES;BALANCIN;No;4;Asfalto sin sintetico;Ninguna;;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13788;JUEGOS INFANTILES;BALANCIN;No;4; Adoquin arcilla;Ninguna;;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13789;CANCHAS DEPORTIVAS;Microfutbol;No;540;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13790;CANCHAS DEPORTIVAS;Baloncesto;No;608;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13793;JUEGOS INFANTILES;RODADERO;No;3;Grama Natural;Ninguna;;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13794;JUEGOS INFANTILES;RODADERO;No;3;Grama Natural;Ninguna;;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13795;JUEGOS INFANTILES;BALANCIN;No;2;Grama Natural;Ninguna;;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13798;CANCHAS DEPORTIVAS;Microfutbol;No;1856;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13800;CANCHAS DEPORTIVAS;Otra (Cancha Deportiva);No;363;Asfalto sin sintetico;Ninguna;No;0;0;0
+18-207;Parque de escala zonal;Rafael Uribe;PARQUE ESTADIO OLAYA HERRERA;13806;CANCHAS DEPORTIVAS;Baloncesto;No;405;Asfalto sin sintetico;Ninguna;No;0;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12423;CANCHAS DEPORTIVAS;Mini Tejo ;Si;180;Madera;Ninguna;No;0;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12424;CANCHAS DEPORTIVAS;Patinòdromo recreativos;Si;144;Granito;Ninguna;No;0;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12453;ESCENARIO DEPORTIVO;GIMNASIO AIRE LIBRE;;76;Asfalto sin sintetico;Ninguna;No;25;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12463;JUEGOS INFANTILES;COLUMPIO;Si;18;Asfalto sin sintetico;Ninguna;;0;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12464;JUEGOS INFANTILES;JUEGO INFANTIL;Si;48;Asfalto sin sintetico;Ninguna;;0;0;0
+19-188;Parque de escala zonal;Cuidad Bolivar;ARBORIZADORA ALTA;12465;JUEGOS INFANTILES;JUEGO INFANTIL;Si;160;Asfalto sin sintetico;Ninguna;;0;0;0
+19-189;Parque de escala zonal;Cuidad Bolivar;CANDELARIA LA NUEVA;12077;CANCHAS DEPORTIVAS;Baloncesto;Si;390;Asfalto sin sintetico;Ninguna;No;0;0;0
+19-189;Parque de escala zonal;Cuidad Bolivar;CANDELARIA LA NUEVA;12080;CANCHAS DEPORTIVAS;Voleibol;Si;273;Asfalto con sintetico;Ninguna;No;0;0;0
+19-189;Parque de escala zonal;Cuidad Bolivar;CANDELARIA LA NUEVA;12085;JUEGOS INFANTILES;COLUMPIO;Si;18;Asfalto sin sintetico;Ninguna;;0;0;0
+19-189;Parque de escala zonal;Cuidad Bolivar;CANDELARIA LA NUEVA;12086;JUEGOS INFANTILES;JUEGO INFANTIL;Si;150;Asfalto sin sintetico;Ninguna;;0;0;0
+19-189;Parque de escala zonal;Cuidad Bolivar;CANDELARIA LA NUEVA;12087;ESCENARIO DEPORTIVO;PISCINA;;325;Baldosa;Ninguna;No;20;0;0
+19-189;Parque de escala zonal;Cuidad Bolivar;CANDELARIA LA NUEVA;12094;CANCHAS DEPORTIVAS;Tennis de Mesa;Si;3;Concreto;Ninguna;No;0;0;0
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12272;CANCHAS DEPORTIVAS;Baloncesto;Si;480;Asfalto sin sintetico;Ninguna;Si;0;0;0
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12323;ESCENARIO DEPORTIVO;PISCINA;;467;Granito;Ninguna;Si;150;10;3
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12324;ESCENARIO DEPORTIVO;PISCINA;;207;Granito;Ninguna;Si;15;0;0
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12407;JUEGOS INFANTILES;COLUMPIO;Si;15;Asfalto sin sintetico;Ninguna;;0;0;0
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12409;JUEGOS INFANTILES;BALANZA;Si;12;Asfalto sin sintetico;Ninguna;;0;0;0
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12410;JUEGOS INFANTILES;JUEGO INFANTIL;Si;196;Cemento;Ninguna;;0;0;0
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12412;JUEGOS INFANTILES;JUEGO INFANTIL;Si;100;Grama Natural;Ninguna;;0;0;0
+19-230;Parque de escala zonal;Cuidad Bolivar;MEISSEN;12413;JUEGOS INFANTILES;JUEGO INFANTIL;Si;100;Grama Natural;Ninguna;;0;0;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11935;CANCHAS DEPORTIVAS;Baloncesto;Si;510;Asfalto con sintetico;Ninguna;No;0;0;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11936;CANCHAS DEPORTIVAS;Voleibol;Si;220;Asfalto sin sintetico;Ninguna;Si;0;0;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11937;CANCHAS DEPORTIVAS;Baloncesto;Si;384;Asfalto con sintetico;Ninguna;No;0;0;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11938;CANCHAS DEPORTIVAS;Mini Voleibol;Si;112;Asfalto sin sintetico;Ninguna;No;0;0;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11939;ESCENARIO DEPORTIVO;PATINODROMO;;500;Granito;Ninguna;No;70;1;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11940;ESCENARIO DEPORTIVO;PATINODROMO;;225;Granito;Ninguna;No;25;1;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11970;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;81;Asfalto sin sintetico;Ninguna;No;12;0;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11971;ESCENARIO DEPORTIVO;PISTA DE TROTE;;508;Asfalto sin sintetico;Ninguna;No;0;2;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11978;JUEGOS INFANTILES;COLUMPIO;Si;18;Asfalto sin sintetico;Ninguna;;0;0;0
+19-231;Parque de escala zonal;Cuidad Bolivar;URBANIZACIÓN  LA ESTANCIA;11979;JUEGOS INFANTILES;JUEGO INFANTIL MIXTO;Si;81;Asfalto sin sintetico;Ninguna;;0;0;0
+19-346;Parque de escala zonal;Cuidad Bolivar;ILLIMANI (PARAISO);12163;JUEGOS INFANTILES;COLUMPIO;Si;15;Asfalto sin sintetico;Ninguna;;0;0;0
+19-346;Parque de escala zonal;Cuidad Bolivar;ILLIMANI (PARAISO);12165;JUEGOS INFANTILES;JUEGO INFANTIL;Si;330;Asfalto sin sintetico;Ninguna;;0;0;0
+19-346;Parque de escala zonal;Cuidad Bolivar;ILLIMANI (PARAISO);12167;JUEGOS INFANTILES;BALANCIN;Si;15;Asfalto sin sintetico;Ninguna;;0;0;0
+19-349;Parque de escala zonal;Cuidad Bolivar;LA JOYA;12495;JUEGOS INFANTILES;JUEGO INFANTIL;Si;441;Grama Natural;Ninguna;;0;0;0
+19-349;Parque de escala zonal;Cuidad Bolivar;LA JOYA;14399;ESCENARIO DEPORTIVO;RUTA DE LA VIDA;;50;Asfalto sin sintetico;Ninguna;No;10;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15169;CANCHAS DEPORTIVAS;Cancha multiple;Si;425;Asfalto sin sintetico;Ninguna;No;0;0;0
+12-002;Parque de escala zonal;Barrios Unidos;CANAL DEL RIO NEGRO;15172;CANCHAS DEPORTIVAS;Voleibol;Si;188;Asfalto sin sintetico;Ninguna;No;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8806;CANCHAS DEPORTIVAS;Baloncesto;Si;520;Asfalto sin sintetico;Ninguna;;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8807;CANCHAS DEPORTIVAS;Baloncesto;Si;520;Asfalto sin sintetico;Ninguna;;0;0;0
+12-015;Parque de escala zonal;Barrios Unidos;ALCAZARES;8808;CANCHAS DEPORTIVAS;Voleibol;Si;232;Asfalto sin sintetico;Ninguna;;0;0;0
+12-023;Parque de escala zonal;Barrios Unidos;GIMNASIO DISTRITAL DEL NORTE;8821;CANCHAS DEPORTIVAS;Baloncesto;Si;449;Asfalto sin sintetico;Ninguna;;0;0;0
+12-023;Parque de escala zonal;Barrios Unidos;GIMNASIO DISTRITAL DEL NORTE;8822;CANCHAS DEPORTIVAS;Baloncesto;Si;449;Asfalto sin sintetico;Ninguna;;0;0;0
+13-038;Parque de escala zonal;Teusaquillo;NICOLAS DE FEDERMAN 3;14660;CANCHAS DEPORTIVAS;Baloncesto;No;420;Asfalto sin sintetico;Ninguna;No;0;0;0
+13-038;Parque de escala zonal;Teusaquillo;NICOLAS DE FEDERMAN 3;14662;JUEGOS INFANTILES;JUEGO INFANTIL;No;70;Asfalto sin sintetico;Ninguna;;0;0;0
+08-791;Parque de escala zonal;Kennedy;San Ignacio;15162;ESCENARIO DEPORTIVO;PISTA DE TROTE;;704; Adoquin arcilla;Ninguna;No;0;0;0
