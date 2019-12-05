@@ -12,12 +12,19 @@ df = df[df['Price'] > 10000000]
 
 def select_json_file(count=None):
     if count:
-        with open('/home/shade/DS4A/Grupo35-DS4A/Final_Project/Dash_Mapbox/Transform_Data/dloc_{}.json'.format(count)) as f:
+        with open('Transform_Data/dloc_{}.json'.format(count)) as f:
             geojson = json.loads(f.read())
     else:
         with open('/home/shade/person.json') as f:
             geojson = json.loads(f.read())
-    return geojson
+
+    geo = {}
+
+    for i in geojson['features']:
+        if i['properties']['SCaNombre'] == 'LA MAGDALENA I':
+            geo = i
+
+    return geo
 
 app = dash.Dash(__name__)
 
@@ -28,9 +35,10 @@ styles = {
     }
 }
 
-token = 'pk.eyJ1IjoibmV3dXNlcmZvcmV2ZXIiLCJhIjoiY2o2M3d1dTZiMGZobzMzbnp2Z2NiN3lmdyJ9.cQFKe3F3ovbfxTsM9E0ZSQ'
-with open('/home/shade/DS4A/Grupo35-DS4A/Final_Project/Dash_Mapbox/Transform_Data/dloc_1.json') as f:
+token = 'pk.eyJ1IjoiamhvbmFsZXgwNiIsImEiOiJjazJ3c2g1c3owNHo1M3BwZnAzN3pnemwzIn0.SkIbPSPHdjtuvHNJuawvGQ'
+with open('Transform_Data/dloc_1.json') as f:
     geojson = json.loads(f.read())
+
 
 list_of_locations = {
     "1": {"lat": 4.74192856, "lon": -74.02788209},
@@ -87,9 +95,7 @@ app.layout = html.Div(children=[
                         className="logo", src=app.get_asset_url("dash-logo.png")
                     ),
                     html.H2("DASH - REAL STATE BOGOTA APP"),
-                    html.P(
-                        """Select the location of your dataframe."""
-                    ),
+                    html.P("""Select the location of your dataframe."""),
                     # Change to side-by-side for mobile layout
                     html.Div(
                         className="row",
@@ -104,7 +110,7 @@ app.layout = html.Div(children=[
                                             {"label": i, "value": i}
                                             for i in list_of_locations
                                         ],
-                                        placeholder="Select a location",
+                                        placeholder="Select a Zone",
                                     )
                                 ],
                             ),
@@ -122,7 +128,7 @@ app.layout = html.Div(children=[
                                             for n in range(24)
                                         ],
                                         multi=True,
-                                        placeholder="Select certain hours",
+                                        placeholder="Select a Localities",
                                     )
                                 ],
                             ),
@@ -140,7 +146,7 @@ app.layout = html.Div(children=[
                                             for n in range(24)
                                         ],
                                         multi=True,
-                                        placeholder="Select certain hours",
+                                        placeholder="Select a Neighborhood",
                                     )
                                 ],
                             ),
@@ -156,9 +162,13 @@ app.layout = html.Div(children=[
             html.Div(
                 className='pretty_container seven columns',
                 children=[
-                    html.Div(
-                        dcc.Graph(id='group-plots'),
-                    ),                     
+                    dcc.Tabs(id="tabs", value='tab-1', children=[
+                    dcc.Tab(label='Histograma', value='tab-1'),
+                    dcc.Tab(label='Scatter', value='tab-2'),
+                    dcc.Tab(label='Heatmap', value='tab-3'),
+                    dcc.Tab(label='Bubble', value='tab-4'),
+                ]),
+                html.Div(id='tabs-grap')                     
                 ]),
             html.Div(
                 className="pretty_container four columns",
@@ -170,8 +180,19 @@ app.layout = html.Div(children=[
                                 className="div-for-dropdown",
                                 children=[
                                     # Dropdown for locations on map
+                                    html.P("""Select the Variable of your dataframe."""),
                                     dcc.Dropdown(
-                                        id="location-dropdown-2",
+                                        id="filter_1",
+                                        options=[
+                                            {"label": i, "value": i}
+                                            for i in df.columns
+                                        ],
+                                        multi=False,
+                                        placeholder="Select a location",
+                                    ),
+                                    html.P("""Select the Variable of your dataframe."""),
+                                    dcc.Dropdown(
+                                        id="filter_2",
                                         options=[
                                             {"label": i, "value": i}
                                             for i in df.columns
@@ -189,27 +210,6 @@ app.layout = html.Div(children=[
         ),
         ]
 )
-
-@app.callback(
-    [Output('group-plots', 'figure')],
-    [Input('location-dropdown-2', 'value')])
-
-def display_group_plot(clickdata):
-    if clickdata == None:
-        clickdata = 'Price'
-    data = []
-    data.append(go.Histogram(
-        x=df[clickdata], opacity=0.7, name="Male", marker={"line": {"color": "#dd1f70", "width": 0.2}}
-    ))
-
-    figure={
-        'data': data,
-        'layout': go.Layout(title="{} Distribution".format(clickdata), colorway=['#1fddb3', '#c51b8a'], 
-                            xaxis={"title": clickdata, "showgrid": False},
-                            yaxis={"title": "Count", "showgrid": False})}
-
-    return [figure]
-
 
 @app.callback(
     [Output('map-plot', 'figure')],
@@ -241,7 +241,7 @@ def display_click_data(clickData, loc):
                 lon = [lon], lat = [lat],
                 marker = {'size': 20, 'color': ["cyan"]})],
             'layout': go.Layout(
-                    mapbox_style="open-street-map",
+                    mapbox_style='mapbox://styles/jhonalex06/ck3kjaj3i3u6x1cpjlnzxxjwy',
                     mapbox_accesstoken=token,
                     mapbox_zoom=zoom,
                     margin={'t': 0, 'l': 0, 'r': 0, 'b': 0},
@@ -249,7 +249,7 @@ def display_click_data(clickData, loc):
                 )
         }
     if clickData is not None:
-        point = centroides[centroides['SCaCodigo'] == clickData['points'][0]['location']]
+        point = centroides[centroides['SCaCodigo'] == click_select_1['points'][0]['location']]
         print (point['lat'])
         print (point['long'])
         figure = { 
@@ -265,7 +265,7 @@ def display_click_data(clickData, loc):
                     lon = [-74.072092, -74.092092], lat = [4.6109886, 4.6109886],
                     marker = {'size': 20, 'color': ["cyan"]})],
                 'layout': go.Layout(
-                        mapbox_style="open-street-map",
+                        mapbox_style='mapbox://styles/jhonalex06/ck3kjaj3i3u6x1cpjlnzxxjwy',
                         mapbox_accesstoken=token,
                         mapbox_zoom=9,
                         margin={'t': 0, 'l': 0, 'r': 0, 'b': 0},
@@ -273,6 +273,124 @@ def display_click_data(clickData, loc):
                     )
             }
     return [figure]
+
+@app.callback(
+    Output('tabs-grap', 'children'),
+    [Input('tabs', 'value'),
+     Input('filter_1', 'value'),
+     Input('filter_2', 'value')])
+
+def render_content(tab, click_select_1, click_select_2):
+    if tab == 'tab-1':
+        if click_select_1 == None:
+            click_select_1 = 'Price'
+
+        data = []
+        data.append(go.Histogram(
+            x=df[click_select_1], opacity=0.7, name="Male", marker={"line": {"color": "#dd1f70", "width": 0.2}}
+        ))
+
+        figure={
+            'data': data,
+            'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
+                                xaxis={"title": click_select_1, "showgrid": True},
+                                yaxis={"title": "Count", "showgrid": True})}
+
+        return html.Div([
+                dcc.Graph(id='group-plots',
+                        figure=figure),
+        ])
+    
+    elif tab == 'tab-2':
+        if click_select_1 == None:
+            click_select_1 = 'Price'
+        if click_select_2 == None:
+            click_select_2 = 'Rooms'
+
+        df_g = df.groupby(click_select_2)
+
+        x = []
+        y = []
+
+        for i in df_g:
+            x.append(i[0])
+            y.append(i[1]['Price'].mean())
+
+        data = []
+        data.append(go.Scatter(
+            x=x, y=y, opacity=0.7, name="Male", mode='lines',
+                                marker={'size': 8, "opacity": 0.6, "line": {'width': 0.5}}
+        ))
+
+        figure={
+            'data': data,
+            'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
+                                xaxis={"title": click_select_2, "showgrid": True},
+                                yaxis={"title": "Price", "showgrid": True})}
+
+        return html.Div([
+                dcc.Graph(id='group-plots',
+                        figure=figure),
+        ])
+
+    elif tab == 'tab-3':
+        if click_select_1 == None:
+            click_select_1 = 'Price'
+
+        data = []
+        data.append(go.Histogram(
+            x=df[click_select_1], opacity=0.7, name="Male", marker={"line": {"color": "#dd1f70", "width": 0.2}}
+        ))
+
+        figure={
+            'data': data,
+            'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
+                                xaxis={"title": click_select_1, "showgrid": False},
+                                yaxis={"title": "Count", "showgrid": False})}
+
+        return html.Div([
+                dcc.Graph(id='group-plots',
+                        figure=figure),
+        ])
+
+    elif tab == 'tab-4':
+        if click_select_1 == None:
+            click_select_1 = 'Price'
+        if click_select_2 == None:
+            click_select_2 = 'Rooms'
+
+        df_g = df.groupby(click_select_2)
+
+        x = []
+        y = []
+        z = []
+        z1 = []
+
+        for i in df_g:
+            x.append(i[0])
+            y.append(i[1]['Price'].mean())
+            z.append(len(i[1]))
+
+        for i in z:
+            z1.append((float(i)/max(z))*100)
+
+        data = []
+        data.append(go.Scatter(
+            x=x, y=y, opacity=0.7, name="Male", mode='markers',
+                                marker={'size': z1, "opacity": 0.6}
+        ))
+
+        figure={
+            'data': data,
+            'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
+                                xaxis={"title": click_select_2, "showgrid": True},
+                                yaxis={"title": "Price", "showgrid": True})}
+
+        return html.Div([
+                dcc.Graph(id='group-plots',
+                        figure=figure),
+        ])
+
 
 if __name__ == "__main__":
     app.run_server(debug=True)
