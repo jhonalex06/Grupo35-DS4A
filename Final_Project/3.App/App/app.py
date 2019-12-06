@@ -10,21 +10,84 @@ df = pd.read_csv('web_scrapping_bogota.csv')
 df = df[df['Price'] < 1000000000]
 df = df[df['Price'] > 10000000]
 
-def select_json_file(count=None):
-    if count:
-        with open('Transform_Data/dloc_{}.json'.format(count)) as f:
-            geojson = json.loads(f.read())
-    else:
-        with open('/home/shade/person.json') as f:
-            geojson = json.loads(f.read())
+list_of_locations = {
+    "Nororiente": [1,2],
+    "Centro": [3,14,17],
+    "Sur": [4,5,6,15,18,19],
+    "Noroccidente": [10, 11, 12],
+    "Occidente": [8,9,13,14,16]  
+}
 
+def select_zone_json_file(loc):
+    with open('/home/shade/DS4A/Grupo35-DS4A/Final_Project/3.App/Transform_Data/All_loc_geo.json') as f:
+        geojson = json.loads(f.read())
+
+    features = []
+    lon = []
+    lat = []
+    geo = {}
+    loca = []
+
+    for i in geojson['features']:
+        for j in list_of_locations[loc]:
+            if i['properties']['CODIGO_LOC'] == str(j):
+                if i['properties']['NOMBRE'] != None:
+                    loca.append(i['properties']['NOMBRE'].lower())
+                features.append(i)
+                lon.append(i['geometry']['coordinates'][0][0][0][0])
+                lat.append(i['geometry']['coordinates'][0][0][0][1])
+            
+    geo['type'] = 'FeatureCollection'
+    geo['features'] = features
+    y = min(lat) + (max(lat) - min(lat))/2
+    x = min(lon) + (max(lon) - min(lon))/2
+
+    loca = list(dict.fromkeys(loca))
+
+    return geo, x, y, loca
+
+def select_loca_json_file(localities, geojson):
+    features = []
+    lon = []
+    lat = []
+    geo = {}
+    sect = []
+
+    for i in geojson['features']:
+        if i['properties']['NOMBRE'] == localities.upper():
+            if i['properties']['NOMBRE'] != None:
+                sect.append(i['properties']['SCaNombre_'].lower())
+            features.append(i)
+            lon.append(i['geometry']['coordinates'][0][0][0][0])
+            lat.append(i['geometry']['coordinates'][0][0][0][1])
+            
+    geo['type'] = 'FeatureCollection'
+    geo['features'] = features
+    y = min(lat) + (max(lat) - min(lat))/2
+    x = min(lon) + (max(lon) - min(lon))/2
+
+    sect = list(dict.fromkeys(sect))
+
+    return geo, x, y, sect
+
+def select_sec_json_file(sectors, geojson):
+    features = []
+    lon = []
+    lat = []
     geo = {}
 
     for i in geojson['features']:
-        if i['properties']['SCaNombre'] == 'LA MAGDALENA I':
-            geo = i
+        if i['properties']['SCaNombre'] == sectors.upper():
+            features.append(i)
+            lon.append(i['geometry']['coordinates'][0][0][0][0])
+            lat.append(i['geometry']['coordinates'][0][0][0][1])
+            
+    geo['type'] = 'FeatureCollection'
+    geo['features'] = features
+    y = min(lat) + (max(lat) - min(lat))/2
+    x = min(lon) + (max(lon) - min(lon))/2
 
-    return geo
+    return geo, x, y
 
 app = dash.Dash(__name__)
 
@@ -38,30 +101,6 @@ styles = {
 token = 'pk.eyJ1IjoiamhvbmFsZXgwNiIsImEiOiJjazJ3c2g1c3owNHo1M3BwZnAzN3pnemwzIn0.SkIbPSPHdjtuvHNJuawvGQ'
 with open('Transform_Data/dloc_1.json') as f:
     geojson = json.loads(f.read())
-
-
-list_of_locations = {
-    "1": {"lat": 4.74192856, "lon": -74.02788209},
-    "2": {"lat": 4.64492472, "lon": -74.03693918},
-    "3": {"lat": 4.59397273, "lon": -74.03621758},
-    "4": {"lat": 4.54874901, "lon": -74.06607256},
-    "5": {"lat": 4.39002513, "lon": -74.14280650},
-    "6": {"lat": 4.57484140, "lon": -74.13598945},
-    "7": {"lat": 4.62177996, "lon": -74.19438893},
-    "8": {"lat": 4.63034735, "lon": -74.15266762},
-    "9": {"lat": 4.67818293, "lon": -74.14015130},
-    "10": {"lat": 4.70112556, "lon": -74.11318770},
-    "11": {"lat": 4.76320812, "lon": -74.07584528},
-    "12": {"lat": 4.66956693, "lon": -74.07355161},
-    "13": {"lat": 4.64117359, "lon": -74.08576902},
-    "14": {"lat": 4.60715594, "lon": -74.08794787},
-    "15": {"lat": 4.58877067, "lon": -74.10284240},
-    "16": {"lat": 4.61624547, "lon": -74.11158023},
-    "17": {"lat": 4.59660508, "lon": -74.07207080},
-    "18": {"lat": 4.56647690, "lon": -74.11336318},
-    "19": {"lat": 4.48246027, "lon": -74.16195890},
-    "20": {"lat": 4.03656875, "lon": -74.25697872}  
-}
 
 df_correc = pd.read_csv('count_bog_by_man_3.csv')
 df_correc['SCaCodigo'] = df_correc['SCaCodigo'].apply(lambda x: str(x))
@@ -82,7 +121,7 @@ app.layout = html.Div(children=[
         className='row flex-display', 
         children=[
             html.Div(
-                className='pretty_container seven columns',
+                className='pretty_container eight columns',
                 children=[
                     html.Div(
                         dcc.Graph(id='map-plot'),
@@ -119,7 +158,7 @@ app.layout = html.Div(children=[
                                 children=[
                                     # Dropdown to select times
                                     dcc.Dropdown(
-                                        id="bar-selector",
+                                        id="localities-selector",
                                         options=[
                                             {
                                                 "label": str(n) + ":00",
@@ -127,7 +166,6 @@ app.layout = html.Div(children=[
                                             }
                                             for n in range(24)
                                         ],
-                                        multi=True,
                                         placeholder="Select a Localities",
                                     )
                                 ],
@@ -137,7 +175,7 @@ app.layout = html.Div(children=[
                                 children=[
                                     # Dropdown to select times
                                     dcc.Dropdown(
-                                        id="bar-selector2",
+                                        id="sector-selector",
                                         options=[
                                             {
                                                 "label": str(n) + ":00",
@@ -145,7 +183,6 @@ app.layout = html.Div(children=[
                                             }
                                             for n in range(24)
                                         ],
-                                        multi=True,
                                         placeholder="Select a Neighborhood",
                                     )
                                 ],
@@ -160,15 +197,25 @@ app.layout = html.Div(children=[
         className='row flex-display', 
         children=[
             html.Div(
-                className='pretty_container seven columns',
+                className='pretty_container eight columns',
                 children=[
                     dcc.Tabs(id="tabs", value='tab-1', children=[
-                    dcc.Tab(label='Histograma', value='tab-1'),
+                    dcc.Tab(label='Histogram', value='tab-1'),
                     dcc.Tab(label='Scatter', value='tab-2'),
                     dcc.Tab(label='Heatmap', value='tab-3'),
                     dcc.Tab(label='Bubble', value='tab-4'),
                 ]),
-                html.Div(id='tabs-grap')                     
+                html.Div(id='tabs-grap'),        
+                html.P("""Select the Variable of your dataframe."""),
+                    dcc.Dropdown(
+                        id="filter_1",
+                        options=[
+                            {"label": i, "value": i}
+                            for i in df.columns
+                        ],
+                        multi=False,
+                        placeholder="Select a location",
+                    ),             
                 ]),
             html.Div(
                 className="pretty_container four columns",
@@ -182,7 +229,7 @@ app.layout = html.Div(children=[
                                     # Dropdown for locations on map
                                     html.P("""Select the Variable of your dataframe."""),
                                     dcc.Dropdown(
-                                        id="filter_1",
+                                        id="filter_abc",
                                         options=[
                                             {"label": i, "value": i}
                                             for i in df.columns
@@ -202,6 +249,9 @@ app.layout = html.Div(children=[
                                     )
                                 ],
                             ),
+                        html.Img(
+                        id="zack", className="logo", src=app.get_asset_url("dash-logo.png")
+                    )
                         ],
                     ),
                 ],
@@ -212,18 +262,54 @@ app.layout = html.Div(children=[
 )
 
 @app.callback(
-    [Output('map-plot', 'figure')],
+    [Output('map-plot', 'figure'),
+     Output('localities-selector', 'options'),
+     Output('localities-selector', 'disabled'),
+     Output('sector-selector', 'options'),
+     Output('sector-selector', 'disabled')],
     [Input('map-plot', 'clickData'),
-    Input('location-dropdown', 'value')])
+     Input('location-dropdown', 'value'),
+     Input('localities-selector', 'value'),
+     Input('sector-selector', 'value')])
 
-def display_click_data(clickData, loc):
-    geojson = select_json_file(loc)
+def control_display_data(clickData, loc, localities, sectors):
+
+    loca_array = []
+    loca_state = True
+    sect_array = []
+    sect_state = True
+    geojson = {}
+    backup = []
+    loca = []
+    sect = []
 
     if loc:
-        lat = list_of_locations[loc]['lat']
-        lon = list_of_locations[loc]['lon']
-        zoom = 11
+        geojson, x, y, loca = select_zone_json_file(loc)
+        lat = y
+        lon = x
+        zoom = 10
+        loca_array = [{"label": i,"value": i} for i in loca]
+        loca_state = False
+        backup.append(loc)
+        if localities:
+            if localities in loca:
+                geojson, x, y, sect = select_loca_json_file(localities, geojson)
+                lat = y
+                lon = x
+                zoom = 11
+                sect_array = [{"label": i,"value": i} for i in sect]
+                sect_state = False
+            else:
+                sect_state = True
+            if sectors:
+                if sectors in sect:
+                    geojson, x, y = select_sec_json_file(sectors, geojson)
+                    lat = y
+                    lon = x
+                    zoom = 14
     else:
+        with open('/home/shade/DS4A/Grupo35-DS4A/Final_Project/3.App/Transform_Data/All_loc_geo.json') as f:
+            geojson = json.loads(f.read())
         lat = 4.6109886
         lon = -74.072092
         zoom = 9
@@ -249,7 +335,7 @@ def display_click_data(clickData, loc):
                 )
         }
     if clickData is not None:
-        point = centroides[centroides['SCaCodigo'] == click_select_1['points'][0]['location']]
+        point = centroides[centroides['SCaCodigo'] == clickData['points'][0]['location']]
         print (point['lat'])
         print (point['long'])
         figure = { 
@@ -272,15 +358,15 @@ def display_click_data(clickData, loc):
                         mapbox_center={"lat": 4.6109886, "lon": -74.072092}
                     )
             }
-    return [figure]
+
+    return [figure, loca_array, loca_state, sect_array, sect_state]
 
 @app.callback(
     Output('tabs-grap', 'children'),
     [Input('tabs', 'value'),
-     Input('filter_1', 'value'),
-     Input('filter_2', 'value')])
+     Input('filter_1', 'value')])
 
-def render_content(tab, click_select_1, click_select_2):
+def render_content(tab, click_select_1):
     if tab == 'tab-1':
         if click_select_1 == None:
             click_select_1 = 'Price'
@@ -303,11 +389,9 @@ def render_content(tab, click_select_1, click_select_2):
     
     elif tab == 'tab-2':
         if click_select_1 == None:
-            click_select_1 = 'Price'
-        if click_select_2 == None:
-            click_select_2 = 'Rooms'
+            click_select_1 = 'Rooms'
 
-        df_g = df.groupby(click_select_2)
+        df_g = df.groupby(click_select_1)
 
         x = []
         y = []
@@ -325,7 +409,7 @@ def render_content(tab, click_select_1, click_select_2):
         figure={
             'data': data,
             'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
-                                xaxis={"title": click_select_2, "showgrid": True},
+                                xaxis={"title": click_select_1, "showgrid": True},
                                 yaxis={"title": "Price", "showgrid": True})}
 
         return html.Div([
@@ -335,18 +419,37 @@ def render_content(tab, click_select_1, click_select_2):
 
     elif tab == 'tab-3':
         if click_select_1 == None:
-            click_select_1 = 'Price'
+            click_select_1 = 'Rooms'
+
+        x = []
+        z1 = []
+        z = []
+        y = df[click_select_1].unique().tolist()
+        range_p = (df['Price'].max() - df['Price'].min())/10
+
+        for i in range(1,11):
+            if i != 1:
+                precio_ant = df['Price'].min() + (range_p * (i-1))
+            else:
+                precio_ant = 0
+                
+            precio = df['Price'].min() + (range_p * i)
+            x.append(precio)
+
+            for j in y:
+                z1.append(df[(df[click_select_1] == j) & (df['Price'] >= precio_ant) & (df['Price'] <= precio)]['Price'].count())
+                
+            z.append(z1)
+            z1 = []
 
         data = []
-        data.append(go.Histogram(
-            x=df[click_select_1], opacity=0.7, name="Male", marker={"line": {"color": "#dd1f70", "width": 0.2}}
-        ))
+        data.append(go.Heatmap(y=x, z=z, colorscale='hsv', colorbar={"title": "Percentage"}, showscale=True))
 
         figure={
             'data': data,
             'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
-                                xaxis={"title": click_select_1, "showgrid": False},
-                                yaxis={"title": "Count", "showgrid": False})}
+                                xaxis={"title": click_select_1, "showgrid": True},
+                                yaxis={"title": "Price", "showgrid": True})}
 
         return html.Div([
                 dcc.Graph(id='group-plots',
@@ -355,11 +458,9 @@ def render_content(tab, click_select_1, click_select_2):
 
     elif tab == 'tab-4':
         if click_select_1 == None:
-            click_select_1 = 'Price'
-        if click_select_2 == None:
-            click_select_2 = 'Rooms'
+            click_select_1 = 'Rooms'
 
-        df_g = df.groupby(click_select_2)
+        df_g = df.groupby(click_select_1)
 
         x = []
         y = []
@@ -383,7 +484,7 @@ def render_content(tab, click_select_1, click_select_2):
         figure={
             'data': data,
             'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
-                                xaxis={"title": click_select_2, "showgrid": True},
+                                xaxis={"title": click_select_1, "showgrid": True},
                                 yaxis={"title": "Price", "showgrid": True})}
 
         return html.Div([

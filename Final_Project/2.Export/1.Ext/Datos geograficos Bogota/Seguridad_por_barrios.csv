@@ -1,4 +1,4 @@
-,Barrio,acc_transito,homicidios,hurto_autos_x,hurto_comercial,hurto_autos_y,hurto_financieras,hurto_motos,conteo_hurto_residencial,conteo_lesiones_personales,conteo_pirateria,hurto_personas
+id,Barrio,acc_transito,homicidios,hurto_autos_x,hurto_comercial,hurto_autos_y,hurto_financieras,hurto_motos,conteo_hurto_residencial,conteo_lesiones_personales,conteo_pirateria,hurto_personas
 0,BELLA SUIZA E-1,21.0,,119.0,112.0,119.0,,103.0,511.0,2716.0,5.0,1772.0
 1,FRANCO E-9,6.0,,2.0,56.0,2.0,,6.0,,6.0,,67.0
 2,BOSA E-7,5.0,,25.0,96.0,25.0,,46.0,48.0,59.0,1.0,381.0
