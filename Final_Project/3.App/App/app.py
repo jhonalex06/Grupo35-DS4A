@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import pandas as pd
 import dash
 import dash_html_components as html
@@ -6,7 +9,7 @@ import plotly.graph_objects as go
 from dash.dependencies import Input, Output
 import json
 
-df = pd.read_csv('web_scrapping_bogota.csv')
+df = pd.read_csv('web_scrapping_bogota.zip')
 df = df[df['Price'] < 1000000000]
 df = df[df['Price'] > 10000000]
 
@@ -98,7 +101,7 @@ styles = {
     }
 }
 
-token = 'pk.eyJ1IjoiamhvbmFsZXgwNiIsImEiOiJjazJ3c2g1c3owNHo1M3BwZnAzN3pnemwzIn0.SkIbPSPHdjtuvHNJuawvGQ'
+token = 'pk.eyJ1IjoiY2Fsc2dlbyIsImEiOiJjanpyYmh6OGgxOWgyM29qc2QzNWk1Ym52In0.Jc2xgWTnJIre_JhUKSdFWA'
 with open('Transform_Data/dloc_1.json') as f:
     geojson = json.loads(f.read())
 
@@ -113,7 +116,7 @@ centroides['SCaCodigo'] = centroides['SCaCodigo'].str.zfill(6)
 app.layout = html.Div(children=[
     html.Div(
         children=[
-            html.H2(children="Real State Bogota", style={"margin-bottom": "0px"}, className="one-half column",)
+            html.H1(children="Real State Bogota", className="twelve column",)
         ],
         className='row flex-display'
     ),
@@ -130,9 +133,7 @@ app.layout = html.Div(children=[
             html.Div(
                 className="pretty_container four columns",
                 children=[
-                    html.Img(
-                        className="logo", src=app.get_asset_url("dash-logo.png")
-                    ),
+                    #html.Img(className="logo", src=app.get_asset_url("dash-logo.png")),
                     html.H2("DASH - REAL STATE BOGOTA APP"),
                     html.P("""Select the location of your dataframe."""),
                     # Change to side-by-side for mobile layout
@@ -187,8 +188,28 @@ app.layout = html.Div(children=[
                                     )
                                 ],
                             ),
+                            html.Hr(),
+                            html.P("""Select feature of interest and add to the map."""),
+                            # Change to side-by-side for mobile layout
+                            dcc.RadioItems(
+                                options=[
+                                    {'label': 'Hospital', 'value': 'HOS'},
+                                    {'label': 'School', 'value': 'SCH'},
+                                    {'label': 'CAI', 'value': 'CAI'},
+                                    {'label': 'Parques', 'value': 'PAR'},
+                                    {'label': 'Bomberos', 'value': 'FIRE'},
+                                    {'label': 'Teatros', 'value': 'TEAT'}
+                                ],
+                                value='HOS',
+                                labelStyle={'display': 'inline-block'}
+                            ),
                         ],
                     ),
+                    html.Hr(),
+                    html.P(id='resume', children="Select the location of your dataframe."),
+                    html.P(id='resume1', children="Select the location of your dataframe."),
+                    html.P(id='resume2', children="Select the location of your dataframe."),
+                    html.P(id='resume3', children="Select the location of your dataframe.")
                 ],
             ),
             ]
@@ -250,7 +271,7 @@ app.layout = html.Div(children=[
                                 ],
                             ),
                         html.Img(
-                        id="zack", className="logo", src=app.get_asset_url("dash-logo.png")
+                        id="zack", className="logo", src=app.get_asset_url("zack2.png")
                     )
                         ],
                     ),
@@ -320,24 +341,21 @@ def control_display_data(clickData, loc, localities, sectors):
                 locations=df_correc['SCaCodigo'],
                 z=df_correc['count'],
                 colorscale='hsv',
-                text=df_correc['SCaNombre'],
+                text=df_correc['SCaNombre'] + '<br>' + df_correc['SCaNombre'],
                 colorbar_title="Number of offers"
-            ),go.Scattermapbox(
-                mode = "markers",
-                lon = [lon], lat = [lat],
-                marker = {'size': 20, 'color': ["cyan"]})],
+            )],
             'layout': go.Layout(
-                    mapbox_style='mapbox://styles/jhonalex06/ck3kjaj3i3u6x1cpjlnzxxjwy',
+                    mapbox_style='mapbox://styles/calsgeo/ck3xtpgfk12c61cmmnt3puusu',
                     mapbox_accesstoken=token,
                     mapbox_zoom=zoom,
                     margin={'t': 0, 'l': 0, 'r': 0, 'b': 0},
                     mapbox_center={"lat": lat, "lon": lon}
                 )
         }
-    if clickData is not None:
+    if clickData is not None and sectors != None:
         point = centroides[centroides['SCaCodigo'] == clickData['points'][0]['location']]
         print (point['lat'])
-        print (point['long'])
+        print (point['long'].tolist())
         figure = { 
                 'data': [go.Choroplethmapbox(
                     geojson=geojson,
@@ -346,16 +364,18 @@ def control_display_data(clickData, loc, localities, sectors):
                     colorscale='hsv',
                     text=df_correc['SCaNombre'],
                     colorbar_title="Thousands USD"
-                ),go.Scattermapbox(
+                ),
+                go.Scattermapbox(
                     mode = "markers",
-                    lon = [-74.072092, -74.092092], lat = [4.6109886, 4.6109886],
+                    #lon = point['long'].tolist(), lat = point['lat'].tolist(),
+                    lon = [-74.099643], lat = [4.6861099143824925],
                     marker = {'size': 20, 'color': ["cyan"]})],
                 'layout': go.Layout(
-                        mapbox_style='mapbox://styles/jhonalex06/ck3kjaj3i3u6x1cpjlnzxxjwy',
+                        mapbox_style='mapbox://styles/calsgeo/ck3xtpgfk12c61cmmnt3puusu',
                         mapbox_accesstoken=token,
-                        mapbox_zoom=9,
+                        mapbox_zoom=14,
                         margin={'t': 0, 'l': 0, 'r': 0, 'b': 0},
-                        mapbox_center={"lat": 4.6109886, "lon": -74.072092}
+                        mapbox_center={"lat": lat, "lon": lon}
                     )
             }
 
@@ -443,7 +463,7 @@ def render_content(tab, click_select_1):
             z1 = []
 
         data = []
-        data.append(go.Heatmap(y=x, z=z, colorscale='hsv', colorbar={"title": "Percentage"}, showscale=True))
+        data.append(go.Heatmap(x=y, y=x, z=z, colorscale='hsv', colorbar={"title": "Percentage"}, showscale=True))
 
         figure={
             'data': data,
