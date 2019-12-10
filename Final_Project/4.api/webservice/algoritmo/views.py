@@ -55,7 +55,8 @@ def datos_compuesto_list(request):
 
     elif request.method == 'POST':
         datos = JSONParser().parse(request)
-        model_log = OLSResults.load("algoritmo/longley_results.pickle")
+        model_log = OLSResults.load("algoritmo/modelo5.pickle")
+        print (model_log.predict(datos))
         response = [{           
            'Predicción':np.exp(model_log.predict(datos)) 
         }]

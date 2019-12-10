@@ -10,7 +10,7 @@ from dash.dependencies import Input, Output
 import json
 from sqlalchemy import create_engine
 
-df = pd.read_csv('web_scrapping_bogota.zip')
+#df = pd.read_csv('web_scrapping_bogota.zip')
 
 #engine = create_engine('postgresql://postgres:NAURpBox6xqQ818bohcy@team35.cg2dtisb0zbb.us-east-2.rds.amazonaws.com/realstate')
 #df = pd.read_sql("SELECT * from realstate.data_full", engine.connect(), parse_dates=('OCCURRED_ON_DATE',))
@@ -18,6 +18,19 @@ df = pd.read_csv('/home/shade/DS4A/Grupo35-DS4A/Final_Project/2.Export/2.Final/d
 df = df[df['precio'] < 1000000000]
 df = df[df['precio'] > 10000000]
 df = df[df['area'] > 0]
+df = df[df['estrato'] > 0]
+
+df = df[['area','edad','estrato','latitude','longitude','num_banos','num_garages','numero_habitaciones','piso_interior',
+             'piso_ubicacion','precio','precio_administracion','tipo_inmueble','sector_catastral','CountBibliotecas','CountCanchasSinteticas',
+             'CountCicloParqueadero','CountColegios','CountFarmacia','CountEPS','CountMuseos','CountSITP','CountParquesUrbanos',
+             'CountTeatros','LocNombre','CountRestaurantes','CountIglesias','CountCAIS','Count_loc_DelitosSexuales','Count_loc_Hurtos',
+             'zona']]
+
+df.columns = ['Area (m2)','Age (Years)','Stratum','Latitude','Longitude','Num_bathrooms','Num_Garages','Num_Rooms','Interior_Floor',
+              'Floor','Price','Administration_Fee','Type','Neighborhood','Count_Libraries','Count_FootballFields',
+              'Count_BikeParking','Count_Schools','Count_Pharmacy','Count_IPS','Count_Museums','Count_SITP','Count_Parks',
+              'Count_Theaters','Localitie','Count_Restaurants','Count_ReligiousCenters','Count_CAIs','Count_SexualCrimes2019','Count_Local_larceny2019',
+              'Zone']
 
 list_of_locations = {
     "Nororiente": [1,2],
@@ -198,15 +211,13 @@ app.layout = html.Div(children=[
                             html.P("""Select feature of interest and add to the map."""),
                             # Change to side-by-side for mobile layout
                             dcc.RadioItems(
+                                id="items-selector",
                                 options=[
-                                    {'label': 'Hospital', 'value': 'HOS'},
-                                    {'label': 'School', 'value': 'SCH'},
-                                    {'label': 'CAI', 'value': 'CAI'},
-                                    {'label': 'Parques', 'value': 'PAR'},
-                                    {'label': 'Bomberos', 'value': 'FIRE'},
-                                    {'label': 'Teatros', 'value': 'TEAT'}
+                                    {'label': 'hotel', 'value': 'lodging'},
+                                    {'label': 'bike', 'value': 'bicycle'},
+                                    {'label': 'museum', 'value': 'museum'}
                                 ],
-                                value='HOS',
+                                value='hotel',
                                 labelStyle={'display': 'inline-block'}
                             ),
                         ],
@@ -304,11 +315,11 @@ def resume_variables(sector):
     area = ''
 
     if sector != None:
-        df_sector = df[df['sector_catastral'] == sector.lower()]
-        price = 'The price per square meters is: $ {0:.2f}'.format((df_sector['precio']/ df_sector['area']).mean())
-        rooms = 'The average of rooms is: {0:.2f}'.format(df_sector['numero_habitaciones'].mean())
-        baths = 'The average of baths is: {0:.2f}'.format(df_sector['num_banos'].mean())
-        area = 'The average of area is: {0:.2f} square meters'.format(df_sector['area'].mean())
+        df_sector = df[df['Neighborhood'] == sector.lower()]
+        price = 'The price per square meters is: $ {0:.2f}'.format((df_sector['Price']/ df_sector['Area (m2)']).mean())
+        rooms = 'The average of rooms is: {0:.2f}'.format(df_sector['Num_Rooms'].mean())
+        baths = 'The average of baths is: {0:.2f}'.format(df_sector['Num_bathrooms'].mean())
+        area = 'The average of area is: {0:.2f} square meters'.format(df_sector['Area (m2)'].mean())
 
     return [price, rooms, baths, area]
 
@@ -321,9 +332,10 @@ def resume_variables(sector):
     [Input('map-plot', 'clickData'),
      Input('location-dropdown', 'value'),
      Input('localities-selector', 'value'),
-     Input('sector-selector', 'value')])
+     Input('sector-selector', 'value'),
+     Input('items-selector', 'value')])
 
-def control_display_data(clickData, loc, localities, sectors):
+def control_display_data(clickData, loc, localities, sectors, item):
 
     loca_array = []
     loca_state = True
@@ -370,7 +382,7 @@ def control_display_data(clickData, loc, localities, sectors):
                 geojson=geojson,
                 locations=df_correc['SCaCodigo'],
                 z=df_correc['count'],
-                colorscale='hsv',
+                colorscale='temps',
                 text=df_correc['SCaNombre'] + '<br>' + df_correc['SCaNombre'],
                 colorbar_title="Number of offers"
             )],
@@ -389,7 +401,7 @@ def control_display_data(clickData, loc, localities, sectors):
                     geojson=geojson,
                     locations=df_correc['SCaCodigo'],
                     z=df_correc['count'],
-                    colorscale='hsv',
+                    colorscale='deep',
                     text=df_correc['SCaNombre'],
                     colorbar_title="Thousands USD"
                 ),
@@ -397,7 +409,7 @@ def control_display_data(clickData, loc, localities, sectors):
                     mode = "markers",
                     #lon = point['long'].tolist(), lat = point['lat'].tolist(),
                     lon = point['lat'].tolist(), lat = point['long'].tolist(),
-                    marker = {'size': 20, 'color': ["cyan"]})],
+                    marker = {'size': 20, 'symbol': [item]})],
                 'layout': go.Layout(
                         mapbox_style='mapbox://styles/calsgeo/ck3xtpgfk12c61cmmnt3puusu',
                         mapbox_accesstoken=token,
@@ -417,7 +429,7 @@ def control_display_data(clickData, loc, localities, sectors):
 def render_content(tab, click_select_1):
     if tab == 'tab-1':
         if click_select_1 == None:
-            click_select_1 = 'precio'
+            click_select_1 = 'Price'
 
         data = []
         data.append(go.Histogram(
@@ -437,7 +449,7 @@ def render_content(tab, click_select_1):
     
     elif tab == 'tab-2':
         if click_select_1 == None:
-            click_select_1 = 'numero_habitaciones'
+            click_select_1 = 'Num_Rooms'
 
         df_g = df.groupby(click_select_1)
 
@@ -446,7 +458,7 @@ def render_content(tab, click_select_1):
 
         for i in df_g:
             x.append(i[0])
-            y.append(i[1]['precio'].mean())
+            y.append(i[1]['Price'].mean())
 
         data = []
         data.append(go.Scatter(
@@ -458,7 +470,7 @@ def render_content(tab, click_select_1):
             'data': data,
             'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
                                 xaxis={"title": click_select_1, "showgrid": True},
-                                yaxis={"title": "precio", "showgrid": True})}
+                                yaxis={"title": "Price", "showgrid": True})}
 
         return html.Div([
                 dcc.Graph(id='group-plots',
@@ -467,37 +479,40 @@ def render_content(tab, click_select_1):
 
     elif tab == 'tab-3':
         if click_select_1 == None:
-            click_select_1 = 'estrato'
+            click_select_1 = 'Stratum'
 
         x = []
         z1 = []
         z = []
         y = df[click_select_1].unique().tolist()
-        range_p = (df['precio'].max() - df['precio'].min())/10
+        y.sort()
+        print (y)
+        range_p = (df['Price'].max() - df['Price'].min())/10
 
         for i in range(1,11):
             if i != 1:
-                precio_ant = df['precio'].min() + (range_p * (i-1))
+                precio_ant = df['Price'].min() + (range_p * (i-1))
             else:
                 precio_ant = 0
                 
-            precio = df['precio'].min() + (range_p * i)
+            precio = df['Price'].min() + (range_p * i)
             x.append(precio)
 
             for j in y:
-                z1.append(df[(df[click_select_1] == j) & (df['precio'] >= precio_ant) & (df['precio'] <= precio)]['precio'].count())
+                z1.append(df[(df[click_select_1] == j) & (df['Price'] >= precio_ant) & (df['Price'] <= precio)]['Price'].count())
                 
             z.append(z1)
             z1 = []
 
         data = []
-        data.append(go.Heatmap(x=y, y=x, z=z, colorscale='hsv', colorbar={"title": "Percentage"}, showscale=True))
+        data.append(go.Heatmap(x=y, y=x, z=z, colorscale='greens', colorbar={"title": "Count"}, showscale=True))
 
         figure={
             'data': data,
             'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
                                 xaxis={"title": click_select_1, "showgrid": True},
-                                yaxis={"title": "precio", "showgrid": True})}
+                                yaxis={"title": "Price", "showgrid": True},
+                                yaxis_tickformat = '$,.2s')}
 
         return html.Div([
                 dcc.Graph(id='group-plots',
@@ -506,7 +521,7 @@ def render_content(tab, click_select_1):
 
     elif tab == 'tab-4':
         if click_select_1 == None:
-            click_select_1 = 'numero_habitaciones'
+            click_select_1 = 'Zone'
 
         df_g = df.groupby(click_select_1)
 
@@ -517,7 +532,7 @@ def render_content(tab, click_select_1):
 
         for i in df_g:
             x.append(i[0])
-            y.append(i[1]['precio'].mean())
+            y.append(i[1]['Price'].mean())
             z.append(len(i[1]))
 
         for i in z:
@@ -531,9 +546,9 @@ def render_content(tab, click_select_1):
 
         figure={
             'data': data,
-            'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
+            'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#dc5948'], 
                                 xaxis={"title": click_select_1, "showgrid": True},
-                                yaxis={"title": "precio", "showgrid": True})}
+                                yaxis={"title": "Price", "showgrid": True})}
 
         return html.Div([
                 dcc.Graph(id='group-plots',
