@@ -8,10 +8,16 @@ import dash_core_components as dcc
 import plotly.graph_objects as go
 from dash.dependencies import Input, Output
 import json
+from sqlalchemy import create_engine
 
 df = pd.read_csv('web_scrapping_bogota.zip')
-df = df[df['Price'] < 1000000000]
-df = df[df['Price'] > 10000000]
+
+#engine = create_engine('postgresql://postgres:NAURpBox6xqQ818bohcy@team35.cg2dtisb0zbb.us-east-2.rds.amazonaws.com/realstate')
+#df = pd.read_sql("SELECT * from realstate.data_full", engine.connect(), parse_dates=('OCCURRED_ON_DATE',))
+df = pd.read_csv('/home/shade/DS4A/Grupo35-DS4A/Final_Project/2.Export/2.Final/data_to_train.zip')
+df = df[df['precio'] < 1000000000]
+df = df[df['precio'] > 10000000]
+df = df[df['area'] > 0]
 
 list_of_locations = {
     "Nororiente": [1,2],
@@ -206,10 +212,10 @@ app.layout = html.Div(children=[
                         ],
                     ),
                     html.Hr(),
-                    html.P(id='resume', children="Select the location of your dataframe."),
-                    html.P(id='resume1', children="Select the location of your dataframe."),
-                    html.P(id='resume2', children="Select the location of your dataframe."),
-                    html.P(id='resume3', children="Select the location of your dataframe.")
+                    html.P(id='resume0', children=""),
+                    html.P(id='resume1', children=""),
+                    html.P(id='resume2', children=""),
+                    html.P(id='resume3', children="")
                 ],
             ),
             ]
@@ -281,6 +287,30 @@ app.layout = html.Div(children=[
         ),
         ]
 )
+
+
+@app.callback(
+    [Output('resume0', 'children'),
+     Output('resume1', 'children'),
+     Output('resume2', 'children'),
+     Output('resume3', 'children')],
+    [Input('sector-selector', 'value')])
+
+def resume_variables(sector):
+
+    price = ''
+    rooms = ''
+    baths = ''
+    area = ''
+
+    if sector != None:
+        df_sector = df[df['sector_catastral'] == sector.lower()]
+        price = 'The price per square meters is: $ {0:.2f}'.format((df_sector['precio']/ df_sector['area']).mean())
+        rooms = 'The average of rooms is: {0:.2f}'.format(df_sector['numero_habitaciones'].mean())
+        baths = 'The average of baths is: {0:.2f}'.format(df_sector['num_banos'].mean())
+        area = 'The average of area is: {0:.2f} square meters'.format(df_sector['area'].mean())
+
+    return [price, rooms, baths, area]
 
 @app.callback(
     [Output('map-plot', 'figure'),
@@ -354,8 +384,6 @@ def control_display_data(clickData, loc, localities, sectors):
         }
     if clickData is not None and sectors != None:
         point = centroides[centroides['SCaCodigo'] == clickData['points'][0]['location']]
-        print (point['lat'])
-        print (point['long'].tolist())
         figure = { 
                 'data': [go.Choroplethmapbox(
                     geojson=geojson,
@@ -368,7 +396,7 @@ def control_display_data(clickData, loc, localities, sectors):
                 go.Scattermapbox(
                     mode = "markers",
                     #lon = point['long'].tolist(), lat = point['lat'].tolist(),
-                    lon = [-74.099643], lat = [4.6861099143824925],
+                    lon = point['lat'].tolist(), lat = point['long'].tolist(),
                     marker = {'size': 20, 'color': ["cyan"]})],
                 'layout': go.Layout(
                         mapbox_style='mapbox://styles/calsgeo/ck3xtpgfk12c61cmmnt3puusu',
@@ -389,7 +417,7 @@ def control_display_data(clickData, loc, localities, sectors):
 def render_content(tab, click_select_1):
     if tab == 'tab-1':
         if click_select_1 == None:
-            click_select_1 = 'Price'
+            click_select_1 = 'precio'
 
         data = []
         data.append(go.Histogram(
@@ -409,7 +437,7 @@ def render_content(tab, click_select_1):
     
     elif tab == 'tab-2':
         if click_select_1 == None:
-            click_select_1 = 'Rooms'
+            click_select_1 = 'numero_habitaciones'
 
         df_g = df.groupby(click_select_1)
 
@@ -418,7 +446,7 @@ def render_content(tab, click_select_1):
 
         for i in df_g:
             x.append(i[0])
-            y.append(i[1]['Price'].mean())
+            y.append(i[1]['precio'].mean())
 
         data = []
         data.append(go.Scatter(
@@ -430,7 +458,7 @@ def render_content(tab, click_select_1):
             'data': data,
             'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
                                 xaxis={"title": click_select_1, "showgrid": True},
-                                yaxis={"title": "Price", "showgrid": True})}
+                                yaxis={"title": "precio", "showgrid": True})}
 
         return html.Div([
                 dcc.Graph(id='group-plots',
@@ -439,25 +467,25 @@ def render_content(tab, click_select_1):
 
     elif tab == 'tab-3':
         if click_select_1 == None:
-            click_select_1 = 'Rooms'
+            click_select_1 = 'estrato'
 
         x = []
         z1 = []
         z = []
         y = df[click_select_1].unique().tolist()
-        range_p = (df['Price'].max() - df['Price'].min())/10
+        range_p = (df['precio'].max() - df['precio'].min())/10
 
         for i in range(1,11):
             if i != 1:
-                precio_ant = df['Price'].min() + (range_p * (i-1))
+                precio_ant = df['precio'].min() + (range_p * (i-1))
             else:
                 precio_ant = 0
                 
-            precio = df['Price'].min() + (range_p * i)
+            precio = df['precio'].min() + (range_p * i)
             x.append(precio)
 
             for j in y:
-                z1.append(df[(df[click_select_1] == j) & (df['Price'] >= precio_ant) & (df['Price'] <= precio)]['Price'].count())
+                z1.append(df[(df[click_select_1] == j) & (df['precio'] >= precio_ant) & (df['precio'] <= precio)]['precio'].count())
                 
             z.append(z1)
             z1 = []
@@ -469,7 +497,7 @@ def render_content(tab, click_select_1):
             'data': data,
             'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
                                 xaxis={"title": click_select_1, "showgrid": True},
-                                yaxis={"title": "Price", "showgrid": True})}
+                                yaxis={"title": "precio", "showgrid": True})}
 
         return html.Div([
                 dcc.Graph(id='group-plots',
@@ -478,7 +506,7 @@ def render_content(tab, click_select_1):
 
     elif tab == 'tab-4':
         if click_select_1 == None:
-            click_select_1 = 'Rooms'
+            click_select_1 = 'numero_habitaciones'
 
         df_g = df.groupby(click_select_1)
 
@@ -489,7 +517,7 @@ def render_content(tab, click_select_1):
 
         for i in df_g:
             x.append(i[0])
-            y.append(i[1]['Price'].mean())
+            y.append(i[1]['precio'].mean())
             z.append(len(i[1]))
 
         for i in z:
@@ -505,7 +533,7 @@ def render_content(tab, click_select_1):
             'data': data,
             'layout': go.Layout(title="{} Distribution".format(click_select_1), colorway=['#1fddb3', '#c51b8a'], 
                                 xaxis={"title": click_select_1, "showgrid": True},
-                                yaxis={"title": "Price", "showgrid": True})}
+                                yaxis={"title": "precio", "showgrid": True})}
 
         return html.Div([
                 dcc.Graph(id='group-plots',
