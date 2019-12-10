@@ -1,13 +1,14 @@
+import math
+import re
+import string
+import numpy as np
+
 from django.http import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework.renderers import JSONRenderer
 from rest_framework.parsers import JSONParser
-#from algoritmo.neural_network import neural_network,neural_network_tweets
 from django.shortcuts import render
-import math
-import re
-import string
-
+from statsmodels.regression.linear_model import OLSResults
 
 class JSONResponse(HttpResponse):
     """
@@ -54,13 +55,9 @@ def datos_compuesto_list(request):
 
     elif request.method == 'POST':
         datos = JSONParser().parse(request)
-        print (datos)
-        # serializer_medida.pop('senal_transmision')
-        # serializer_medida.pop('senal_reflexion')
+        model_log = OLSResults.load("algoritmo/longley_results.pickle")
         response = [{           
-           'polaridad_Negativo':'0',
-            'polaridad_Neutral':'1',
-            'polaridad_Positivo':'2' 
+           'Predicción':np.exp(model_log.predict(datos)) 
         }]
         return response_cors(JSONResponse(response, status=200))
 
