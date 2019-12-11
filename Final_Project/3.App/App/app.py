@@ -6,8 +6,10 @@ import dash
 import dash_html_components as html
 import dash_core_components as dcc
 import plotly.graph_objects as go
-from dash.dependencies import Input, Output
+import numpy as np
+from dash.dependencies import Input, Output, State
 import json
+import requests
 from sqlalchemy import create_engine
 
 #df = pd.read_csv('web_scrapping_bogota.zip')
@@ -19,6 +21,7 @@ df = df[df['precio'] < 1000000000]
 df = df[df['precio'] > 10000000]
 df = df[df['area'] > 0]
 df = df[df['estrato'] > 0]
+URL = 'http://ec2-3-19-245-73.us-east-2.compute.amazonaws.com:8000/datos_compuestos/'
 
 df = df[['area','edad','estrato','latitude','longitude','num_banos','num_garages','numero_habitaciones','piso_interior',
              'piso_ubicacion','precio','precio_administracion','tipo_inmueble','sector_catastral','CountBibliotecas','CountCanchasSinteticas',
@@ -31,6 +34,8 @@ df.columns = ['Area (m2)','Age (Years)','Stratum','Latitude','Longitude','Num_ba
               'Count_BikeParking','Count_Schools','Count_Pharmacy','Count_IPS','Count_Museums','Count_SITP','Count_Parks',
               'Count_Theaters','Localitie','Count_Restaurants','Count_ReligiousCenters','Count_CAIs','Count_SexualCrimes2019','Count_Local_larceny2019',
               'Zone']
+
+print (np.sort(df['Stratum'].unique()))
 
 list_of_locations = {
     "Nororiente": [1,2],
@@ -217,7 +222,7 @@ app.layout = html.Div(children=[
                                     {'label': 'bike', 'value': 'bicycle'},
                                     {'label': 'museum', 'value': 'museum'}
                                 ],
-                                value='hotel',
+                                value='lodging',
                                 labelStyle={'display': 'inline-block'}
                             ),
                         ],
@@ -253,7 +258,8 @@ app.layout = html.Div(children=[
                         ],
                         multi=False,
                         placeholder="Select a location",
-                    ),             
+                    ),    
+                #html.Img(id="zack", className="logo", src=app.get_asset_url("zack2.png"))         
                 ]),
             html.Div(
                 className="pretty_container four columns",
@@ -265,31 +271,75 @@ app.layout = html.Div(children=[
                                 className="div-for-dropdown",
                                 children=[
                                     # Dropdown for locations on map
-                                    html.P("""Select the Variable of your dataframe."""),
+                                    html.P("""Select the stratum."""),
                                     dcc.Dropdown(
-                                        id="filter_abc",
+                                        id="stratum_id",
                                         options=[
                                             {"label": i, "value": i}
-                                            for i in df.columns
+                                            for i in range(1,7)
                                         ],
                                         multi=False,
-                                        placeholder="Select a location",
+                                        placeholder="Select a stratum",
                                     ),
-                                    html.P("""Select the Variable of your dataframe."""),
+                                    html.P("""Input the Area."""),
+                                    dcc.Input(id="area_id", type="text", placeholder="Input the Area"),
+                                    html.P("""Select the number of Bathrooms."""),
                                     dcc.Dropdown(
-                                        id="filter_2",
+                                        id="baths_id",
                                         options=[
                                             {"label": i, "value": i}
-                                            for i in df.columns
+                                            for i in range(1,11)
                                         ],
                                         multi=False,
-                                        placeholder="Select a location",
-                                    )
+                                        placeholder="Select a number of bathrooms",
+                                    ),
+                                    html.P("""Select the number of Rooms."""),
+                                    dcc.Dropdown(
+                                        id="rooms_id",
+                                        options=[
+                                            {"label": i, "value": i}
+                                            for i in range(1,11)
+                                        ],
+                                        multi=False,
+                                        placeholder="Select a number of rooms",
+                                    ),
+                                    html.P("""Select the number of Garage."""),
+                                    dcc.Dropdown(
+                                        id="garage_id",
+                                        options=[
+                                            {"label": i, "value": i}
+                                            for i in range(1,5)
+                                        ],
+                                        multi=False,
+                                        placeholder="Select a number of Garages",
+                                    ),
+                                    html.P("""Select the number of Floor."""),
+                                    dcc.Dropdown(
+                                        id="floor_id",
+                                        options=[
+                                            {"label": i, "value": i}
+                                            for i in range(1,5)
+                                        ],
+                                        multi=False,
+                                        placeholder="Select a number of Floors",
+                                    ),
+                                    html.P("""Select the Type."""),
+                                    dcc.Dropdown(
+                                        id="type_id",
+                                        options=[
+                                            {"label": i, "value": i}
+                                            for i in np.sort(df['Type'].unique())
+                                        ],
+                                        multi=False,
+                                        placeholder="Select a Type",
+                                    ),
+                                    html.Hr(),
+                                    html.Button('Predict', id='button'),
+                                    html.Hr(),
+                                    html.H2(id='result_prediction', children='jhon'),
+                                    html.Hr(),
                                 ],
                             ),
-                        html.Img(
-                        id="zack", className="logo", src=app.get_asset_url("zack2.png")
-                    )
                         ],
                     ),
                 ],
@@ -298,6 +348,79 @@ app.layout = html.Div(children=[
         ),
         ]
 )
+
+@app.callback(
+    [Output('result_prediction', 'children')],
+    [Input('button', 'n_clicks'),
+     Input('stratum_id', 'value'),
+     Input('location-dropdown', 'value'),
+     Input('area_id', 'value'),
+     Input('baths_id', 'value'),
+     Input('rooms_id', 'value'),
+     Input('garage_id', 'value'),
+     Input('items-selector', 'value'),
+     Input('floor_id', 'value'),
+     Input('type_id', 'value'),
+     Input('localities-selector', 'value'),
+     Input('sector-selector', 'value')])
+
+def prediction_model(n_clicks, stratum, zona, area, baths, rooms, garage, item_counts, floor, types, localities, sector):
+    if n_clicks is not None and stratum is not None and zona is not None and area is not None and baths is not None and rooms is not None and garage is not None and item_counts is not None and floor is not None and types is not None and localities is not None and sector is not None:
+        estrato = stratum
+        zona = zona
+        area = area
+        banos = baths
+        hab = rooms
+        garajes = garage
+
+        if item_counts == 'lodging':
+            countah = 100
+            countcp = 0
+            countms = 0
+        if item_counts == 'bicycle':
+            countah = 0
+            countcp = 100
+            countms = 0
+        if item_counts == 'museum':
+            countah = 0
+            countcp = 0
+            countms = 100
+
+        piso_int = floor
+
+        geojson, x, y, loca = select_zone_json_file(zona)
+        geojson, x, y = select_sec_json_file(sector, geojson)
+        lat = y
+        long = x
+
+        tip_inmu = types
+        loc = localities
+
+        param = {
+        'estrato':[estrato], 
+        'zona':[zona], 
+        'log_area':[np.log(float(area))], 
+        'num_banos':[banos],
+        'numero_habitaciones':[hab], 
+        'num_garages':[garajes], 
+        'Count_loc_AlojamientoHospedaje':[countah], 
+        'Count_loc_CicloParqueadero':[countcp], 
+        'Count_loc_Museos':[countms],
+        'piso_interior':[piso_int],
+        'latitude':[lat],
+        'longitude':[long],
+        'tipo_inmueble':[tip_inmu],
+        'Locnombre':[loc]}
+   
+        r = requests.post(url = URL, json = param)
+        print (r.json()[0].keys())
+        result = r.json()
+
+    print (n_clicks)
+    if n_clicks is None:
+        return ['']
+    else:
+        return ['Your prediction is: {0:.0f}'.format(result[0].values()[0][0])]
 
 
 @app.callback(
@@ -316,10 +439,10 @@ def resume_variables(sector):
 
     if sector != None:
         df_sector = df[df['Neighborhood'] == sector.lower()]
-        price = 'The price per square meters is: $ {0:.2f}'.format((df_sector['Price']/ df_sector['Area (m2)']).mean())
-        rooms = 'The average of rooms is: {0:.2f}'.format(df_sector['Num_Rooms'].mean())
-        baths = 'The average of baths is: {0:.2f}'.format(df_sector['Num_bathrooms'].mean())
-        area = 'The average of area is: {0:.2f} square meters'.format(df_sector['Area (m2)'].mean())
+        price = 'The price per square meters is: $ {0:.0f}'.format((df_sector['Price']/ df_sector['Area (m2)']).mean())
+        rooms = 'The average of rooms is: {0:.1f}'.format(df_sector['Num_Rooms'].mean())
+        baths = 'The average of baths is: {0:.1f}'.format(df_sector['Num_bathrooms'].mean())
+        area = 'The average of area is: {0:.1f} square meters'.format(df_sector['Area (m2)'].mean())
 
     return [price, rooms, baths, area]
 
@@ -486,7 +609,6 @@ def render_content(tab, click_select_1):
         z = []
         y = df[click_select_1].unique().tolist()
         y.sort()
-        print (y)
         range_p = (df['Price'].max() - df['Price'].min())/10
 
         for i in range(1,11):
