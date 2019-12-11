@@ -39,7 +39,7 @@ def transfor(dato):
     
 
 def start(update, context):
-    update.message.reply_text("Welcome to my awesome bot!")
+    update.message.reply_text("Hi I’m ready to help you, based on your inputs and our model I will estimate the price of your new house in Bogota, if you want to do a prediction use: /find")
 
 def echo(update, context):
     context.user_data['area'] = update.message.text
@@ -84,7 +84,7 @@ def echo(update, context):
     result = r.json()
 
     context.bot.send_message(chat_id=update.effective_chat.id, text=message)
-    context.bot.send_message(chat_id=update.effective_chat.id, text='The price of your property is: COP {} Aprox'.format(result[0]['Predicción'][0]))
+    context.bot.send_message(chat_id=update.effective_chat.id, text='The price of your property is: COP {0:.0f} Aprox'.format(result[0]['Predicción'][0]))
 
 def caps(update, context):
     print (update.callback_query)
@@ -111,14 +111,14 @@ def type_rs(update, context):
 
     lang_keyboard = InlineKeyboardMarkup(lan_group)
 
-    context.bot.send_message(chat_id=update.effective_chat.id, text='Where do you want your new house?',
+    context.bot.send_message(chat_id=update.effective_chat.id, text='What zone do you want your new house?',
                 reply_markup=lang_keyboard)
 
     return ZERO
 
 def zone(update, context):
     query = update.callback_query
-    query.edit_message_text(text="You selected type: {}".format(query.data))
+    query.edit_message_text(text="You selected the zone: {}".format(query.data))
     context.user_data['zona'] = query.data
 
     names = df[df['zona'] == '{}'.format(query.data)]['LocNombre'].unique() 
@@ -136,14 +136,14 @@ def zone(update, context):
 
     lang_keyboard = InlineKeyboardMarkup(lan_group)
 
-    context.bot.send_message(chat_id=update.effective_chat.id, text='Where do you want your new house?',
+    context.bot.send_message(chat_id=update.effective_chat.id, text='What locality do you want your new house?',
                 reply_markup=lang_keyboard)
 
     return FIRST
 
 def stratum(update, context):
     query = update.callback_query
-    query.edit_message_text(text="You selected type: {}".format(query.data))
+    query.edit_message_text(text="You selected the locality: {}".format(query.data))
     context.user_data['localidad'] = query.data
 
 
@@ -163,7 +163,7 @@ def stratum(update, context):
 
     lang_keyboard = InlineKeyboardMarkup(lan_group)
 
-    context.bot.send_message(chat_id=update.effective_chat.id, text='What localities do you have?',
+    context.bot.send_message(chat_id=update.effective_chat.id, text='What sector do you want your new house?',
                 reply_markup=lang_keyboard)
 
     return SECOND
@@ -175,7 +175,7 @@ def stratum(update, context):
 
 def rooms(update, context):
     query = update.callback_query
-    query.edit_message_text(text="You selected stratum: {}".format(query.data))
+    query.edit_message_text(text="You selected the sector: {}".format(query.data))
     lang_1 = InlineKeyboardButton(text="One \U00000031\U000020E3", callback_data='One')
     lang_2 = InlineKeyboardButton(text="Two \U00000032\U000020E3", callback_data="Two")
     lang_3 = InlineKeyboardButton(text="Three \U00000033\U000020E3", callback_data="Three")
@@ -183,7 +183,7 @@ def rooms(update, context):
 
     lang_keyboard = InlineKeyboardMarkup([[lang_1, lang_2],[lang_3, lang_4]])
 
-    context.bot.send_message(chat_id=update.effective_chat.id, text='How many rooms do you have? ',
+    context.bot.send_message(chat_id=update.effective_chat.id, text='How many rooms do you want for your new house?',
                 reply_markup=lang_keyboard)
 
     with open('All_loc_geo.json') as f:
@@ -218,7 +218,7 @@ def bathrooms(update, context):
 
     lang_keyboard = InlineKeyboardMarkup([[lang_1, lang_2],[lang_3, lang_4]])
 
-    context.bot.send_message(chat_id=update.effective_chat.id, text='How many bathrooms do you have?',
+    context.bot.send_message(chat_id=update.effective_chat.id, text='How many bathrooms do you want for your new house?',
                 reply_markup=lang_keyboard)
 
     return FOURTH
@@ -234,14 +234,14 @@ def garages(update, context):
 
     lang_keyboard = InlineKeyboardMarkup([[lang_1, lang_2],[lang_3, lang_4]])
 
-    context.bot.send_message(chat_id=update.effective_chat.id, text='How many garages do you have?',
+    context.bot.send_message(chat_id=update.effective_chat.id, text='How many garages do you want for your new house?',
                 reply_markup=lang_keyboard)
 
     return FIFTH
 
 def estrato(update, context):
     query = update.callback_query
-    query.edit_message_text(text="You selected {} garages".format(query.data))
+    query.edit_message_text(text="You selected {} garages.".format(query.data))
     context.user_data['garages'] = query.data
     lang_1 = InlineKeyboardButton(text="One \U00000031\U000020E3", callback_data='One')
     lang_2 = InlineKeyboardButton(text="Two \U00000032\U000020E3", callback_data="Two")
@@ -252,14 +252,14 @@ def estrato(update, context):
 
     lang_keyboard = InlineKeyboardMarkup([[lang_1, lang_2],[lang_3, lang_4],[lang_5, lang_6]])
 
-    context.bot.send_message(chat_id=update.effective_chat.id, text='How many stratums do you have?',
+    context.bot.send_message(chat_id=update.effective_chat.id, text='Which stratum do you prefer?',
                 reply_markup=lang_keyboard)
 
     return SIXTH
 
 def tipo(update, context):
     query = update.callback_query
-    query.edit_message_text(text="You selected {} stratum".format(query.data))
+    query.edit_message_text(text="You selected the stratum {}.".format(query.data))
     context.user_data['estrato'] = query.data
     names = df['tipo_inmueble'].unique() 
     lan = []
@@ -276,7 +276,7 @@ def tipo(update, context):
 
     lang_keyboard = InlineKeyboardMarkup(lan_group)
 
-    context.bot.send_message(chat_id=update.effective_chat.id, text='What type of house do you want?',
+    context.bot.send_message(chat_id=update.effective_chat.id, text='What type of property do you prefer?',
                 reply_markup=lang_keyboard)
 
     return SEVEN
@@ -284,8 +284,8 @@ def tipo(update, context):
 def area(update, context):
     query = update.callback_query
     context.user_data['tipo'] = query.data
-    query.edit_message_text(text="You selected {} bathrooms".format(query.data))
-    context.bot.send_message(chat_id=update.effective_chat.id, text='Enter the Area Please')
+    query.edit_message_text(text="You selected type of property {} bathrooms".format(query.data))
+    context.bot.send_message(chat_id=update.effective_chat.id, text='Input the Area do you want for your new house')
 
 start_handler = CommandHandler('start', start)
 echo_handler = MessageHandler(Filters.text, echo)
