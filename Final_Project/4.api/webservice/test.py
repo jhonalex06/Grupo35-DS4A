@@ -4,7 +4,7 @@ import pandas as pd
 from statsmodels.regression.linear_model import OLSResults
 
 
-URL2 = 'http://ec2-3-19-245-73.us-east-2.compute.amazonaws.com:8000/datos_compuestos/'
+URL2 = 'http://3.17.210.131:8000/datos_compuestos/'
 
 def personal():
 
@@ -27,9 +27,9 @@ def personal():
     param = {
     'estrato':[estrato], 
     'zona':[zona], 
-    'log_area':[np.log(area)], 
-    'num_banos':[banos],
+    'log_area':[np.log(area)],
     'numero_habitaciones':[hab], 
+    'num_banos':[banos], 
     'num_garages':[garajes], 
     'Count_loc_AlojamientoHospedaje':[countah], 
     'Count_loc_CicloParqueadero':[countcp], 
